@@ -2,10 +2,10 @@
 
 Football data for Greece includes:
 
-- Superleague
+- Super League
 
 
-Note: The Alpha Ethniki changed to Superleague starting with the 2006-07 season.
+Note: The Alpha Ethniki changed to Super League starting with the 2006-07 season.
 
 
 Example - [`2013-14/superleague.csv`](2013-14/superleague.csv):
