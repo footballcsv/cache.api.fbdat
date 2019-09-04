@@ -8,9 +8,9 @@ Football data for Greece includes:
 Note: The Alpha Ethniki changed to Super League starting with the 2006-07 season.
 
 
-Example - [`2013-14/superleague.csv`](2013-14/1-superleague.csv):
+Example - [`2013-14/gr.1.csv`](2013-14/gr.1.csv):
 
-~~~
+```
 2013-08-17,Atromitos,Ergotelis,2-2,1-2
 2013-08-17,PAOK,Xanthi,3-0,1-0
 2013-08-17,Platanias,Veria,2-2,2-0
@@ -21,7 +21,7 @@ Example - [`2013-14/superleague.csv`](2013-14/1-superleague.csv):
 2013-08-18,Panathinaikos,Panetolikos,2-0,1-0
 2013-08-19,Kallonis,Olympiakos,0-1,0-0
 ...
-~~~
+```
 
 
 ## Questions? Comments?
