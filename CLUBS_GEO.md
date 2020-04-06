@@ -1,0 +1,57 @@
+# Clubs by Geo(graphy)
+
+- **Athens** (10): 
+  - AEK Athens FC  (3) AEK · AEK Athens · AEK Athen [de]
+  - APO Akratitos  (1) Akratitos
+  - Apollon Smyrnis FC  (1) Apollon
+  - Athinaikos AS FC  (1) Athinaikos
+  - Atromitos FC  (2) Atromitos · Atromitos Athen [de]
+  - Chalkidona FC  (1) Chalkidona
+  - Egaleo FC  (1) Egaleo
+  - Ethnikos Asteras FC  (2) Ethnikos Asteras · Eth Asteras
+  - Panathinaikos FC  (1) Panathinaikos
+  - Panionios GSS  (2) Panionios · Panionios Athen [de]
+- **Thessaloniki** (3): 
+  - Aris Thessaloniki FC  (2) Aris · Aris Thessaloniki
+  - Iraklis 1908 Thessaloniki FC  (2) Iraklis · Heracles [en]
+  - PAOK FC  (3) PAOK · PAOK Thessal. · PAOK Thessaloniki
+- **Volos** (3): 
+  - Niki Volou FC  (1) Niki Volos
+  - Olympiacos Volou 1937 FC  (3) Olympiacos Volou · Olympiacos Volou FC · Olympiakos Volou
+  - Volos FC  (4) Volos · Volos NFC · Volos Football Club · Volos NPS
+- **Heraklion** (2): 
+  - Ergotelis FC  (1) Ergotelis
+  - OFI Crete FC  (3) OFI · OFI Crete · OFI Kreta FC [de]
+- **Nikaia** (2): 
+  - Ionikos FC  (1) Ionikos
+  - Proodeftiki FC  (2) Proodeftiki · Proodeytiki
+- **Piraeus** (2): 
+  - Ethnikos Piraeus FC  (2) Ethnikos Piraeus · Ethnikos
+  - Olympiacos Piraeus FC  (6) Olympiacos · Olympiacos Piraeus · Olympiacos FC · Olympiakos · Olympiakos Piräus · Olympiakos P.
+- **Agrinio** (1): Panetolikos GFS  (2) Panetolikos · Panaitolikos
+- **Chania** (1): Platanias FC  (3) Platanias · AO Platanias · Athlitikós Ómilos Plataniá Chaníon
+- **Corfu** (1): Kerkyra FC  (2) Kerkyra · Kerkyra Kassiopi
+- **Drama** (1): Doxa Dramas FC  (2) Doxa · Doxa Dramas
+- **Edessa** (1): Edessaikos FC  (1) Edessaikos
+- **Elefsina** (1): Panelefsiniakos FC  (1) Eleysina
+- **Fyli** (1): Thrasyvoulos FC  (1) Thrasyvoulos
+- **Ioannina** (1): PAS Giannina FC  (2) Giannina · Yiannina
+- **Kalamaria** (1): Apollon Pontou FC  (1) Kalamaria
+- **Kalamata** (1): Kalamata FC  (3) Kalamata · Kalamata Football Club · PAE PS Kalamata
+- **Kallithea** (1): Kallithea FC  (2) Kalithea · Kallithea
+- **Kalloni** (1): AEL Kalloni FC  (1) Kallonis
+- **Kastoria** (1): Kastoria FC  (1) Kastoria
+- **Kavala** (1): Kavala FC  (1) Kavala
+- **Komotini** (1): Panthrakikos FC  (1) Panthrakikos
+- **Lamia** (1): PAS Lamia 1964  (3) Lamia · PAS Lamia · Lamia 1964
+- **Larissa** (1): AE Larissa FC  (4) Larissa · Larissa FC · AE Larissa · Larisa
+- **Livadeia** (1): Levadiakos FC  (2) Levadeiakos · Levadiakos
+- **Patras** (1): Panachaiki FC  (1) Panahaiki
+- **Pyrgos** (1): Paniliakos FC  (1) Paniliakos
+- **Serres** (1): Panserraikos FC  (1) Panserraikos
+- **Trikala** (1): Trikala FC  (1) Trikala
+- **Tripoli** (1): Asteras Tripolis FC  (2) Asteras · Asteras Tripolis
+- **Veria** (1): Veria FC  (2) Veria · Veroia
+- **Xanthi** (1): Xanthi FC  (2) Xanthi · Skoda Xanthi FC
+
+
