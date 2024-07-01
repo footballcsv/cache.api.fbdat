@@ -1,16 +1,9 @@
-# Cache - Football Match Updates
+# cache.api.fbdat
 
-Match updates week by week. Leagues include:
-
-- Germany: Bundesliga, 2. Bundesliga, 3. Liga
-- Austria: Bundesliga, 2. Liga
-- ...
-
+cached footballdata api match data in the comma-separated values (csv) format 
 
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
-
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
