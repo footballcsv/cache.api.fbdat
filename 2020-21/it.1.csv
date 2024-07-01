@@ -1,381 +1,381 @@
-Matchday,Date,Team 1,FT,HT,Team 2,Comments
-1,Sat Sep 19 2020,ACF Fiorentina,1-0,0-0,Torino FC,
-1,Sat Sep 19 2020,Hellas Verona FC,3-0 (*),,AS Roma,awarded
-1,Sun Sep 20 2020,Parma Calcio 1913,0-2,0-0,SSC Napoli,
-1,Sun Sep 20 2020,Genoa CFC,4-1,3-1,FC Crotone,
-1,Sun Sep 20 2020,US Sassuolo Calcio,1-1,0-1,Cagliari Calcio,
-1,Sun Sep 20 2020,Juventus FC,3-0,1-0,UC Sampdoria,
-1,Mon Sep 21 2020,AC Milan,2-0,1-0,Bologna FC 1909,
-2,Sat Sep 26 2020,Torino FC,2-4,2-3,Atalanta BC,
-2,Sat Sep 26 2020,UC Sampdoria,2-3,2-1,Benevento Calcio,
-2,Sat Sep 26 2020,Cagliari Calcio,0-2,0-1,SS Lazio,
-2,Sat Sep 26 2020,FC Internazionale Milano,4-3,1-1,ACF Fiorentina,
-2,Sun Sep 27 2020,Spezia Calcio,1-4,1-1,US Sassuolo Calcio,
-2,Sun Sep 27 2020,Hellas Verona FC,1-0,0-0,Udinese Calcio,
-2,Sun Sep 27 2020,SSC Napoli,6-0,1-0,Genoa CFC,
-2,Sun Sep 27 2020,FC Crotone,0-2,0-1,AC Milan,
-2,Sun Sep 27 2020,AS Roma,2-2,2-1,Juventus FC,
-2,Mon Sep 28 2020,Bologna FC 1909,4-1,2-0,Parma Calcio 1913,
-1,Wed Sep 30 2020,Udinese Calcio,0-2,0-1,Spezia Calcio,
-1,Wed Sep 30 2020,Benevento Calcio,2-5,1-4,FC Internazionale Milano,
-1,Wed Sep 30 2020,SS Lazio,1-4,0-3,Atalanta BC,
-3,Fri Oct 2 2020,ACF Fiorentina,1-2,0-1,UC Sampdoria,
-3,Sat Oct 3 2020,US Sassuolo Calcio,4-1,1-0,FC Crotone,
-3,Sat Oct 3 2020,Udinese Calcio,0-1,0-0,AS Roma,
-3,Sun Oct 4 2020,Atalanta BC,5-2,4-1,Cagliari Calcio,
-3,Sun Oct 4 2020,SS Lazio,1-1,0-1,FC Internazionale Milano,
-3,Sun Oct 4 2020,Parma Calcio 1913,1-0,1-0,Hellas Verona FC,
-3,Sun Oct 4 2020,Benevento Calcio,1-0,0-0,Bologna FC 1909,
-3,Sun Oct 4 2020,AC Milan,3-0,0-0,Spezia Calcio,
-3,Sun Oct 4 2020,Juventus FC,3-0 (*),,SSC Napoli,awarded
-4,Sat Oct 17 2020,SSC Napoli,4-1,4-0,Atalanta BC,
-4,Sat Oct 17 2020,FC Internazionale Milano,1-2,1-2,AC Milan,
-4,Sat Oct 17 2020,UC Sampdoria,3-0,2-0,SS Lazio,
-4,Sat Oct 17 2020,FC Crotone,1-1,1-1,Juventus FC,
-4,Sun Oct 18 2020,Bologna FC 1909,3-4,2-1,US Sassuolo Calcio,
-4,Sun Oct 18 2020,Torino FC,2-3,1-2,Cagliari Calcio,
-4,Sun Oct 18 2020,Spezia Calcio,2-2,1-2,ACF Fiorentina,
-4,Sun Oct 18 2020,Udinese Calcio,3-2,1-1,Parma Calcio 1913,
-4,Sun Oct 18 2020,AS Roma,5-2,2-1,Benevento Calcio,
-4,Mon Oct 19 2020,Hellas Verona FC,0-0,0-0,Genoa CFC,
-5,Fri Oct 23 2020,US Sassuolo Calcio,3-3,0-1,Torino FC,
-5,Sat Oct 24 2020,Atalanta BC,1-3,0-1,UC Sampdoria,
-5,Sat Oct 24 2020,Genoa CFC,0-2,0-0,FC Internazionale Milano,
-5,Sat Oct 24 2020,SS Lazio,2-1,0-0,Bologna FC 1909,
-5,Sun Oct 25 2020,Cagliari Calcio,4-2,3-2,FC Crotone,
-5,Sun Oct 25 2020,Parma Calcio 1913,2-2,1-2,Spezia Calcio,
-5,Sun Oct 25 2020,Benevento Calcio,1-2,1-0,SSC Napoli,
-5,Sun Oct 25 2020,ACF Fiorentina,3-2,2-1,Udinese Calcio,
-5,Sun Oct 25 2020,Juventus FC,1-1,0-0,Hellas Verona FC,
-5,Mon Oct 26 2020,AC Milan,3-3,1-1,AS Roma,
-6,Sat Oct 31 2020,FC Crotone,1-2,1-2,Atalanta BC,
-6,Sat Oct 31 2020,FC Internazionale Milano,2-2,0-0,Parma Calcio 1913,
-6,Sat Oct 31 2020,Bologna FC 1909,3-2,1-1,Cagliari Calcio,
-6,Sun Nov 1 2020,Udinese Calcio,1-2,0-1,AC Milan,
-6,Sun Nov 1 2020,Torino FC,3-4,2-1,SS Lazio,
-6,Sun Nov 1 2020,Spezia Calcio,1-4,1-1,Juventus FC,
-6,Sun Nov 1 2020,SSC Napoli,0-2,0-0,US Sassuolo Calcio,
-6,Sun Nov 1 2020,AS Roma,2-0,1-0,ACF Fiorentina,
-6,Sun Nov 1 2020,UC Sampdoria,1-1,1-1,Genoa CFC,
-6,Mon Nov 2 2020,Hellas Verona FC,3-1,1-0,Benevento Calcio,
-3,Wed Nov 4 2020,Genoa CFC,1-2,0-2,Torino FC,
-7,Fri Nov 6 2020,US Sassuolo Calcio,0-0,0-0,Udinese Calcio,
-7,Sat Nov 7 2020,Cagliari Calcio,2-0,0-0,UC Sampdoria,
-7,Sat Nov 7 2020,Benevento Calcio,0-3,0-1,Spezia Calcio,
-7,Sat Nov 7 2020,Parma Calcio 1913,0-0,0-0,ACF Fiorentina,
-7,Sun Nov 8 2020,SS Lazio,1-1,0-1,Juventus FC,
-7,Sun Nov 8 2020,Atalanta BC,1-1,0-0,FC Internazionale Milano,
-7,Sun Nov 8 2020,Torino FC,0-0,0-0,FC Crotone,
-7,Sun Nov 8 2020,Genoa CFC,1-3,0-1,AS Roma,
-7,Sun Nov 8 2020,Bologna FC 1909,0-1,0-1,SSC Napoli,
-7,Sun Nov 8 2020,AC Milan,2-2,1-2,Hellas Verona FC,
-8,Sat Nov 21 2020,FC Crotone,,,SS Lazio,
-8,Sat Nov 21 2020,Spezia Calcio,,,Atalanta BC,
-8,Sat Nov 21 2020,Juventus FC,,,Cagliari Calcio,
-8,Sun Nov 22 2020,ACF Fiorentina,,,Benevento Calcio,
-8,Sun Nov 22 2020,FC Internazionale Milano,,,Torino FC,
-8,Sun Nov 22 2020,AS Roma,,,Parma Calcio 1913,
-8,Sun Nov 22 2020,UC Sampdoria,,,Bologna FC 1909,
-8,Sun Nov 22 2020,Hellas Verona FC,,,US Sassuolo Calcio,
-8,Sun Nov 22 2020,Udinese Calcio,,,Genoa CFC,
-8,Sun Nov 22 2020,SSC Napoli,,,AC Milan,
-9,Sat Nov 28 2020,US Sassuolo Calcio,,,FC Internazionale Milano,
-9,Sat Nov 28 2020,Benevento Calcio,,,Juventus FC,
-9,Sat Nov 28 2020,Atalanta BC,,,Hellas Verona FC,
-9,Sun Nov 29 2020,SS Lazio,,,Udinese Calcio,
-9,Sun Nov 29 2020,AC Milan,,,ACF Fiorentina,
-9,Sun Nov 29 2020,Bologna FC 1909,,,FC Crotone,
-9,Sun Nov 29 2020,Cagliari Calcio,,,Spezia Calcio,
-9,Sun Nov 29 2020,SSC Napoli,,,AS Roma,
-9,Mon Nov 30 2020,Torino FC,,,UC Sampdoria,
-9,Mon Nov 30 2020,Genoa CFC,,,Parma Calcio 1913,
-10,Sat Dec 5 2020,Spezia Calcio,,,SS Lazio,
-10,Sat Dec 5 2020,Juventus FC,,,Torino FC,
-10,Sat Dec 5 2020,FC Internazionale Milano,,,Bologna FC 1909,
-10,Sun Dec 6 2020,Hellas Verona FC,,,Cagliari Calcio,
-10,Sun Dec 6 2020,AS Roma,,,US Sassuolo Calcio,
-10,Sun Dec 6 2020,Parma Calcio 1913,,,Benevento Calcio,
-10,Sun Dec 6 2020,Udinese Calcio,,,Atalanta BC,
-10,Sun Dec 6 2020,FC Crotone,,,SSC Napoli,
-10,Sun Dec 6 2020,UC Sampdoria,,,AC Milan,
-10,Mon Dec 7 2020,ACF Fiorentina,,,Genoa CFC,
-11,Fri Dec 11 2020,US Sassuolo Calcio,,,Benevento Calcio,
-11,Sat Dec 12 2020,FC Crotone,,,Spezia Calcio,
-11,Sat Dec 12 2020,Torino FC,,,Udinese Calcio,
-11,Sat Dec 12 2020,SS Lazio,,,Hellas Verona FC,
-11,Sun Dec 13 2020,Cagliari Calcio,,,FC Internazionale Milano,
-11,Sun Dec 13 2020,SSC Napoli,,,UC Sampdoria,
-11,Sun Dec 13 2020,Atalanta BC,,,ACF Fiorentina,
-11,Sun Dec 13 2020,Bologna FC 1909,,,AS Roma,
-11,Sun Dec 13 2020,Genoa CFC,,,Juventus FC,
-11,Sun Dec 13 2020,AC Milan,,,Parma Calcio 1913,
-12,Tue Dec 15 2020,Udinese Calcio,,,FC Crotone,
-12,Tue Dec 15 2020,Benevento Calcio,,,SS Lazio,
-12,Wed Dec 16 2020,Juventus FC,,,Atalanta BC,
-12,Wed Dec 16 2020,FC Internazionale Milano,,,SSC Napoli,
-12,Wed Dec 16 2020,ACF Fiorentina,,,US Sassuolo Calcio,
-12,Wed Dec 16 2020,Parma Calcio 1913,,,Cagliari Calcio,
-12,Wed Dec 16 2020,Genoa CFC,,,AC Milan,
-12,Wed Dec 16 2020,Spezia Calcio,,,Bologna FC 1909,
-12,Wed Dec 16 2020,Hellas Verona FC,,,UC Sampdoria,
-12,Thu Dec 17 2020,AS Roma,,,Torino FC,
-13,Sat Dec 19 2020,ACF Fiorentina,,,Hellas Verona FC,
-13,Sat Dec 19 2020,UC Sampdoria,,,FC Crotone,
-13,Sat Dec 19 2020,Parma Calcio 1913,,,Juventus FC,
-13,Sun Dec 20 2020,Torino FC,,,Bologna FC 1909,
-13,Sun Dec 20 2020,FC Internazionale Milano,,,Spezia Calcio,
-13,Sun Dec 20 2020,Cagliari Calcio,,,Udinese Calcio,
-13,Sun Dec 20 2020,US Sassuolo Calcio,,,AC Milan,
-13,Sun Dec 20 2020,Benevento Calcio,,,Genoa CFC,
-13,Sun Dec 20 2020,Atalanta BC,,,AS Roma,
-13,Sun Dec 20 2020,SS Lazio,,,SSC Napoli,
-14,Tue Dec 22 2020,FC Crotone,,,Parma Calcio 1913,
-14,Tue Dec 22 2020,Juventus FC,,,ACF Fiorentina,
-14,Wed Dec 23 2020,Hellas Verona FC,,,FC Internazionale Milano,
-14,Wed Dec 23 2020,SSC Napoli,,,Torino FC,
-14,Wed Dec 23 2020,AS Roma,,,Cagliari Calcio,
-14,Wed Dec 23 2020,AC Milan,,,SS Lazio,
-14,Wed Dec 23 2020,Udinese Calcio,,,Benevento Calcio,
-14,Wed Dec 23 2020,UC Sampdoria,,,US Sassuolo Calcio,
-14,Wed Dec 23 2020,Bologna FC 1909,,,Atalanta BC,
-14,Wed Dec 23 2020,Spezia Calcio,,,Genoa CFC,
-15,Sun Jan 3 2021,FC Internazionale Milano,,,FC Crotone,
-15,Sun Jan 3 2021,ACF Fiorentina,,,Bologna FC 1909,
-15,Sun Jan 3 2021,AS Roma,,,UC Sampdoria,
-15,Sun Jan 3 2021,Parma Calcio 1913,,,Torino FC,
-15,Sun Jan 3 2021,Atalanta BC,,,US Sassuolo Calcio,
-15,Sun Jan 3 2021,Cagliari Calcio,,,SSC Napoli,
-15,Sun Jan 3 2021,Genoa CFC,,,SS Lazio,
-15,Sun Jan 3 2021,Spezia Calcio,,,Hellas Verona FC,
-15,Sun Jan 3 2021,Benevento Calcio,,,AC Milan,
-15,Sun Jan 3 2021,Juventus FC,,,Udinese Calcio,
-16,Wed Jan 6 2021,Cagliari Calcio,,,Benevento Calcio,
-16,Wed Jan 6 2021,SS Lazio,,,ACF Fiorentina,
-16,Wed Jan 6 2021,Atalanta BC,,,Parma Calcio 1913,
-16,Wed Jan 6 2021,UC Sampdoria,,,FC Internazionale Milano,
-16,Wed Jan 6 2021,Torino FC,,,Hellas Verona FC,
-16,Wed Jan 6 2021,Bologna FC 1909,,,Udinese Calcio,
-16,Wed Jan 6 2021,US Sassuolo Calcio,,,Genoa CFC,
-16,Wed Jan 6 2021,FC Crotone,,,AS Roma,
-16,Wed Jan 6 2021,SSC Napoli,,,Spezia Calcio,
-16,Wed Jan 6 2021,AC Milan,,,Juventus FC,
-17,Sat Jan 9 2021,AS Roma,,,FC Internazionale Milano,
-17,Mon Jan 11 2021,Juventus FC,,,US Sassuolo Calcio,
-17,Mon Jan 11 2021,ACF Fiorentina,,,Cagliari Calcio,
-17,Mon Jan 11 2021,AC Milan,,,Torino FC,
-17,Mon Jan 11 2021,Parma Calcio 1913,,,SS Lazio,
-17,Mon Jan 11 2021,Udinese Calcio,,,SSC Napoli,
-17,Mon Jan 11 2021,Genoa CFC,,,Bologna FC 1909,
-17,Mon Jan 11 2021,Spezia Calcio,,,UC Sampdoria,
-17,Mon Jan 11 2021,Hellas Verona FC,,,FC Crotone,
-17,Mon Jan 11 2021,Benevento Calcio,,,Atalanta BC,
-18,Mon Jan 18 2021,SS Lazio,,,AS Roma,
-18,Mon Jan 18 2021,Atalanta BC,,,Genoa CFC,
-18,Mon Jan 18 2021,UC Sampdoria,,,Udinese Calcio,
-18,Mon Jan 18 2021,Cagliari Calcio,,,AC Milan,
-18,Mon Jan 18 2021,Torino FC,,,Spezia Calcio,
-18,Mon Jan 18 2021,Bologna FC 1909,,,Hellas Verona FC,
-18,Mon Jan 18 2021,US Sassuolo Calcio,,,Parma Calcio 1913,
-18,Mon Jan 18 2021,FC Crotone,,,Benevento Calcio,
-18,Mon Jan 18 2021,SSC Napoli,,,ACF Fiorentina,
-18,Sun Jan 17 2021,FC Internazionale Milano,,,Juventus FC,
-19,Mon Jan 25 2021,Juventus FC,,,Bologna FC 1909,
-19,Mon Jan 25 2021,ACF Fiorentina,,,FC Crotone,
-19,Mon Jan 25 2021,SS Lazio,,,US Sassuolo Calcio,
-19,Mon Jan 25 2021,AS Roma,,,Spezia Calcio,
-19,Mon Jan 25 2021,AC Milan,,,Atalanta BC,
-19,Mon Jan 25 2021,Parma Calcio 1913,,,UC Sampdoria,
-19,Mon Jan 25 2021,Udinese Calcio,,,FC Internazionale Milano,
-19,Mon Jan 25 2021,Genoa CFC,,,Cagliari Calcio,
-19,Mon Jan 25 2021,Hellas Verona FC,,,SSC Napoli,
-19,Mon Jan 25 2021,Benevento Calcio,,,Torino FC,
-20,Mon Feb 1 2021,SSC Napoli,,,Parma Calcio 1913,
-20,Mon Feb 1 2021,FC Internazionale Milano,,,Benevento Calcio,
-20,Mon Feb 1 2021,AS Roma,,,Hellas Verona FC,
-20,Mon Feb 1 2021,Atalanta BC,,,SS Lazio,
-20,Mon Feb 1 2021,UC Sampdoria,,,Juventus FC,
-20,Mon Feb 1 2021,Cagliari Calcio,,,US Sassuolo Calcio,
-20,Mon Feb 1 2021,Torino FC,,,ACF Fiorentina,
-20,Mon Feb 1 2021,Bologna FC 1909,,,AC Milan,
-20,Mon Feb 1 2021,Spezia Calcio,,,Udinese Calcio,
-20,Mon Feb 1 2021,FC Crotone,,,Genoa CFC,
-21,Mon Feb 8 2021,ACF Fiorentina,,,FC Internazionale Milano,
-21,Mon Feb 8 2021,SS Lazio,,,Cagliari Calcio,
-21,Mon Feb 8 2021,AC Milan,,,FC Crotone,
-21,Mon Feb 8 2021,Parma Calcio 1913,,,Bologna FC 1909,
-21,Mon Feb 8 2021,Udinese Calcio,,,Hellas Verona FC,
-21,Mon Feb 8 2021,Atalanta BC,,,Torino FC,
-21,Mon Feb 8 2021,Genoa CFC,,,SSC Napoli,
-21,Mon Feb 8 2021,US Sassuolo Calcio,,,Spezia Calcio,
-21,Mon Feb 8 2021,Benevento Calcio,,,UC Sampdoria,
-21,Sun Feb 7 2021,Juventus FC,,,AS Roma,
-22,Mon Feb 15 2021,FC Internazionale Milano,,,SS Lazio,
-22,Mon Feb 15 2021,AS Roma,,,Udinese Calcio,
-22,Mon Feb 15 2021,UC Sampdoria,,,ACF Fiorentina,
-22,Mon Feb 15 2021,Cagliari Calcio,,,Atalanta BC,
-22,Mon Feb 15 2021,Torino FC,,,Genoa CFC,
-22,Mon Feb 15 2021,Bologna FC 1909,,,Benevento Calcio,
-22,Mon Feb 15 2021,Spezia Calcio,,,AC Milan,
-22,Mon Feb 15 2021,Hellas Verona FC,,,Parma Calcio 1913,
-22,Mon Feb 15 2021,FC Crotone,,,US Sassuolo Calcio,
-22,Sun Feb 14 2021,SSC Napoli,,,Juventus FC,
-23,Sat Feb 20 2021,AC Milan,,,FC Internazionale Milano,
-23,Mon Feb 22 2021,Juventus FC,,,FC Crotone,
-23,Mon Feb 22 2021,ACF Fiorentina,,,Spezia Calcio,
-23,Mon Feb 22 2021,SS Lazio,,,UC Sampdoria,
-23,Mon Feb 22 2021,Parma Calcio 1913,,,Udinese Calcio,
-23,Mon Feb 22 2021,Atalanta BC,,,SSC Napoli,
-23,Mon Feb 22 2021,Cagliari Calcio,,,Torino FC,
-23,Mon Feb 22 2021,Genoa CFC,,,Hellas Verona FC,
-23,Mon Feb 22 2021,US Sassuolo Calcio,,,Bologna FC 1909,
-23,Mon Feb 22 2021,Benevento Calcio,,,AS Roma,
-24,Mon Mar 1 2021,SSC Napoli,,,Benevento Calcio,
-24,Mon Mar 1 2021,FC Internazionale Milano,,,Genoa CFC,
-24,Mon Mar 1 2021,AS Roma,,,AC Milan,
-24,Mon Mar 1 2021,Udinese Calcio,,,ACF Fiorentina,
-24,Mon Mar 1 2021,UC Sampdoria,,,Atalanta BC,
-24,Mon Mar 1 2021,Torino FC,,,US Sassuolo Calcio,
-24,Mon Mar 1 2021,Bologna FC 1909,,,SS Lazio,
-24,Mon Mar 1 2021,Spezia Calcio,,,Parma Calcio 1913,
-24,Mon Mar 1 2021,Hellas Verona FC,,,Juventus FC,
-24,Mon Mar 1 2021,FC Crotone,,,Cagliari Calcio,
-25,Thu Mar 4 2021,Juventus FC,,,Spezia Calcio,
-25,Thu Mar 4 2021,ACF Fiorentina,,,AS Roma,
-25,Thu Mar 4 2021,SS Lazio,,,Torino FC,
-25,Thu Mar 4 2021,AC Milan,,,Udinese Calcio,
-25,Thu Mar 4 2021,Parma Calcio 1913,,,FC Internazionale Milano,
-25,Thu Mar 4 2021,Atalanta BC,,,FC Crotone,
-25,Thu Mar 4 2021,Cagliari Calcio,,,Bologna FC 1909,
-25,Thu Mar 4 2021,Genoa CFC,,,UC Sampdoria,
-25,Thu Mar 4 2021,US Sassuolo Calcio,,,SSC Napoli,
-25,Thu Mar 4 2021,Benevento Calcio,,,Hellas Verona FC,
-26,Sat Mar 6 2021,Juventus FC,,,SS Lazio,
-26,Mon Mar 8 2021,SSC Napoli,,,Bologna FC 1909,
-26,Mon Mar 8 2021,FC Internazionale Milano,,,Atalanta BC,
-26,Mon Mar 8 2021,ACF Fiorentina,,,Parma Calcio 1913,
-26,Mon Mar 8 2021,AS Roma,,,Genoa CFC,
-26,Mon Mar 8 2021,Udinese Calcio,,,US Sassuolo Calcio,
-26,Mon Mar 8 2021,UC Sampdoria,,,Cagliari Calcio,
-26,Mon Mar 8 2021,Spezia Calcio,,,Benevento Calcio,
-26,Mon Mar 8 2021,Hellas Verona FC,,,AC Milan,
-26,Mon Mar 8 2021,FC Crotone,,,Torino FC,
-27,Mon Mar 15 2021,SS Lazio,,,FC Crotone,
-27,Mon Mar 15 2021,Parma Calcio 1913,,,AS Roma,
-27,Mon Mar 15 2021,Atalanta BC,,,Spezia Calcio,
-27,Mon Mar 15 2021,Cagliari Calcio,,,Juventus FC,
-27,Mon Mar 15 2021,Torino FC,,,FC Internazionale Milano,
-27,Mon Mar 15 2021,Bologna FC 1909,,,UC Sampdoria,
-27,Mon Mar 15 2021,Genoa CFC,,,Udinese Calcio,
-27,Mon Mar 15 2021,US Sassuolo Calcio,,,Hellas Verona FC,
-27,Mon Mar 15 2021,Benevento Calcio,,,ACF Fiorentina,
-27,Sun Mar 14 2021,AC Milan,,,SSC Napoli,
-28,Mon Mar 22 2021,Juventus FC,,,Benevento Calcio,
-28,Mon Mar 22 2021,FC Internazionale Milano,,,US Sassuolo Calcio,
-28,Mon Mar 22 2021,ACF Fiorentina,,,AC Milan,
-28,Mon Mar 22 2021,AS Roma,,,SSC Napoli,
-28,Mon Mar 22 2021,Parma Calcio 1913,,,Genoa CFC,
-28,Mon Mar 22 2021,Udinese Calcio,,,SS Lazio,
-28,Mon Mar 22 2021,UC Sampdoria,,,Torino FC,
-28,Mon Mar 22 2021,Spezia Calcio,,,Cagliari Calcio,
-28,Mon Mar 22 2021,Hellas Verona FC,,,Atalanta BC,
-28,Mon Mar 22 2021,FC Crotone,,,Bologna FC 1909,
-29,Sun Apr 4 2021,SSC Napoli,,,FC Crotone,
-29,Sun Apr 4 2021,SS Lazio,,,Spezia Calcio,
-29,Sun Apr 4 2021,AC Milan,,,UC Sampdoria,
-29,Sun Apr 4 2021,Atalanta BC,,,Udinese Calcio,
-29,Sun Apr 4 2021,Cagliari Calcio,,,Hellas Verona FC,
-29,Sun Apr 4 2021,Torino FC,,,Juventus FC,
-29,Sun Apr 4 2021,Bologna FC 1909,,,FC Internazionale Milano,
-29,Sun Apr 4 2021,Genoa CFC,,,ACF Fiorentina,
-29,Sun Apr 4 2021,US Sassuolo Calcio,,,AS Roma,
-29,Sun Apr 4 2021,Benevento Calcio,,,Parma Calcio 1913,
-30,Mon Apr 12 2021,Juventus FC,,,Genoa CFC,
-30,Mon Apr 12 2021,FC Internazionale Milano,,,Cagliari Calcio,
-30,Mon Apr 12 2021,ACF Fiorentina,,,Atalanta BC,
-30,Mon Apr 12 2021,AS Roma,,,Bologna FC 1909,
-30,Mon Apr 12 2021,Parma Calcio 1913,,,AC Milan,
-30,Mon Apr 12 2021,Udinese Calcio,,,Torino FC,
-30,Mon Apr 12 2021,UC Sampdoria,,,SSC Napoli,
-30,Mon Apr 12 2021,Spezia Calcio,,,FC Crotone,
-30,Mon Apr 12 2021,Hellas Verona FC,,,SS Lazio,
-30,Mon Apr 12 2021,Benevento Calcio,,,US Sassuolo Calcio,
-31,Mon Apr 19 2021,SS Lazio,,,Benevento Calcio,
-31,Mon Apr 19 2021,AC Milan,,,Genoa CFC,
-31,Mon Apr 19 2021,Atalanta BC,,,Juventus FC,
-31,Mon Apr 19 2021,UC Sampdoria,,,Hellas Verona FC,
-31,Mon Apr 19 2021,Cagliari Calcio,,,Parma Calcio 1913,
-31,Mon Apr 19 2021,Torino FC,,,AS Roma,
-31,Mon Apr 19 2021,Bologna FC 1909,,,Spezia Calcio,
-31,Mon Apr 19 2021,US Sassuolo Calcio,,,ACF Fiorentina,
-31,Mon Apr 19 2021,FC Crotone,,,Udinese Calcio,
-31,Sun Apr 18 2021,SSC Napoli,,,FC Internazionale Milano,
-32,Thu Apr 22 2021,Juventus FC,,,Parma Calcio 1913,
-32,Thu Apr 22 2021,SSC Napoli,,,SS Lazio,
-32,Thu Apr 22 2021,AS Roma,,,Atalanta BC,
-32,Thu Apr 22 2021,AC Milan,,,US Sassuolo Calcio,
-32,Thu Apr 22 2021,Udinese Calcio,,,Cagliari Calcio,
-32,Thu Apr 22 2021,Bologna FC 1909,,,Torino FC,
-32,Thu Apr 22 2021,Genoa CFC,,,Benevento Calcio,
-32,Thu Apr 22 2021,Spezia Calcio,,,FC Internazionale Milano,
-32,Thu Apr 22 2021,Hellas Verona FC,,,ACF Fiorentina,
-32,Thu Apr 22 2021,FC Crotone,,,UC Sampdoria,
-33,Mon Apr 26 2021,FC Internazionale Milano,,,Hellas Verona FC,
-33,Mon Apr 26 2021,ACF Fiorentina,,,Juventus FC,
-33,Mon Apr 26 2021,SS Lazio,,,AC Milan,
-33,Mon Apr 26 2021,Parma Calcio 1913,,,FC Crotone,
-33,Mon Apr 26 2021,Atalanta BC,,,Bologna FC 1909,
-33,Mon Apr 26 2021,Cagliari Calcio,,,AS Roma,
-33,Mon Apr 26 2021,Torino FC,,,SSC Napoli,
-33,Mon Apr 26 2021,Genoa CFC,,,Spezia Calcio,
-33,Mon Apr 26 2021,US Sassuolo Calcio,,,UC Sampdoria,
-33,Mon Apr 26 2021,Benevento Calcio,,,Udinese Calcio,
-34,Mon May 3 2021,SSC Napoli,,,Cagliari Calcio,
-34,Mon May 3 2021,SS Lazio,,,Genoa CFC,
-34,Mon May 3 2021,AC Milan,,,Benevento Calcio,
-34,Mon May 3 2021,Udinese Calcio,,,Juventus FC,
-34,Mon May 3 2021,UC Sampdoria,,,AS Roma,
-34,Mon May 3 2021,Torino FC,,,Parma Calcio 1913,
-34,Mon May 3 2021,Bologna FC 1909,,,ACF Fiorentina,
-34,Mon May 3 2021,Hellas Verona FC,,,Spezia Calcio,
-34,Mon May 3 2021,US Sassuolo Calcio,,,Atalanta BC,
-34,Mon May 3 2021,FC Crotone,,,FC Internazionale Milano,
-35,Mon May 10 2021,FC Internazionale Milano,,,UC Sampdoria,
-35,Mon May 10 2021,ACF Fiorentina,,,SS Lazio,
-35,Mon May 10 2021,AS Roma,,,FC Crotone,
-35,Mon May 10 2021,Parma Calcio 1913,,,Atalanta BC,
-35,Mon May 10 2021,Udinese Calcio,,,Bologna FC 1909,
-35,Mon May 10 2021,Genoa CFC,,,US Sassuolo Calcio,
-35,Mon May 10 2021,Spezia Calcio,,,SSC Napoli,
-35,Mon May 10 2021,Hellas Verona FC,,,Torino FC,
-35,Mon May 10 2021,Benevento Calcio,,,Cagliari Calcio,
-35,Sun May 9 2021,Juventus FC,,,AC Milan,
-36,Thu May 13 2021,SSC Napoli,,,Udinese Calcio,
-36,Thu May 13 2021,SS Lazio,,,Parma Calcio 1913,
-36,Thu May 13 2021,Atalanta BC,,,Benevento Calcio,
-36,Thu May 13 2021,UC Sampdoria,,,Spezia Calcio,
-36,Thu May 13 2021,Cagliari Calcio,,,ACF Fiorentina,
-36,Thu May 13 2021,Torino FC,,,AC Milan,
-36,Thu May 13 2021,Bologna FC 1909,,,Genoa CFC,
-36,Thu May 13 2021,US Sassuolo Calcio,,,Juventus FC,
-36,Thu May 13 2021,FC Crotone,,,Hellas Verona FC,
-36,Wed May 12 2021,FC Internazionale Milano,,,AS Roma,
-37,Mon May 17 2021,ACF Fiorentina,,,SSC Napoli,
-37,Mon May 17 2021,AS Roma,,,SS Lazio,
-37,Mon May 17 2021,AC Milan,,,Cagliari Calcio,
-37,Mon May 17 2021,Parma Calcio 1913,,,US Sassuolo Calcio,
-37,Mon May 17 2021,Udinese Calcio,,,UC Sampdoria,
-37,Mon May 17 2021,Genoa CFC,,,Atalanta BC,
-37,Mon May 17 2021,Spezia Calcio,,,Torino FC,
-37,Mon May 17 2021,Hellas Verona FC,,,Bologna FC 1909,
-37,Mon May 17 2021,Benevento Calcio,,,FC Crotone,
-37,Sun May 16 2021,Juventus FC,,,FC Internazionale Milano,
-38,Mon May 24 2021,SSC Napoli,,,Hellas Verona FC,
-38,Mon May 24 2021,FC Internazionale Milano,,,Udinese Calcio,
-38,Mon May 24 2021,Atalanta BC,,,AC Milan,
-38,Mon May 24 2021,UC Sampdoria,,,Parma Calcio 1913,
-38,Mon May 24 2021,Cagliari Calcio,,,Genoa CFC,
-38,Mon May 24 2021,Torino FC,,,Benevento Calcio,
-38,Mon May 24 2021,Bologna FC 1909,,,Juventus FC,
-38,Mon May 24 2021,Spezia Calcio,,,AS Roma,
-38,Mon May 24 2021,US Sassuolo Calcio,,,SS Lazio,
-38,Mon May 24 2021,FC Crotone,,,ACF Fiorentina,
+Matchday,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,Status,UTC
+1,Sat Sep 19 2020,18:00,CEST / UTC+0200,ACF Fiorentina,1-0,0-0,Torino FC,,FINISHED,2020-09-19T16:00:00Z
+1,Sat Sep 19 2020,20:45,CEST / UTC+0200,Hellas Verona FC,3-0 (*),,AS Roma,awarded,AWARDED,2020-09-19T18:45:00Z
+1,Sun Sep 20 2020,12:30,CEST / UTC+0200,Parma Calcio 1913,0-2,0-0,SSC Napoli,,FINISHED,2020-09-20T10:30:00Z
+1,Sun Sep 20 2020,15:00,CEST / UTC+0200,Genoa CFC,4-1,3-1,FC Crotone,,FINISHED,2020-09-20T13:00:00Z
+1,Sun Sep 20 2020,18:00,CEST / UTC+0200,US Sassuolo Calcio,1-1,0-1,Cagliari Calcio,,FINISHED,2020-09-20T16:00:00Z
+1,Sun Sep 20 2020,20:45,CEST / UTC+0200,Juventus FC,3-0,1-0,UC Sampdoria,,FINISHED,2020-09-20T18:45:00Z
+1,Mon Sep 21 2020,20:45,CEST / UTC+0200,AC Milan,2-0,1-0,Bologna FC 1909,,FINISHED,2020-09-21T18:45:00Z
+2,Sat Sep 26 2020,15:00,CEST / UTC+0200,Torino FC,2-4,2-3,Atalanta BC,,FINISHED,2020-09-26T13:00:00Z
+2,Sat Sep 26 2020,18:00,CEST / UTC+0200,UC Sampdoria,2-3,2-1,Benevento Calcio,,FINISHED,2020-09-26T16:00:00Z
+2,Sat Sep 26 2020,18:00,CEST / UTC+0200,Cagliari Calcio,0-2,0-1,SS Lazio,,FINISHED,2020-09-26T16:00:00Z
+2,Sat Sep 26 2020,20:45,CEST / UTC+0200,FC Internazionale Milano,4-3,1-1,ACF Fiorentina,,FINISHED,2020-09-26T18:45:00Z
+2,Sun Sep 27 2020,12:30,CEST / UTC+0200,Spezia Calcio,1-4,1-1,US Sassuolo Calcio,,FINISHED,2020-09-27T10:30:00Z
+2,Sun Sep 27 2020,15:00,CEST / UTC+0200,Hellas Verona FC,1-0,0-0,Udinese Calcio,,FINISHED,2020-09-27T13:00:00Z
+2,Sun Sep 27 2020,18:00,CEST / UTC+0200,SSC Napoli,6-0,1-0,Genoa CFC,,FINISHED,2020-09-27T16:00:00Z
+2,Sun Sep 27 2020,18:00,CEST / UTC+0200,FC Crotone,0-2,0-1,AC Milan,,FINISHED,2020-09-27T16:00:00Z
+2,Sun Sep 27 2020,20:45,CEST / UTC+0200,AS Roma,2-2,2-1,Juventus FC,,FINISHED,2020-09-27T18:45:00Z
+2,Mon Sep 28 2020,20:45,CEST / UTC+0200,Bologna FC 1909,4-1,2-0,Parma Calcio 1913,,FINISHED,2020-09-28T18:45:00Z
+1,Wed Sep 30 2020,18:00,CEST / UTC+0200,Udinese Calcio,0-2,0-1,Spezia Calcio,,FINISHED,2020-09-30T16:00:00Z
+1,Wed Sep 30 2020,18:00,CEST / UTC+0200,Benevento Calcio,2-5,1-4,FC Internazionale Milano,,FINISHED,2020-09-30T16:00:00Z
+1,Wed Sep 30 2020,20:45,CEST / UTC+0200,SS Lazio,1-4,0-3,Atalanta BC,,FINISHED,2020-09-30T18:45:00Z
+3,Fri Oct 2 2020,20:45,CEST / UTC+0200,ACF Fiorentina,1-2,0-1,UC Sampdoria,,FINISHED,2020-10-02T18:45:00Z
+3,Sat Oct 3 2020,15:00,CEST / UTC+0200,US Sassuolo Calcio,4-1,1-0,FC Crotone,,FINISHED,2020-10-03T13:00:00Z
+3,Sat Oct 3 2020,20:45,CEST / UTC+0200,Udinese Calcio,0-1,0-0,AS Roma,,FINISHED,2020-10-03T18:45:00Z
+3,Sun Oct 4 2020,12:30,CEST / UTC+0200,Atalanta BC,5-2,4-1,Cagliari Calcio,,FINISHED,2020-10-04T10:30:00Z
+3,Sun Oct 4 2020,15:00,CEST / UTC+0200,SS Lazio,1-1,0-1,FC Internazionale Milano,,FINISHED,2020-10-04T13:00:00Z
+3,Sun Oct 4 2020,15:00,CEST / UTC+0200,Parma Calcio 1913,1-0,1-0,Hellas Verona FC,,FINISHED,2020-10-04T13:00:00Z
+3,Sun Oct 4 2020,15:00,CEST / UTC+0200,Benevento Calcio,1-0,0-0,Bologna FC 1909,,FINISHED,2020-10-04T13:00:00Z
+3,Sun Oct 4 2020,18:00,CEST / UTC+0200,AC Milan,3-0,0-0,Spezia Calcio,,FINISHED,2020-10-04T16:00:00Z
+4,Sat Oct 17 2020,15:00,CEST / UTC+0200,SSC Napoli,4-1,4-0,Atalanta BC,,FINISHED,2020-10-17T13:00:00Z
+4,Sat Oct 17 2020,18:00,CEST / UTC+0200,FC Internazionale Milano,1-2,1-2,AC Milan,,FINISHED,2020-10-17T16:00:00Z
+4,Sat Oct 17 2020,18:00,CEST / UTC+0200,UC Sampdoria,3-0,2-0,SS Lazio,,FINISHED,2020-10-17T16:00:00Z
+4,Sat Oct 17 2020,20:45,CEST / UTC+0200,FC Crotone,1-1,1-1,Juventus FC,,FINISHED,2020-10-17T18:45:00Z
+4,Sun Oct 18 2020,12:30,CEST / UTC+0200,Bologna FC 1909,3-4,2-1,US Sassuolo Calcio,,FINISHED,2020-10-18T10:30:00Z
+4,Sun Oct 18 2020,15:00,CEST / UTC+0200,Torino FC,2-3,1-2,Cagliari Calcio,,FINISHED,2020-10-18T13:00:00Z
+4,Sun Oct 18 2020,15:00,CEST / UTC+0200,Spezia Calcio,2-2,1-2,ACF Fiorentina,,FINISHED,2020-10-18T13:00:00Z
+4,Sun Oct 18 2020,18:00,CEST / UTC+0200,Udinese Calcio,3-2,1-1,Parma Calcio 1913,,FINISHED,2020-10-18T16:00:00Z
+4,Sun Oct 18 2020,20:45,CEST / UTC+0200,AS Roma,5-2,2-1,Benevento Calcio,,FINISHED,2020-10-18T18:45:00Z
+4,Mon Oct 19 2020,20:45,CEST / UTC+0200,Hellas Verona FC,0-0,0-0,Genoa CFC,,FINISHED,2020-10-19T18:45:00Z
+5,Fri Oct 23 2020,20:45,CEST / UTC+0200,US Sassuolo Calcio,3-3,0-1,Torino FC,,FINISHED,2020-10-23T18:45:00Z
+5,Sat Oct 24 2020,15:00,CEST / UTC+0200,Atalanta BC,1-3,0-1,UC Sampdoria,,FINISHED,2020-10-24T13:00:00Z
+5,Sat Oct 24 2020,18:00,CEST / UTC+0200,Genoa CFC,0-2,0-0,FC Internazionale Milano,,FINISHED,2020-10-24T16:00:00Z
+5,Sat Oct 24 2020,20:45,CEST / UTC+0200,SS Lazio,2-1,0-0,Bologna FC 1909,,FINISHED,2020-10-24T18:45:00Z
+5,Sun Oct 25 2020,12:30,CET / UTC+0100,Cagliari Calcio,4-2,3-2,FC Crotone,,FINISHED,2020-10-25T11:30:00Z
+5,Sun Oct 25 2020,15:00,CET / UTC+0100,Parma Calcio 1913,2-2,1-2,Spezia Calcio,,FINISHED,2020-10-25T14:00:00Z
+5,Sun Oct 25 2020,15:00,CET / UTC+0100,Benevento Calcio,1-2,1-0,SSC Napoli,,FINISHED,2020-10-25T14:00:00Z
+5,Sun Oct 25 2020,18:00,CET / UTC+0100,ACF Fiorentina,3-2,2-1,Udinese Calcio,,FINISHED,2020-10-25T17:00:00Z
+5,Sun Oct 25 2020,20:45,CET / UTC+0100,Juventus FC,1-1,0-0,Hellas Verona FC,,FINISHED,2020-10-25T19:45:00Z
+5,Mon Oct 26 2020,20:45,CET / UTC+0100,AC Milan,3-3,1-1,AS Roma,,FINISHED,2020-10-26T19:45:00Z
+6,Sat Oct 31 2020,15:00,CET / UTC+0100,FC Crotone,1-2,1-2,Atalanta BC,,FINISHED,2020-10-31T14:00:00Z
+6,Sat Oct 31 2020,18:00,CET / UTC+0100,FC Internazionale Milano,2-2,0-0,Parma Calcio 1913,,FINISHED,2020-10-31T17:00:00Z
+6,Sat Oct 31 2020,20:45,CET / UTC+0100,Bologna FC 1909,3-2,1-1,Cagliari Calcio,,FINISHED,2020-10-31T19:45:00Z
+6,Sun Nov 1 2020,12:30,CET / UTC+0100,Udinese Calcio,1-2,0-1,AC Milan,,FINISHED,2020-11-01T11:30:00Z
+6,Sun Nov 1 2020,15:00,CET / UTC+0100,Torino FC,3-4,2-1,SS Lazio,,FINISHED,2020-11-01T14:00:00Z
+6,Sun Nov 1 2020,15:00,CET / UTC+0100,Spezia Calcio,1-4,1-1,Juventus FC,,FINISHED,2020-11-01T14:00:00Z
+6,Sun Nov 1 2020,18:00,CET / UTC+0100,SSC Napoli,0-2,0-0,US Sassuolo Calcio,,FINISHED,2020-11-01T17:00:00Z
+6,Sun Nov 1 2020,18:00,CET / UTC+0100,AS Roma,2-0,1-0,ACF Fiorentina,,FINISHED,2020-11-01T17:00:00Z
+6,Sun Nov 1 2020,20:45,CET / UTC+0100,UC Sampdoria,1-1,1-1,Genoa CFC,,FINISHED,2020-11-01T19:45:00Z
+6,Mon Nov 2 2020,20:45,CET / UTC+0100,Hellas Verona FC,3-1,1-0,Benevento Calcio,,FINISHED,2020-11-02T19:45:00Z
+3,Wed Nov 4 2020,17:00,CET / UTC+0100,Genoa CFC,1-2,0-2,Torino FC,,FINISHED,2020-11-04T16:00:00Z
+7,Fri Nov 6 2020,20:45,CET / UTC+0100,US Sassuolo Calcio,0-0,0-0,Udinese Calcio,,FINISHED,2020-11-06T19:45:00Z
+7,Sat Nov 7 2020,15:00,CET / UTC+0100,Cagliari Calcio,2-0,0-0,UC Sampdoria,,FINISHED,2020-11-07T14:00:00Z
+7,Sat Nov 7 2020,18:00,CET / UTC+0100,Benevento Calcio,0-3,0-1,Spezia Calcio,,FINISHED,2020-11-07T17:00:00Z
+7,Sat Nov 7 2020,20:45,CET / UTC+0100,Parma Calcio 1913,0-0,0-0,ACF Fiorentina,,FINISHED,2020-11-07T19:45:00Z
+7,Sun Nov 8 2020,12:30,CET / UTC+0100,SS Lazio,1-1,0-1,Juventus FC,,FINISHED,2020-11-08T11:30:00Z
+7,Sun Nov 8 2020,15:00,CET / UTC+0100,Atalanta BC,1-1,0-0,FC Internazionale Milano,,FINISHED,2020-11-08T14:00:00Z
+7,Sun Nov 8 2020,15:00,CET / UTC+0100,Torino FC,0-0,0-0,FC Crotone,,FINISHED,2020-11-08T14:00:00Z
+7,Sun Nov 8 2020,15:00,CET / UTC+0100,Genoa CFC,1-3,0-1,AS Roma,,FINISHED,2020-11-08T14:00:00Z
+7,Sun Nov 8 2020,18:00,CET / UTC+0100,Bologna FC 1909,0-1,0-1,SSC Napoli,,FINISHED,2020-11-08T17:00:00Z
+7,Sun Nov 8 2020,20:45,CET / UTC+0100,AC Milan,2-2,1-2,Hellas Verona FC,,FINISHED,2020-11-08T19:45:00Z
+8,Sat Nov 21 2020,15:00,CET / UTC+0100,FC Crotone,0-2,0-1,SS Lazio,,FINISHED,2020-11-21T14:00:00Z
+8,Sat Nov 21 2020,18:00,CET / UTC+0100,Spezia Calcio,0-0,0-0,Atalanta BC,,FINISHED,2020-11-21T17:00:00Z
+8,Sat Nov 21 2020,20:45,CET / UTC+0100,Juventus FC,2-0,2-0,Cagliari Calcio,,FINISHED,2020-11-21T19:45:00Z
+8,Sun Nov 22 2020,12:30,CET / UTC+0100,ACF Fiorentina,0-1,0-0,Benevento Calcio,,FINISHED,2020-11-22T11:30:00Z
+8,Sun Nov 22 2020,15:00,CET / UTC+0100,FC Internazionale Milano,4-2,0-1,Torino FC,,FINISHED,2020-11-22T14:00:00Z
+8,Sun Nov 22 2020,15:00,CET / UTC+0100,AS Roma,3-0,3-0,Parma Calcio 1913,,FINISHED,2020-11-22T14:00:00Z
+8,Sun Nov 22 2020,15:00,CET / UTC+0100,UC Sampdoria,1-2,1-1,Bologna FC 1909,,FINISHED,2020-11-22T14:00:00Z
+8,Sun Nov 22 2020,15:00,CET / UTC+0100,Hellas Verona FC,0-2,0-1,US Sassuolo Calcio,,FINISHED,2020-11-22T14:00:00Z
+8,Sun Nov 22 2020,18:00,CET / UTC+0100,Udinese Calcio,1-0,1-0,Genoa CFC,,FINISHED,2020-11-22T17:00:00Z
+8,Sun Nov 22 2020,20:45,CET / UTC+0100,SSC Napoli,1-3,0-1,AC Milan,,FINISHED,2020-11-22T19:45:00Z
+9,Sat Nov 28 2020,15:00,CET / UTC+0100,US Sassuolo Calcio,0-3,0-2,FC Internazionale Milano,,FINISHED,2020-11-28T14:00:00Z
+9,Sat Nov 28 2020,18:00,CET / UTC+0100,Benevento Calcio,1-1,1-1,Juventus FC,,FINISHED,2020-11-28T17:00:00Z
+9,Sat Nov 28 2020,20:45,CET / UTC+0100,Atalanta BC,0-2,0-0,Hellas Verona FC,,FINISHED,2020-11-28T19:45:00Z
+9,Sun Nov 29 2020,12:30,CET / UTC+0100,SS Lazio,1-3,0-2,Udinese Calcio,,FINISHED,2020-11-29T11:30:00Z
+9,Sun Nov 29 2020,15:00,CET / UTC+0100,AC Milan,2-0,2-0,ACF Fiorentina,,FINISHED,2020-11-29T14:00:00Z
+9,Sun Nov 29 2020,15:00,CET / UTC+0100,Bologna FC 1909,1-0,1-0,FC Crotone,,FINISHED,2020-11-29T14:00:00Z
+9,Sun Nov 29 2020,18:00,CET / UTC+0100,Cagliari Calcio,2-2,0-1,Spezia Calcio,,FINISHED,2020-11-29T17:00:00Z
+9,Sun Nov 29 2020,20:45,CET / UTC+0100,SSC Napoli,4-0,1-0,AS Roma,,FINISHED,2020-11-29T19:45:00Z
+9,Mon Nov 30 2020,18:30,CET / UTC+0100,Torino FC,2-2,1-0,UC Sampdoria,,FINISHED,2020-11-30T17:30:00Z
+9,Mon Nov 30 2020,20:45,CET / UTC+0100,Genoa CFC,1-2,0-1,Parma Calcio 1913,,FINISHED,2020-11-30T19:45:00Z
+10,Sat Dec 5 2020,15:00,CET / UTC+0100,Spezia Calcio,1-2,0-2,SS Lazio,,FINISHED,2020-12-05T14:00:00Z
+10,Sat Dec 5 2020,18:00,CET / UTC+0100,Juventus FC,2-1,0-1,Torino FC,,FINISHED,2020-12-05T17:00:00Z
+10,Sat Dec 5 2020,20:45,CET / UTC+0100,FC Internazionale Milano,3-1,2-0,Bologna FC 1909,,FINISHED,2020-12-05T19:45:00Z
+10,Sun Dec 6 2020,12:30,CET / UTC+0100,Hellas Verona FC,1-1,1-0,Cagliari Calcio,,FINISHED,2020-12-06T11:30:00Z
+10,Sun Dec 6 2020,15:00,CET / UTC+0100,AS Roma,0-0,0-0,US Sassuolo Calcio,,FINISHED,2020-12-06T14:00:00Z
+10,Sun Dec 6 2020,15:00,CET / UTC+0100,Parma Calcio 1913,0-0,0-0,Benevento Calcio,,FINISHED,2020-12-06T14:00:00Z
+10,Sun Dec 6 2020,18:00,CET / UTC+0100,FC Crotone,0-4,0-1,SSC Napoli,,FINISHED,2020-12-06T17:00:00Z
+10,Sun Dec 6 2020,20:45,CET / UTC+0100,UC Sampdoria,1-2,0-1,AC Milan,,FINISHED,2020-12-06T19:45:00Z
+10,Mon Dec 7 2020,20:45,CET / UTC+0100,ACF Fiorentina,1-1,0-0,Genoa CFC,,FINISHED,2020-12-07T19:45:00Z
+11,Fri Dec 11 2020,20:45,CET / UTC+0100,US Sassuolo Calcio,1-0,1-0,Benevento Calcio,,FINISHED,2020-12-11T19:45:00Z
+11,Sat Dec 12 2020,15:00,CET / UTC+0100,FC Crotone,4-1,1-1,Spezia Calcio,,FINISHED,2020-12-12T14:00:00Z
+11,Sat Dec 12 2020,18:00,CET / UTC+0100,Torino FC,2-3,0-1,Udinese Calcio,,FINISHED,2020-12-12T17:00:00Z
+11,Sat Dec 12 2020,20:45,CET / UTC+0100,SS Lazio,1-2,0-1,Hellas Verona FC,,FINISHED,2020-12-12T19:45:00Z
+11,Sun Dec 13 2020,12:45,CET / UTC+0100,Cagliari Calcio,1-3,1-0,FC Internazionale Milano,,FINISHED,2020-12-13T11:45:00Z
+11,Sun Dec 13 2020,15:00,CET / UTC+0100,SSC Napoli,2-1,0-1,UC Sampdoria,,FINISHED,2020-12-13T14:00:00Z
+11,Sun Dec 13 2020,15:00,CET / UTC+0100,Atalanta BC,3-0,1-0,ACF Fiorentina,,FINISHED,2020-12-13T14:00:00Z
+11,Sun Dec 13 2020,15:00,CET / UTC+0100,Bologna FC 1909,1-5,1-5,AS Roma,,FINISHED,2020-12-13T14:00:00Z
+11,Sun Dec 13 2020,18:00,CET / UTC+0100,Genoa CFC,1-3,0-0,Juventus FC,,FINISHED,2020-12-13T17:00:00Z
+11,Sun Dec 13 2020,20:45,CET / UTC+0100,AC Milan,2-2,0-1,Parma Calcio 1913,,FINISHED,2020-12-13T19:45:00Z
+12,Tue Dec 15 2020,18:30,CET / UTC+0100,Udinese Calcio,0-0,0-0,FC Crotone,,FINISHED,2020-12-15T17:30:00Z
+12,Tue Dec 15 2020,20:45,CET / UTC+0100,Benevento Calcio,1-1,1-1,SS Lazio,,FINISHED,2020-12-15T19:45:00Z
+12,Wed Dec 16 2020,18:30,CET / UTC+0100,Juventus FC,1-1,1-0,Atalanta BC,,FINISHED,2020-12-16T17:30:00Z
+12,Wed Dec 16 2020,20:45,CET / UTC+0100,FC Internazionale Milano,1-0,0-0,SSC Napoli,,FINISHED,2020-12-16T19:45:00Z
+12,Wed Dec 16 2020,20:45,CET / UTC+0100,ACF Fiorentina,1-1,1-1,US Sassuolo Calcio,,FINISHED,2020-12-16T19:45:00Z
+12,Wed Dec 16 2020,20:45,CET / UTC+0100,Parma Calcio 1913,0-0,0-0,Cagliari Calcio,,FINISHED,2020-12-16T19:45:00Z
+12,Wed Dec 16 2020,20:45,CET / UTC+0100,Genoa CFC,2-2,0-0,AC Milan,,FINISHED,2020-12-16T19:45:00Z
+12,Wed Dec 16 2020,20:45,CET / UTC+0100,Spezia Calcio,2-2,1-0,Bologna FC 1909,,FINISHED,2020-12-16T19:45:00Z
+12,Wed Dec 16 2020,20:45,CET / UTC+0100,Hellas Verona FC,1-2,0-1,UC Sampdoria,,FINISHED,2020-12-16T19:45:00Z
+12,Thu Dec 17 2020,20:45,CET / UTC+0100,AS Roma,3-1,2-0,Torino FC,,FINISHED,2020-12-17T19:45:00Z
+13,Sat Dec 19 2020,15:00,CET / UTC+0100,ACF Fiorentina,1-1,1-1,Hellas Verona FC,,FINISHED,2020-12-19T14:00:00Z
+13,Sat Dec 19 2020,18:00,CET / UTC+0100,UC Sampdoria,3-1,2-1,FC Crotone,,FINISHED,2020-12-19T17:00:00Z
+13,Sat Dec 19 2020,20:45,CET / UTC+0100,Parma Calcio 1913,0-4,0-2,Juventus FC,,FINISHED,2020-12-19T19:45:00Z
+13,Sun Dec 20 2020,12:30,CET / UTC+0100,Torino FC,1-1,0-0,Bologna FC 1909,,FINISHED,2020-12-20T11:30:00Z
+13,Sun Dec 20 2020,15:00,CET / UTC+0100,FC Internazionale Milano,2-1,0-0,Spezia Calcio,,FINISHED,2020-12-20T14:00:00Z
+13,Sun Dec 20 2020,15:00,CET / UTC+0100,Cagliari Calcio,1-1,1-0,Udinese Calcio,,FINISHED,2020-12-20T14:00:00Z
+13,Sun Dec 20 2020,15:00,CET / UTC+0100,US Sassuolo Calcio,1-2,0-2,AC Milan,,FINISHED,2020-12-20T14:00:00Z
+13,Sun Dec 20 2020,15:00,CET / UTC+0100,Benevento Calcio,2-0,0-0,Genoa CFC,,FINISHED,2020-12-20T14:00:00Z
+13,Sun Dec 20 2020,18:00,CET / UTC+0100,Atalanta BC,4-1,0-1,AS Roma,,FINISHED,2020-12-20T17:00:00Z
+13,Sun Dec 20 2020,20:45,CET / UTC+0100,SS Lazio,2-0,1-0,SSC Napoli,,FINISHED,2020-12-20T19:45:00Z
+14,Tue Dec 22 2020,18:30,CET / UTC+0100,FC Crotone,2-1,2-0,Parma Calcio 1913,,FINISHED,2020-12-22T17:30:00Z
+14,Tue Dec 22 2020,20:45,CET / UTC+0100,Juventus FC,0-3,0-1,ACF Fiorentina,,FINISHED,2020-12-22T19:45:00Z
+14,Wed Dec 23 2020,18:30,CET / UTC+0100,Hellas Verona FC,1-2,0-0,FC Internazionale Milano,,FINISHED,2020-12-23T17:30:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,SSC Napoli,1-1,0-0,Torino FC,,FINISHED,2020-12-23T19:45:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,AS Roma,3-2,1-0,Cagliari Calcio,,FINISHED,2020-12-23T19:45:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,AC Milan,3-2,2-1,SS Lazio,,FINISHED,2020-12-23T19:45:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,Udinese Calcio,0-2,0-1,Benevento Calcio,,FINISHED,2020-12-23T19:45:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,UC Sampdoria,2-3,0-1,US Sassuolo Calcio,,FINISHED,2020-12-23T19:45:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,Bologna FC 1909,2-2,0-2,Atalanta BC,,FINISHED,2020-12-23T19:45:00Z
+14,Wed Dec 23 2020,20:45,CET / UTC+0100,Spezia Calcio,1-2,1-1,Genoa CFC,,FINISHED,2020-12-23T19:45:00Z
+15,Sun Jan 3 2021,12:30,CET / UTC+0100,FC Internazionale Milano,6-2,2-2,FC Crotone,,FINISHED,2021-01-03T11:30:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,ACF Fiorentina,0-0,0-0,Bologna FC 1909,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,AS Roma,1-0,0-0,UC Sampdoria,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,Parma Calcio 1913,0-3,0-1,Torino FC,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,Atalanta BC,5-1,2-0,US Sassuolo Calcio,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,Cagliari Calcio,1-4,0-1,SSC Napoli,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,Genoa CFC,1-1,0-1,SS Lazio,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,15:00,CET / UTC+0100,Spezia Calcio,0-1,0-0,Hellas Verona FC,,FINISHED,2021-01-03T14:00:00Z
+15,Sun Jan 3 2021,18:00,CET / UTC+0100,Benevento Calcio,0-2,0-1,AC Milan,,FINISHED,2021-01-03T17:00:00Z
+15,Sun Jan 3 2021,20:45,CET / UTC+0100,Juventus FC,4-1,1-0,Udinese Calcio,,FINISHED,2021-01-03T19:45:00Z
+16,Wed Jan 6 2021,12:30,CET / UTC+0100,Cagliari Calcio,1-2,1-2,Benevento Calcio,,FINISHED,2021-01-06T11:30:00Z
+16,Wed Jan 6 2021,15:00,CET / UTC+0100,SS Lazio,2-1,1-0,ACF Fiorentina,,FINISHED,2021-01-06T14:00:00Z
+16,Wed Jan 6 2021,15:00,CET / UTC+0100,UC Sampdoria,2-1,2-0,FC Internazionale Milano,,FINISHED,2021-01-06T14:00:00Z
+16,Wed Jan 6 2021,15:00,CET / UTC+0100,Torino FC,1-1,0-0,Hellas Verona FC,,FINISHED,2021-01-06T14:00:00Z
+16,Wed Jan 6 2021,15:00,CET / UTC+0100,Bologna FC 1909,2-2,2-1,Udinese Calcio,,FINISHED,2021-01-06T14:00:00Z
+16,Wed Jan 6 2021,15:00,CET / UTC+0100,US Sassuolo Calcio,2-1,0-0,Genoa CFC,,FINISHED,2021-01-06T14:00:00Z
+16,Wed Jan 6 2021,15:00,CET / UTC+0100,FC Crotone,1-3,0-3,AS Roma,,FINISHED,2021-01-06T14:00:00Z
+16,Wed Jan 6 2021,15:05,CET / UTC+0100,Atalanta BC,3-0,1-0,Parma Calcio 1913,,FINISHED,2021-01-06T14:05:00Z
+16,Wed Jan 6 2021,18:00,CET / UTC+0100,SSC Napoli,1-2,0-0,Spezia Calcio,,FINISHED,2021-01-06T17:00:00Z
+16,Wed Jan 6 2021,20:45,CET / UTC+0100,AC Milan,1-3,1-1,Juventus FC,,FINISHED,2021-01-06T19:45:00Z
+17,Sat Jan 9 2021,15:00,CET / UTC+0100,Benevento Calcio,1-4,0-1,Atalanta BC,,FINISHED,2021-01-09T14:00:00Z
+17,Sat Jan 9 2021,18:00,CET / UTC+0100,Genoa CFC,2-0,1-0,Bologna FC 1909,,FINISHED,2021-01-09T17:00:00Z
+17,Sat Jan 9 2021,20:45,CET / UTC+0100,AC Milan,2-0,2-0,Torino FC,,FINISHED,2021-01-09T19:45:00Z
+17,Sun Jan 10 2021,12:30,CET / UTC+0100,AS Roma,2-2,1-0,FC Internazionale Milano,,FINISHED,2021-01-10T11:30:00Z
+17,Sun Jan 10 2021,15:00,CET / UTC+0100,Parma Calcio 1913,0-2,0-0,SS Lazio,,FINISHED,2021-01-10T14:00:00Z
+17,Sun Jan 10 2021,15:00,CET / UTC+0100,Udinese Calcio,1-2,1-1,SSC Napoli,,FINISHED,2021-01-10T14:00:00Z
+17,Sun Jan 10 2021,15:00,CET / UTC+0100,Hellas Verona FC,2-1,2-0,FC Crotone,,FINISHED,2021-01-10T14:00:00Z
+17,Sun Jan 10 2021,18:05,CET / UTC+0100,ACF Fiorentina,1-0,0-0,Cagliari Calcio,,FINISHED,2021-01-10T17:05:00Z
+17,Sun Jan 10 2021,20:45,CET / UTC+0100,Juventus FC,3-1,0-0,US Sassuolo Calcio,,FINISHED,2021-01-10T19:45:00Z
+17,Mon Jan 11 2021,20:45,CET / UTC+0100,Spezia Calcio,2-1,1-1,UC Sampdoria,,FINISHED,2021-01-11T19:45:00Z
+18,Fri Jan 15 2021,20:45,CET / UTC+0100,SS Lazio,3-0,2-0,AS Roma,,FINISHED,2021-01-15T19:45:00Z
+18,Sat Jan 16 2021,15:00,CET / UTC+0100,Bologna FC 1909,1-0,1-0,Hellas Verona FC,,FINISHED,2021-01-16T14:00:00Z
+18,Sat Jan 16 2021,18:00,CET / UTC+0100,Torino FC,0-0,0-0,Spezia Calcio,,FINISHED,2021-01-16T17:00:00Z
+18,Sat Jan 16 2021,20:45,CET / UTC+0100,UC Sampdoria,2-1,0-0,Udinese Calcio,,FINISHED,2021-01-16T19:45:00Z
+18,Sun Jan 17 2021,12:30,CET / UTC+0100,SSC Napoli,6-0,4-0,ACF Fiorentina,,FINISHED,2021-01-17T11:30:00Z
+18,Sun Jan 17 2021,15:00,CET / UTC+0100,US Sassuolo Calcio,1-1,0-1,Parma Calcio 1913,,FINISHED,2021-01-17T14:00:00Z
+18,Sun Jan 17 2021,15:00,CET / UTC+0100,FC Crotone,4-1,2-0,Benevento Calcio,,FINISHED,2021-01-17T14:00:00Z
+18,Sun Jan 17 2021,18:00,CET / UTC+0100,Atalanta BC,0-0,0-0,Genoa CFC,,FINISHED,2021-01-17T17:00:00Z
+18,Sun Jan 17 2021,20:45,CET / UTC+0100,FC Internazionale Milano,2-0,1-0,Juventus FC,,FINISHED,2021-01-17T19:45:00Z
+18,Mon Jan 18 2021,20:45,CET / UTC+0100,Cagliari Calcio,0-2,0-1,AC Milan,,FINISHED,2021-01-18T19:45:00Z
+10,Wed Jan 20 2021,15:00,CET / UTC+0100,Udinese Calcio,1-1,1-1,Atalanta BC,,FINISHED,2021-01-20T14:00:00Z
+19,Fri Jan 22 2021,20:45,CET / UTC+0100,Benevento Calcio,2-2,1-0,Torino FC,,FINISHED,2021-01-22T19:45:00Z
+19,Sat Jan 23 2021,15:00,CET / UTC+0100,AS Roma,4-3,1-1,Spezia Calcio,,FINISHED,2021-01-23T14:00:00Z
+19,Sat Jan 23 2021,18:00,CET / UTC+0100,AC Milan,0-3,0-1,Atalanta BC,,FINISHED,2021-01-23T17:00:00Z
+19,Sat Jan 23 2021,18:00,CET / UTC+0100,Udinese Calcio,0-0,0-0,FC Internazionale Milano,,FINISHED,2021-01-23T17:00:00Z
+19,Sat Jan 23 2021,20:50,CET / UTC+0100,ACF Fiorentina,2-1,2-0,FC Crotone,,FINISHED,2021-01-23T19:50:00Z
+19,Sun Jan 24 2021,12:30,CET / UTC+0100,Juventus FC,2-0,1-0,Bologna FC 1909,,FINISHED,2021-01-24T11:30:00Z
+19,Sun Jan 24 2021,15:00,CET / UTC+0100,Genoa CFC,1-0,1-0,Cagliari Calcio,,FINISHED,2021-01-24T14:00:00Z
+19,Sun Jan 24 2021,15:00,CET / UTC+0100,Hellas Verona FC,3-1,1-1,SSC Napoli,,FINISHED,2021-01-24T14:00:00Z
+19,Sun Jan 24 2021,18:00,CET / UTC+0100,SS Lazio,2-1,1-1,US Sassuolo Calcio,,FINISHED,2021-01-24T17:00:00Z
+19,Sun Jan 24 2021,20:45,CET / UTC+0100,Parma Calcio 1913,0-2,0-2,UC Sampdoria,,FINISHED,2021-01-24T19:45:00Z
+20,Fri Jan 29 2021,20:50,CET / UTC+0100,Torino FC,1-1,0-0,ACF Fiorentina,,FINISHED,2021-01-29T19:50:00Z
+20,Sat Jan 30 2021,15:00,CET / UTC+0100,Bologna FC 1909,1-2,0-1,AC Milan,,FINISHED,2021-01-30T14:00:00Z
+20,Sat Jan 30 2021,18:00,CET / UTC+0100,UC Sampdoria,0-2,0-1,Juventus FC,,FINISHED,2021-01-30T17:00:00Z
+20,Sat Jan 30 2021,20:45,CET / UTC+0100,FC Internazionale Milano,4-0,1-0,Benevento Calcio,,FINISHED,2021-01-30T19:45:00Z
+20,Sun Jan 31 2021,12:30,CET / UTC+0100,Spezia Calcio,0-1,0-0,Udinese Calcio,,FINISHED,2021-01-31T11:30:00Z
+20,Sun Jan 31 2021,15:00,CET / UTC+0100,Atalanta BC,1-3,0-1,SS Lazio,,FINISHED,2021-01-31T14:00:00Z
+20,Sun Jan 31 2021,15:00,CET / UTC+0100,Cagliari Calcio,1-1,0-0,US Sassuolo Calcio,,FINISHED,2021-01-31T14:00:00Z
+20,Sun Jan 31 2021,15:00,CET / UTC+0100,FC Crotone,0-3,0-2,Genoa CFC,,FINISHED,2021-01-31T14:00:00Z
+20,Sun Jan 31 2021,18:00,CET / UTC+0100,SSC Napoli,2-0,1-0,Parma Calcio 1913,,FINISHED,2021-01-31T17:00:00Z
+20,Sun Jan 31 2021,20:45,CET / UTC+0100,AS Roma,3-1,3-0,Hellas Verona FC,,FINISHED,2021-01-31T19:45:00Z
+21,Fri Feb 5 2021,20:45,CET / UTC+0100,ACF Fiorentina,0-2,0-1,FC Internazionale Milano,,FINISHED,2021-02-05T19:45:00Z
+21,Sat Feb 6 2021,15:00,CET / UTC+0100,Atalanta BC,3-3,3-2,Torino FC,,FINISHED,2021-02-06T14:00:00Z
+21,Sat Feb 6 2021,15:00,CET / UTC+0100,US Sassuolo Calcio,1-2,1-1,Spezia Calcio,,FINISHED,2021-02-06T14:00:00Z
+21,Sat Feb 6 2021,18:00,CET / UTC+0100,Juventus FC,2-0,1-0,AS Roma,,FINISHED,2021-02-06T17:00:00Z
+21,Sat Feb 6 2021,20:45,CET / UTC+0100,Genoa CFC,2-1,2-0,SSC Napoli,,FINISHED,2021-02-06T19:45:00Z
+21,Sun Feb 7 2021,12:30,CET / UTC+0100,Benevento Calcio,1-1,0-0,UC Sampdoria,,FINISHED,2021-02-07T11:30:00Z
+21,Sun Feb 7 2021,15:00,CET / UTC+0100,AC Milan,4-0,1-0,FC Crotone,,FINISHED,2021-02-07T14:00:00Z
+21,Sun Feb 7 2021,15:00,CET / UTC+0100,Udinese Calcio,2-0,0-0,Hellas Verona FC,,FINISHED,2021-02-07T14:00:00Z
+21,Sun Feb 7 2021,18:00,CET / UTC+0100,Parma Calcio 1913,0-3,0-2,Bologna FC 1909,,FINISHED,2021-02-07T17:00:00Z
+21,Sun Feb 7 2021,20:45,CET / UTC+0100,SS Lazio,1-0,0-0,Cagliari Calcio,,FINISHED,2021-02-07T19:45:00Z
+22,Fri Feb 12 2021,20:50,CET / UTC+0100,Bologna FC 1909,1-1,1-0,Benevento Calcio,,FINISHED,2021-02-12T19:50:00Z
+22,Sat Feb 13 2021,15:00,CET / UTC+0100,Torino FC,0-0,0-0,Genoa CFC,,FINISHED,2021-02-13T14:00:00Z
+22,Sat Feb 13 2021,18:00,CET / UTC+0100,SSC Napoli,1-0,1-0,Juventus FC,,FINISHED,2021-02-13T17:00:00Z
+22,Sat Feb 13 2021,20:45,CET / UTC+0100,Spezia Calcio,2-0,0-0,AC Milan,,FINISHED,2021-02-13T19:45:00Z
+22,Sun Feb 14 2021,12:30,CET / UTC+0100,AS Roma,3-0,2-0,Udinese Calcio,,FINISHED,2021-02-14T11:30:00Z
+22,Sun Feb 14 2021,15:00,CET / UTC+0100,UC Sampdoria,2-1,1-1,ACF Fiorentina,,FINISHED,2021-02-14T14:00:00Z
+22,Sun Feb 14 2021,15:00,CET / UTC+0100,Cagliari Calcio,0-1,0-0,Atalanta BC,,FINISHED,2021-02-14T14:00:00Z
+22,Sun Feb 14 2021,18:00,CET / UTC+0100,FC Crotone,1-2,1-1,US Sassuolo Calcio,,FINISHED,2021-02-14T17:00:00Z
+22,Sun Feb 14 2021,20:45,CET / UTC+0100,FC Internazionale Milano,3-1,2-0,SS Lazio,,FINISHED,2021-02-14T19:45:00Z
+22,Mon Feb 15 2021,20:50,CET / UTC+0100,Hellas Verona FC,2-1,1-1,Parma Calcio 1913,,FINISHED,2021-02-15T19:50:00Z
+23,Fri Feb 19 2021,18:30,CET / UTC+0100,ACF Fiorentina,3-0,0-0,Spezia Calcio,,FINISHED,2021-02-19T17:30:00Z
+23,Fri Feb 19 2021,20:45,CET / UTC+0100,Cagliari Calcio,0-1,0-0,Torino FC,,FINISHED,2021-02-19T19:45:00Z
+23,Sat Feb 20 2021,15:00,CET / UTC+0100,SS Lazio,1-0,1-0,UC Sampdoria,,FINISHED,2021-02-20T14:00:00Z
+23,Sat Feb 20 2021,18:00,CET / UTC+0100,Genoa CFC,2-2,0-1,Hellas Verona FC,,FINISHED,2021-02-20T17:00:00Z
+23,Sat Feb 20 2021,20:45,CET / UTC+0100,US Sassuolo Calcio,1-1,0-1,Bologna FC 1909,,FINISHED,2021-02-20T19:45:00Z
+23,Sun Feb 21 2021,12:30,CET / UTC+0100,Parma Calcio 1913,2-2,2-0,Udinese Calcio,,FINISHED,2021-02-21T11:30:00Z
+23,Sun Feb 21 2021,15:00,CET / UTC+0100,AC Milan,0-3,0-1,FC Internazionale Milano,,FINISHED,2021-02-21T14:00:00Z
+23,Sun Feb 21 2021,18:00,CET / UTC+0100,Atalanta BC,4-2,0-0,SSC Napoli,,FINISHED,2021-02-21T17:00:00Z
+23,Sun Feb 21 2021,20:50,CET / UTC+0100,Benevento Calcio,0-0,0-0,AS Roma,,FINISHED,2021-02-21T19:50:00Z
+23,Mon Feb 22 2021,20:45,CET / UTC+0100,Juventus FC,3-0,2-0,FC Crotone,,FINISHED,2021-02-22T19:45:00Z
+24,Sat Feb 27 2021,15:00,CET / UTC+0100,Spezia Calcio,2-2,0-2,Parma Calcio 1913,,FINISHED,2021-02-27T14:00:00Z
+24,Sat Feb 27 2021,18:00,CET / UTC+0100,Bologna FC 1909,2-0,1-0,SS Lazio,,FINISHED,2021-02-27T17:00:00Z
+24,Sat Feb 27 2021,20:45,CET / UTC+0100,Hellas Verona FC,1-1,0-0,Juventus FC,,FINISHED,2021-02-27T19:45:00Z
+24,Sun Feb 28 2021,12:30,CET / UTC+0100,UC Sampdoria,0-2,0-1,Atalanta BC,,FINISHED,2021-02-28T11:30:00Z
+24,Sun Feb 28 2021,15:00,CET / UTC+0100,FC Internazionale Milano,3-0,1-0,Genoa CFC,,FINISHED,2021-02-28T14:00:00Z
+24,Sun Feb 28 2021,15:00,CET / UTC+0100,Udinese Calcio,1-0,0-0,ACF Fiorentina,,FINISHED,2021-02-28T14:00:00Z
+24,Sun Feb 28 2021,15:00,CET / UTC+0100,FC Crotone,0-2,0-0,Cagliari Calcio,,FINISHED,2021-02-28T14:00:00Z
+24,Sun Feb 28 2021,18:00,CET / UTC+0100,SSC Napoli,2-0,1-0,Benevento Calcio,,FINISHED,2021-02-28T17:00:00Z
+24,Sun Feb 28 2021,20:45,CET / UTC+0100,AS Roma,1-2,0-1,AC Milan,,FINISHED,2021-02-28T19:45:00Z
+25,Tue Mar 2 2021,20:45,CET / UTC+0100,Juventus FC,3-0,0-0,Spezia Calcio,,FINISHED,2021-03-02T19:45:00Z
+25,Wed Mar 3 2021,18:30,CET / UTC+0100,US Sassuolo Calcio,3-3,2-1,SSC Napoli,,FINISHED,2021-03-03T17:30:00Z
+25,Wed Mar 3 2021,20:45,CET / UTC+0100,ACF Fiorentina,1-2,0-0,AS Roma,,FINISHED,2021-03-03T19:45:00Z
+25,Wed Mar 3 2021,20:45,CET / UTC+0100,AC Milan,1-1,0-0,Udinese Calcio,,FINISHED,2021-03-03T19:45:00Z
+25,Wed Mar 3 2021,20:45,CET / UTC+0100,Atalanta BC,5-1,1-1,FC Crotone,,FINISHED,2021-03-03T19:45:00Z
+25,Wed Mar 3 2021,20:45,CET / UTC+0100,Cagliari Calcio,1-0,1-0,Bologna FC 1909,,FINISHED,2021-03-03T19:45:00Z
+25,Wed Mar 3 2021,20:45,CET / UTC+0100,Genoa CFC,1-1,0-0,UC Sampdoria,,FINISHED,2021-03-03T19:45:00Z
+25,Wed Mar 3 2021,20:45,CET / UTC+0100,Benevento Calcio,0-3,0-2,Hellas Verona FC,,FINISHED,2021-03-03T19:45:00Z
+25,Thu Mar 4 2021,20:45,CET / UTC+0100,Parma Calcio 1913,1-2,0-0,FC Internazionale Milano,,FINISHED,2021-03-04T19:45:00Z
+26,Sat Mar 6 2021,15:00,CET / UTC+0100,Spezia Calcio,1-1,0-1,Benevento Calcio,,FINISHED,2021-03-06T14:00:00Z
+26,Sat Mar 6 2021,18:00,CET / UTC+0100,Udinese Calcio,2-0,1-0,US Sassuolo Calcio,,FINISHED,2021-03-06T17:00:00Z
+26,Sat Mar 6 2021,20:45,CET / UTC+0100,Juventus FC,3-1,1-1,SS Lazio,,FINISHED,2021-03-06T19:45:00Z
+26,Sun Mar 7 2021,12:30,CET / UTC+0100,AS Roma,1-0,1-0,Genoa CFC,,FINISHED,2021-03-07T11:30:00Z
+26,Sun Mar 7 2021,15:00,CET / UTC+0100,ACF Fiorentina,3-3,2-1,Parma Calcio 1913,,FINISHED,2021-03-07T14:00:00Z
+26,Sun Mar 7 2021,15:00,CET / UTC+0100,Hellas Verona FC,0-2,0-1,AC Milan,,FINISHED,2021-03-07T14:00:00Z
+26,Sun Mar 7 2021,15:00,CET / UTC+0100,FC Crotone,4-2,1-1,Torino FC,,FINISHED,2021-03-07T14:00:00Z
+26,Sun Mar 7 2021,18:00,CET / UTC+0100,UC Sampdoria,2-2,0-1,Cagliari Calcio,,FINISHED,2021-03-07T17:00:00Z
+26,Sun Mar 7 2021,20:50,CET / UTC+0100,SSC Napoli,3-1,1-0,Bologna FC 1909,,FINISHED,2021-03-07T19:50:00Z
+26,Mon Mar 8 2021,20:45,CET / UTC+0100,FC Internazionale Milano,1-0,0-0,Atalanta BC,,FINISHED,2021-03-08T19:45:00Z
+27,Fri Mar 12 2021,15:00,CET / UTC+0100,SS Lazio,3-2,2-1,FC Crotone,,FINISHED,2021-03-12T14:00:00Z
+27,Fri Mar 12 2021,20:45,CET / UTC+0100,Atalanta BC,3-1,0-0,Spezia Calcio,,FINISHED,2021-03-12T19:45:00Z
+27,Sat Mar 13 2021,15:00,CET / UTC+0100,US Sassuolo Calcio,3-2,1-1,Hellas Verona FC,,FINISHED,2021-03-13T14:00:00Z
+27,Sat Mar 13 2021,18:00,CET / UTC+0100,Benevento Calcio,1-4,0-3,ACF Fiorentina,,FINISHED,2021-03-13T17:00:00Z
+27,Sat Mar 13 2021,20:45,CET / UTC+0100,Genoa CFC,1-1,1-1,Udinese Calcio,,FINISHED,2021-03-13T19:45:00Z
+27,Sun Mar 14 2021,12:30,CET / UTC+0100,Bologna FC 1909,3-1,2-1,UC Sampdoria,,FINISHED,2021-03-14T11:30:00Z
+27,Sun Mar 14 2021,15:00,CET / UTC+0100,Parma Calcio 1913,2-0,1-0,AS Roma,,FINISHED,2021-03-14T14:00:00Z
+27,Sun Mar 14 2021,15:00,CET / UTC+0100,Torino FC,1-2,0-0,FC Internazionale Milano,,FINISHED,2021-03-14T14:00:00Z
+27,Sun Mar 14 2021,18:00,CET / UTC+0100,Cagliari Calcio,1-3,0-3,Juventus FC,,FINISHED,2021-03-14T17:00:00Z
+27,Sun Mar 14 2021,20:45,CET / UTC+0100,AC Milan,0-1,0-0,SSC Napoli,,FINISHED,2021-03-14T19:45:00Z
+24,Wed Mar 17 2021,15:05,CET / UTC+0100,Torino FC,3-2,0-2,US Sassuolo Calcio,,FINISHED,2021-03-17T14:05:00Z
+28,Fri Mar 19 2021,20:45,CET / UTC+0100,Parma Calcio 1913,1-2,1-0,Genoa CFC,,FINISHED,2021-03-19T19:45:00Z
+28,Sat Mar 20 2021,15:00,CET / UTC+0100,FC Crotone,2-3,2-0,Bologna FC 1909,,FINISHED,2021-03-20T14:00:00Z
+28,Sat Mar 20 2021,18:00,CET / UTC+0100,Spezia Calcio,2-1,0-0,Cagliari Calcio,,FINISHED,2021-03-20T17:00:00Z
+28,Sun Mar 21 2021,12:30,CET / UTC+0100,Hellas Verona FC,0-2,0-2,Atalanta BC,,FINISHED,2021-03-21T11:30:00Z
+28,Sun Mar 21 2021,15:00,CET / UTC+0100,Juventus FC,0-1,0-0,Benevento Calcio,,FINISHED,2021-03-21T14:00:00Z
+28,Sun Mar 21 2021,15:00,CET / UTC+0100,Udinese Calcio,0-1,0-1,SS Lazio,,FINISHED,2021-03-21T14:00:00Z
+28,Sun Mar 21 2021,15:00,CET / UTC+0100,UC Sampdoria,1-0,1-0,Torino FC,,FINISHED,2021-03-21T14:00:00Z
+28,Sun Mar 21 2021,18:00,CET / UTC+0100,ACF Fiorentina,2-3,1-1,AC Milan,,FINISHED,2021-03-21T17:00:00Z
+28,Sun Mar 21 2021,20:45,CET / UTC+0100,AS Roma,0-2,0-2,SSC Napoli,,FINISHED,2021-03-21T19:45:00Z
+29,Sat Apr 3 2021,12:30,CEST / UTC+0200,AC Milan,1-1,0-0,UC Sampdoria,,FINISHED,2021-04-03T10:30:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,SSC Napoli,4-3,3-1,FC Crotone,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,SS Lazio,2-1,0-0,Spezia Calcio,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,Atalanta BC,3-2,2-1,Udinese Calcio,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,Cagliari Calcio,0-2,0-0,Hellas Verona FC,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,Genoa CFC,1-1,1-1,ACF Fiorentina,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,US Sassuolo Calcio,2-2,0-1,AS Roma,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,15:00,CEST / UTC+0200,Benevento Calcio,2-2,1-0,Parma Calcio 1913,,FINISHED,2021-04-03T13:00:00Z
+29,Sat Apr 3 2021,18:00,CEST / UTC+0200,Torino FC,2-2,1-1,Juventus FC,,FINISHED,2021-04-03T16:00:00Z
+29,Sat Apr 3 2021,20:45,CEST / UTC+0200,Bologna FC 1909,0-1,0-1,FC Internazionale Milano,,FINISHED,2021-04-03T18:45:00Z
+28,Wed Apr 7 2021,18:45,CEST / UTC+0200,FC Internazionale Milano,2-1,1-0,US Sassuolo Calcio,,FINISHED,2021-04-07T16:45:00Z
+3,Wed Apr 7 2021,18:45,CEST / UTC+0200,Juventus FC,2-1,1-0,SSC Napoli,,FINISHED,2021-04-07T16:45:00Z
+30,Sat Apr 10 2021,15:00,CEST / UTC+0200,Spezia Calcio,3-2,0-1,FC Crotone,,FINISHED,2021-04-10T13:00:00Z
+30,Sat Apr 10 2021,18:00,CEST / UTC+0200,Parma Calcio 1913,1-3,0-2,AC Milan,,FINISHED,2021-04-10T16:00:00Z
+30,Sat Apr 10 2021,20:45,CEST / UTC+0200,Udinese Calcio,0-1,0-0,Torino FC,,FINISHED,2021-04-10T18:45:00Z
+30,Sun Apr 11 2021,12:30,CEST / UTC+0200,FC Internazionale Milano,1-0,0-0,Cagliari Calcio,,FINISHED,2021-04-11T10:30:00Z
+30,Sun Apr 11 2021,15:00,CEST / UTC+0200,Juventus FC,3-1,2-0,Genoa CFC,,FINISHED,2021-04-11T13:00:00Z
+30,Sun Apr 11 2021,15:00,CEST / UTC+0200,UC Sampdoria,0-2,0-1,SSC Napoli,,FINISHED,2021-04-11T13:00:00Z
+30,Sun Apr 11 2021,15:05,CEST / UTC+0200,Hellas Verona FC,0-1,0-0,SS Lazio,,FINISHED,2021-04-11T13:05:00Z
+30,Sun Apr 11 2021,18:00,CEST / UTC+0200,AS Roma,1-0,1-0,Bologna FC 1909,,FINISHED,2021-04-11T16:00:00Z
+30,Sun Apr 11 2021,20:45,CEST / UTC+0200,ACF Fiorentina,2-3,0-2,Atalanta BC,,FINISHED,2021-04-11T18:45:00Z
+30,Mon Apr 12 2021,20:45,CEST / UTC+0200,Benevento Calcio,0-1,0-1,US Sassuolo Calcio,,FINISHED,2021-04-12T18:45:00Z
+31,Sat Apr 17 2021,15:00,CEST / UTC+0200,UC Sampdoria,3-1,0-1,Hellas Verona FC,,FINISHED,2021-04-17T13:00:00Z
+31,Sat Apr 17 2021,15:00,CEST / UTC+0200,FC Crotone,1-2,0-1,Udinese Calcio,,FINISHED,2021-04-17T13:00:00Z
+31,Sat Apr 17 2021,18:00,CEST / UTC+0200,US Sassuolo Calcio,3-1,0-1,ACF Fiorentina,,FINISHED,2021-04-17T16:00:00Z
+31,Sat Apr 17 2021,20:45,CEST / UTC+0200,Cagliari Calcio,4-3,1-2,Parma Calcio 1913,,FINISHED,2021-04-17T18:45:00Z
+31,Sun Apr 18 2021,12:30,CEST / UTC+0200,AC Milan,2-1,1-1,Genoa CFC,,FINISHED,2021-04-18T10:30:00Z
+31,Sun Apr 18 2021,15:00,CEST / UTC+0200,SS Lazio,5-3,3-1,Benevento Calcio,,FINISHED,2021-04-18T13:00:00Z
+31,Sun Apr 18 2021,15:00,CEST / UTC+0200,Atalanta BC,1-0,0-0,Juventus FC,,FINISHED,2021-04-18T13:00:00Z
+31,Sun Apr 18 2021,15:00,CEST / UTC+0200,Bologna FC 1909,4-1,2-1,Spezia Calcio,,FINISHED,2021-04-18T13:00:00Z
+31,Sun Apr 18 2021,18:00,CEST / UTC+0200,Torino FC,3-1,0-1,AS Roma,,FINISHED,2021-04-18T16:00:00Z
+31,Sun Apr 18 2021,20:45,CEST / UTC+0200,SSC Napoli,1-1,1-0,FC Internazionale Milano,,FINISHED,2021-04-18T18:45:00Z
+32,Tue Apr 20 2021,20:45,CEST / UTC+0200,Hellas Verona FC,1-2,0-1,ACF Fiorentina,,FINISHED,2021-04-20T18:45:00Z
+32,Wed Apr 21 2021,18:30,CEST / UTC+0200,AC Milan,1-2,1-0,US Sassuolo Calcio,,FINISHED,2021-04-21T16:30:00Z
+32,Wed Apr 21 2021,20:45,CEST / UTC+0200,Juventus FC,3-1,1-1,Parma Calcio 1913,,FINISHED,2021-04-21T18:45:00Z
+32,Wed Apr 21 2021,20:45,CEST / UTC+0200,Udinese Calcio,0-1,0-0,Cagliari Calcio,,FINISHED,2021-04-21T18:45:00Z
+32,Wed Apr 21 2021,20:45,CEST / UTC+0200,Bologna FC 1909,1-1,1-0,Torino FC,,FINISHED,2021-04-21T18:45:00Z
+32,Wed Apr 21 2021,20:45,CEST / UTC+0200,Genoa CFC,2-2,2-2,Benevento Calcio,,FINISHED,2021-04-21T18:45:00Z
+32,Wed Apr 21 2021,20:45,CEST / UTC+0200,Spezia Calcio,1-1,1-1,FC Internazionale Milano,,FINISHED,2021-04-21T18:45:00Z
+32,Wed Apr 21 2021,20:45,CEST / UTC+0200,FC Crotone,0-1,0-0,UC Sampdoria,,FINISHED,2021-04-21T18:45:00Z
+32,Thu Apr 22 2021,18:30,CEST / UTC+0200,AS Roma,1-1,0-1,Atalanta BC,,FINISHED,2021-04-22T16:30:00Z
+32,Thu Apr 22 2021,20:45,CEST / UTC+0200,SSC Napoli,5-2,2-0,SS Lazio,,FINISHED,2021-04-22T18:45:00Z
+33,Sat Apr 24 2021,15:00,CEST / UTC+0200,Genoa CFC,2-0,0-0,Spezia Calcio,,FINISHED,2021-04-24T13:00:00Z
+33,Sat Apr 24 2021,18:00,CEST / UTC+0200,Parma Calcio 1913,3-4,1-3,FC Crotone,,FINISHED,2021-04-24T16:00:00Z
+33,Sat Apr 24 2021,20:45,CEST / UTC+0200,US Sassuolo Calcio,1-0,0-0,UC Sampdoria,,FINISHED,2021-04-24T18:45:00Z
+33,Sun Apr 25 2021,12:30,CEST / UTC+0200,Benevento Calcio,2-4,1-2,Udinese Calcio,,FINISHED,2021-04-25T10:30:00Z
+33,Sun Apr 25 2021,15:00,CEST / UTC+0200,FC Internazionale Milano,1-0,0-0,Hellas Verona FC,,FINISHED,2021-04-25T13:00:00Z
+33,Sun Apr 25 2021,15:00,CEST / UTC+0200,ACF Fiorentina,1-1,1-0,Juventus FC,,FINISHED,2021-04-25T13:00:00Z
+33,Sun Apr 25 2021,18:00,CEST / UTC+0200,Cagliari Calcio,3-2,1-1,AS Roma,,FINISHED,2021-04-25T16:00:00Z
+33,Sun Apr 25 2021,20:45,CEST / UTC+0200,Atalanta BC,5-0,2-0,Bologna FC 1909,,FINISHED,2021-04-25T18:45:00Z
+33,Mon Apr 26 2021,18:30,CEST / UTC+0200,Torino FC,0-2,0-2,SSC Napoli,,FINISHED,2021-04-26T16:30:00Z
+33,Mon Apr 26 2021,20:45,CEST / UTC+0200,SS Lazio,3-0,1-0,AC Milan,,FINISHED,2021-04-26T18:45:00Z
+34,Sat May 1 2021,15:00,CEST / UTC+0200,Hellas Verona FC,1-1,0-0,Spezia Calcio,,FINISHED,2021-05-01T13:00:00Z
+34,Sat May 1 2021,18:00,CEST / UTC+0200,FC Crotone,0-2,0-0,FC Internazionale Milano,,FINISHED,2021-05-01T16:00:00Z
+34,Sat May 1 2021,20:45,CEST / UTC+0200,AC Milan,2-0,1-0,Benevento Calcio,,FINISHED,2021-05-01T18:45:00Z
+34,Sun May 2 2021,12:30,CEST / UTC+0200,SS Lazio,4-3,2-0,Genoa CFC,,FINISHED,2021-05-02T10:30:00Z
+34,Sun May 2 2021,15:00,CEST / UTC+0200,SSC Napoli,1-1,1-0,Cagliari Calcio,,FINISHED,2021-05-02T13:00:00Z
+34,Sun May 2 2021,15:00,CEST / UTC+0200,Bologna FC 1909,3-3,1-1,ACF Fiorentina,,FINISHED,2021-05-02T13:00:00Z
+34,Sun May 2 2021,15:00,CEST / UTC+0200,US Sassuolo Calcio,1-1,0-1,Atalanta BC,,FINISHED,2021-05-02T13:00:00Z
+34,Sun May 2 2021,18:00,CEST / UTC+0200,Udinese Calcio,1-2,1-0,Juventus FC,,FINISHED,2021-05-02T16:00:00Z
+34,Sun May 2 2021,20:45,CEST / UTC+0200,UC Sampdoria,2-0,1-0,AS Roma,,FINISHED,2021-05-02T18:45:00Z
+34,Mon May 3 2021,20:45,CEST / UTC+0200,Torino FC,1-0,0-0,Parma Calcio 1913,,FINISHED,2021-05-03T18:45:00Z
+35,Sat May 8 2021,15:00,CEST / UTC+0200,Udinese Calcio,1-1,1-0,Bologna FC 1909,,FINISHED,2021-05-08T13:00:00Z
+35,Sat May 8 2021,15:00,CEST / UTC+0200,Spezia Calcio,1-4,0-3,SSC Napoli,,FINISHED,2021-05-08T13:00:00Z
+35,Sat May 8 2021,18:05,CEST / UTC+0200,FC Internazionale Milano,5-1,3-1,UC Sampdoria,,FINISHED,2021-05-08T16:05:00Z
+35,Sat May 8 2021,20:45,CEST / UTC+0200,ACF Fiorentina,2-0,1-0,SS Lazio,,FINISHED,2021-05-08T18:45:00Z
+35,Sun May 9 2021,12:30,CEST / UTC+0200,Genoa CFC,1-2,0-1,US Sassuolo Calcio,,FINISHED,2021-05-09T10:30:00Z
+35,Sun May 9 2021,15:00,CEST / UTC+0200,Parma Calcio 1913,2-5,0-1,Atalanta BC,,FINISHED,2021-05-09T13:00:00Z
+35,Sun May 9 2021,15:00,CEST / UTC+0200,Hellas Verona FC,1-1,0-0,Torino FC,,FINISHED,2021-05-09T13:00:00Z
+35,Sun May 9 2021,15:00,CEST / UTC+0200,Benevento Calcio,1-3,1-1,Cagliari Calcio,,FINISHED,2021-05-09T13:00:00Z
+35,Sun May 9 2021,18:00,CEST / UTC+0200,AS Roma,5-0,0-0,FC Crotone,,FINISHED,2021-05-09T16:00:00Z
+35,Sun May 9 2021,20:45,CEST / UTC+0200,Juventus FC,0-3,0-1,AC Milan,,FINISHED,2021-05-09T18:45:00Z
+36,Tue May 11 2021,20:45,CEST / UTC+0200,SSC Napoli,5-1,2-1,Udinese Calcio,,FINISHED,2021-05-11T18:45:00Z
+36,Wed May 12 2021,18:30,CEST / UTC+0200,Cagliari Calcio,0-0,0-0,ACF Fiorentina,,FINISHED,2021-05-12T16:30:00Z
+36,Wed May 12 2021,20:45,CEST / UTC+0200,SS Lazio,1-0,0-0,Parma Calcio 1913,,FINISHED,2021-05-12T18:45:00Z
+36,Wed May 12 2021,20:45,CEST / UTC+0200,Atalanta BC,2-0,1-0,Benevento Calcio,,FINISHED,2021-05-12T18:45:00Z
+36,Wed May 12 2021,20:45,CEST / UTC+0200,UC Sampdoria,2-2,1-1,Spezia Calcio,,FINISHED,2021-05-12T18:45:00Z
+36,Wed May 12 2021,20:45,CEST / UTC+0200,Torino FC,0-7,0-2,AC Milan,,FINISHED,2021-05-12T18:45:00Z
+36,Wed May 12 2021,20:45,CEST / UTC+0200,Bologna FC 1909,0-2,0-1,Genoa CFC,,FINISHED,2021-05-12T18:45:00Z
+36,Wed May 12 2021,20:45,CEST / UTC+0200,US Sassuolo Calcio,1-3,0-2,Juventus FC,,FINISHED,2021-05-12T18:45:00Z
+36,Wed May 12 2021,20:50,CEST / UTC+0200,FC Internazionale Milano,3-1,2-1,AS Roma,,FINISHED,2021-05-12T18:50:00Z
+36,Thu May 13 2021,20:45,CEST / UTC+0200,FC Crotone,2-1,1-0,Hellas Verona FC,,FINISHED,2021-05-13T18:45:00Z
+37,Sat May 15 2021,15:00,CEST / UTC+0200,Genoa CFC,3-4,0-3,Atalanta BC,,FINISHED,2021-05-15T13:00:00Z
+37,Sat May 15 2021,15:00,CEST / UTC+0200,Spezia Calcio,4-1,2-0,Torino FC,,FINISHED,2021-05-15T13:00:00Z
+37,Sat May 15 2021,18:00,CEST / UTC+0200,Juventus FC,3-2,2-1,FC Internazionale Milano,,FINISHED,2021-05-15T16:00:00Z
+37,Sat May 15 2021,20:45,CEST / UTC+0200,AS Roma,2-0,1-0,SS Lazio,,FINISHED,2021-05-15T18:45:00Z
+37,Sun May 16 2021,12:35,CEST / UTC+0200,ACF Fiorentina,0-2,0-0,SSC Napoli,,FINISHED,2021-05-16T10:35:00Z
+37,Sun May 16 2021,15:00,CEST / UTC+0200,Udinese Calcio,0-1,0-0,UC Sampdoria,,FINISHED,2021-05-16T13:00:00Z
+37,Sun May 16 2021,15:00,CEST / UTC+0200,Benevento Calcio,1-1,1-0,FC Crotone,,FINISHED,2021-05-16T13:00:00Z
+37,Sun May 16 2021,18:00,CEST / UTC+0200,Parma Calcio 1913,1-3,1-1,US Sassuolo Calcio,,FINISHED,2021-05-16T16:00:00Z
+37,Sun May 16 2021,20:45,CEST / UTC+0200,AC Milan,0-0,0-0,Cagliari Calcio,,FINISHED,2021-05-16T18:45:00Z
+37,Mon May 17 2021,20:45,CEST / UTC+0200,Hellas Verona FC,2-2,1-1,Bologna FC 1909,,FINISHED,2021-05-17T18:45:00Z
+25,Tue May 18 2021,20:30,CEST / UTC+0200,SS Lazio,0-0,0-0,Torino FC,,FINISHED,2021-05-18T18:30:00Z
+38,Sat May 22 2021,20:45,CEST / UTC+0200,UC Sampdoria,3-0,2-0,Parma Calcio 1913,,FINISHED,2021-05-22T18:45:00Z
+38,Sat May 22 2021,20:45,CEST / UTC+0200,Cagliari Calcio,0-1,0-1,Genoa CFC,,FINISHED,2021-05-22T18:45:00Z
+38,Sat May 22 2021,20:45,CEST / UTC+0200,FC Crotone,0-0,0-0,ACF Fiorentina,,FINISHED,2021-05-22T18:45:00Z
+38,Sun May 23 2021,15:00,CEST / UTC+0200,FC Internazionale Milano,5-1,2-0,Udinese Calcio,,FINISHED,2021-05-23T13:00:00Z
+38,Sun May 23 2021,20:45,CEST / UTC+0200,SSC Napoli,1-1,0-0,Hellas Verona FC,,FINISHED,2021-05-23T18:45:00Z
+38,Sun May 23 2021,20:45,CEST / UTC+0200,Atalanta BC,0-2,0-1,AC Milan,,FINISHED,2021-05-23T18:45:00Z
+38,Sun May 23 2021,20:45,CEST / UTC+0200,Torino FC,1-1,1-0,Benevento Calcio,,FINISHED,2021-05-23T18:45:00Z
+38,Sun May 23 2021,20:45,CEST / UTC+0200,Bologna FC 1909,1-4,0-3,Juventus FC,,FINISHED,2021-05-23T18:45:00Z
+38,Sun May 23 2021,20:45,CEST / UTC+0200,Spezia Calcio,2-2,2-0,AS Roma,,FINISHED,2021-05-23T18:45:00Z
+38,Sun May 23 2021,20:45,CEST / UTC+0200,US Sassuolo Calcio,2-0,1-0,SS Lazio,,FINISHED,2021-05-23T18:45:00Z

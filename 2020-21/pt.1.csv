@@ -1,307 +1,307 @@
-Matchday,Date,Team 1,FT,HT,Team 2,Comments
-1,Fri Sep 18 2020,FC Famalicão,1-5,0-3,Sport Lisboa e Benfica,
-1,Fri Sep 18 2020,Vitória Guimarães,0-1,0-0,Os Belenenses Futebol,
-1,Sat Sep 19 2020,CD Nacional,3-3,2-2,Boavista FC,
-1,Sat Sep 19 2020,FC Porto,3-1,2-1,Sporting Clube de Braga,
-1,Sun Sep 20 2020,CD Santa Clara,2-0,0-0,CS Marítimo,
-1,Sun Sep 20 2020,Moreirense FC,2-0,1-0,SC Farense,
-1,Sun Sep 20 2020,CD Tondela,1-1,1-0,Rio Ave FC,
-1,Mon Sep 21 2020,Portimonense SC,1-1,0-1,FC Paços de Ferreira,
-2,Fri Sep 25 2020,Sporting Clube de Braga,0-1,0-1,CD Santa Clara,
-2,Sat Sep 26 2020,CS Marítimo,2-1,2-1,CD Tondela,
-2,Sat Sep 26 2020,Sport Lisboa e Benfica,2-0,1-0,Moreirense FC,
-2,Sat Sep 26 2020,Boavista FC,0-5,0-0,FC Porto,
-2,Sun Sep 27 2020,SC Farense,0-1,0-0,CD Nacional,
-2,Sun Sep 27 2020,Gil Vicente FC,1-0,0-0,Portimonense SC,
-2,Sun Sep 27 2020,FC Paços de Ferreira,0-2,0-1,Sporting Clube de Portugal,
-2,Sun Sep 27 2020,Rio Ave FC,0-0,0-0,Vitória Guimarães,
-2,Mon Sep 28 2020,Os Belenenses Futebol,1-2,1-0,FC Famalicão,
-3,Fri Oct 2 2020,Moreirense FC,1-1,0-1,Boavista FC,
-3,Fri Oct 2 2020,Vitória Guimarães,1-0,0-0,FC Paços de Ferreira,
-3,Sat Oct 3 2020,CD Santa Clara,0-0,0-0,Gil Vicente FC,
-3,Sat Oct 3 2020,FC Porto,2-3,1-1,CS Marítimo,
-3,Sat Oct 3 2020,CD Tondela,0-4,0-4,Sporting Clube de Braga,
-3,Sun Oct 4 2020,CD Nacional,0-0,0-0,Os Belenenses Futebol,
-3,Sun Oct 4 2020,Sport Lisboa e Benfica,3-2,1-0,SC Farense,
-3,Sun Oct 4 2020,FC Famalicão,1-1,1-0,Rio Ave FC,
-3,Sun Oct 4 2020,Portimonense SC,0-2,0-2,Sporting Clube de Portugal,
-4,Sat Oct 17 2020,CS Marítimo,1-2,0-0,Portimonense SC,
-4,Sat Oct 17 2020,Gil Vicente FC,1-1,1-0,CD Tondela,
-4,Sat Oct 17 2020,Sporting Clube de Braga,2-1,2-0,CD Nacional,
-4,Sat Oct 17 2020,Sporting Clube de Portugal,2-2,1-2,FC Porto,
-4,Sun Oct 18 2020,FC Paços de Ferreira,2-1,1-0,CD Santa Clara,
-4,Sun Oct 18 2020,Os Belenenses Futebol,0-0,0-0,Moreirense FC,
-4,Sun Oct 18 2020,SC Farense,3-3,2-0,FC Famalicão,
-4,Sun Oct 18 2020,Rio Ave FC,0-3,0-2,Sport Lisboa e Benfica,
-4,Mon Oct 19 2020,Boavista FC,0-1,0-1,Vitória Guimarães,
-5,Fri Oct 23 2020,CD Tondela,1-0,1-0,Portimonense SC,
-5,Sat Oct 24 2020,CD Nacional,1-1,0-0,FC Paços de Ferreira,
-5,Sat Oct 24 2020,CD Santa Clara,1-2,1-1,Sporting Clube de Portugal,
-5,Sat Oct 24 2020,FC Porto,1-0,1-0,Gil Vicente FC,
-5,Sun Oct 25 2020,Moreirense FC,2-1,2-0,CS Marítimo,
-5,Sun Oct 25 2020,SC Farense,0-1,0-1,Rio Ave FC,
-5,Sun Oct 25 2020,FC Famalicão,2-2,0-0,Boavista FC,
-5,Sun Oct 25 2020,Vitória Guimarães,0-1,0-1,Sporting Clube de Braga,
-5,Mon Oct 26 2020,Sport Lisboa e Benfica,2-0,1-0,Os Belenenses Futebol,
-1,Wed Oct 28 2020,Sporting Clube de Portugal,3-1,0-0,Gil Vicente FC,
-6,Fri Oct 30 2020,FC Paços de Ferreira,3-2,2-1,FC Porto,
-6,Sat Oct 31 2020,Os Belenenses Futebol,1-1,0-0,SC Farense,
-6,Sat Oct 31 2020,Rio Ave FC,2-0,1-0,Moreirense FC,
-6,Sat Oct 31 2020,CS Marítimo,0-0,0-0,CD Nacional,
-6,Sun Nov 1 2020,Portimonense SC,1-2,0-1,CD Santa Clara,
-6,Sun Nov 1 2020,Gil Vicente FC,1-2,0-1,Vitória Guimarães,
-6,Sun Nov 1 2020,Sporting Clube de Portugal,4-0,1-0,CD Tondela,
-6,Mon Nov 2 2020,Sporting Clube de Braga,1-0,0-0,FC Famalicão,
-6,Mon Nov 2 2020,Boavista FC,3-0,2-0,Sport Lisboa e Benfica,
-7,Fri Nov 6 2020,Os Belenenses Futebol,0-0,0-0,Rio Ave FC,
-7,Sat Nov 7 2020,CD Tondela,2-0,1-0,CD Santa Clara,
-7,Sat Nov 7 2020,FC Famalicão,2-1,2-1,CS Marítimo,
-7,Sat Nov 7 2020,Vitória Guimarães,0-4,0-2,Sporting Clube de Portugal,
-7,Sun Nov 8 2020,CD Nacional,2-1,0-1,Gil Vicente FC,
-7,Sun Nov 8 2020,SC Farense,3-1,1-1,Boavista FC,
-7,Sun Nov 8 2020,FC Porto,3-1,1-1,Portimonense SC,
-7,Sun Nov 8 2020,Sport Lisboa e Benfica,2-3,0-1,Sporting Clube de Braga,
-8,Fri Nov 27 2020,FC Paços de Ferreira,,,FC Famalicão,
-8,Fri Nov 27 2020,CD Tondela,,,Vitória Guimarães,
-8,Sat Nov 28 2020,CD Santa Clara,,,FC Porto,
-8,Sat Nov 28 2020,Sporting Clube de Portugal,,,Moreirense FC,
-8,Sun Nov 29 2020,Gil Vicente FC,,,Rio Ave FC,
-8,Sun Nov 29 2020,Portimonense SC,,,CD Nacional,
-8,Sun Nov 29 2020,Boavista FC,,,Os Belenenses Futebol,
-8,Sun Nov 29 2020,Sporting Clube de Braga,,,SC Farense,
-8,Mon Nov 30 2020,CS Marítimo,,,Sport Lisboa e Benfica,
-7,Tue Dec 1 2020,Moreirense FC,,,FC Paços de Ferreira,
-9,Fri Dec 4 2020,Moreirense FC,,,Gil Vicente FC,
-9,Sat Dec 5 2020,Vitória Guimarães,,,Portimonense SC,
-9,Sat Dec 5 2020,FC Famalicão,,,Sporting Clube de Portugal,
-9,Sat Dec 5 2020,FC Porto,,,CD Tondela,
-9,Sun Dec 6 2020,CD Nacional,,,CD Santa Clara,
-9,Sun Dec 6 2020,Rio Ave FC,,,Boavista FC,
-9,Sun Dec 6 2020,Sport Lisboa e Benfica,,,FC Paços de Ferreira,
-9,Sun Dec 6 2020,Os Belenenses Futebol,,,Sporting Clube de Braga,
-9,Mon Dec 7 2020,SC Farense,,,CS Marítimo,
-10,Sun Dec 20 2020,FC Porto,,,CD Nacional,
-10,Sun Dec 20 2020,Sporting Clube de Braga,,,Rio Ave FC,
-10,Sun Dec 20 2020,CS Marítimo,,,Os Belenenses Futebol,
-10,Sun Dec 20 2020,FC Paços de Ferreira,,,Boavista FC,
-10,Sun Dec 20 2020,Gil Vicente FC,,,Sport Lisboa e Benfica,
-10,Sun Dec 20 2020,Sporting Clube de Portugal,,,SC Farense,
-10,Sun Dec 20 2020,CD Santa Clara,,,Vitória Guimarães,
-10,Sun Dec 20 2020,Portimonense SC,,,FC Famalicão,
-10,Sun Dec 20 2020,CD Tondela,,,Moreirense FC,
-11,Sun Dec 27 2020,CD Nacional,,,CD Tondela,
-11,Sun Dec 27 2020,Moreirense FC,,,CD Santa Clara,
-11,Sun Dec 27 2020,Rio Ave FC,,,CS Marítimo,
-11,Sun Dec 27 2020,Sport Lisboa e Benfica,,,Portimonense SC,
-11,Sun Dec 27 2020,Vitória Guimarães,,,FC Porto,
-11,Sun Dec 27 2020,Os Belenenses Futebol,,,Sporting Clube de Portugal,
-11,Sun Dec 27 2020,FC Famalicão,,,Gil Vicente FC,
-11,Sun Dec 27 2020,Boavista FC,,,Sporting Clube de Braga,
-11,Sun Dec 27 2020,SC Farense,,,FC Paços de Ferreira,
-12,Sun Jan 3 2021,FC Porto,,,Moreirense FC,
-12,Sun Jan 3 2021,CS Marítimo,,,Boavista FC,
-12,Sun Jan 3 2021,FC Paços de Ferreira,,,Rio Ave FC,
-12,Sun Jan 3 2021,Gil Vicente FC,,,Os Belenenses Futebol,
-12,Sun Jan 3 2021,Sporting Clube de Portugal,,,Sporting Clube de Braga,
-12,Sun Jan 3 2021,Vitória Guimarães,,,CD Nacional,
-12,Sun Jan 3 2021,CD Santa Clara,,,Sport Lisboa e Benfica,
-12,Sun Jan 3 2021,Portimonense SC,,,SC Farense,
-12,Sun Jan 3 2021,CD Tondela,,,FC Famalicão,
-13,Sun Jan 10 2021,CD Nacional,,,Sporting Clube de Portugal,
-13,Sun Jan 10 2021,Sporting Clube de Braga,,,CS Marítimo,
-13,Sun Jan 10 2021,Moreirense FC,,,Vitória Guimarães,
-13,Sun Jan 10 2021,Rio Ave FC,,,Portimonense SC,
-13,Sun Jan 10 2021,Sport Lisboa e Benfica,,,CD Tondela,
-13,Sun Jan 10 2021,Os Belenenses Futebol,,,FC Paços de Ferreira,
-13,Sun Jan 10 2021,FC Famalicão,,,FC Porto,
-13,Sun Jan 10 2021,Boavista FC,,,CD Santa Clara,
-13,Sun Jan 10 2021,SC Farense,,,Gil Vicente FC,
-14,Sun Jan 17 2021,FC Porto,,,Sport Lisboa e Benfica,
-14,Sun Jan 17 2021,CD Nacional,,,Moreirense FC,
-14,Sun Jan 17 2021,FC Paços de Ferreira,,,Sporting Clube de Braga,
-14,Sun Jan 17 2021,Gil Vicente FC,,,CS Marítimo,
-14,Sun Jan 17 2021,Sporting Clube de Portugal,,,Rio Ave FC,
-14,Sun Jan 17 2021,Vitória Guimarães,,,SC Farense,
-14,Sun Jan 17 2021,CD Santa Clara,,,FC Famalicão,
-14,Sun Jan 17 2021,Portimonense SC,,,Os Belenenses Futebol,
-14,Sun Jan 17 2021,CD Tondela,,,Boavista FC,
-15,Sun Jan 24 2021,Sporting Clube de Braga,,,Gil Vicente FC,
-15,Sun Jan 24 2021,CS Marítimo,,,FC Paços de Ferreira,
-15,Sun Jan 24 2021,Moreirense FC,,,Portimonense SC,
-15,Sun Jan 24 2021,Rio Ave FC,,,CD Santa Clara,
-15,Sun Jan 24 2021,Sport Lisboa e Benfica,,,CD Nacional,
-15,Sun Jan 24 2021,Os Belenenses Futebol,,,CD Tondela,
-15,Sun Jan 24 2021,FC Famalicão,,,Vitória Guimarães,
-15,Sun Jan 24 2021,Boavista FC,,,Sporting Clube de Portugal,
-15,Sun Jan 24 2021,SC Farense,,,FC Porto,
-16,Sun Jan 31 2021,FC Porto,,,Rio Ave FC,
-16,Sun Jan 31 2021,CD Nacional,,,FC Famalicão,
-16,Sun Jan 31 2021,Gil Vicente FC,,,FC Paços de Ferreira,
-16,Sun Jan 31 2021,Moreirense FC,,,Sporting Clube de Braga,
-16,Sun Jan 31 2021,Sporting Clube de Portugal,,,Sport Lisboa e Benfica,
-16,Sun Jan 31 2021,Vitória Guimarães,,,CS Marítimo,
-16,Sun Jan 31 2021,CD Santa Clara,,,Os Belenenses Futebol,
-16,Sun Jan 31 2021,Portimonense SC,,,Boavista FC,
-16,Sun Jan 31 2021,CD Tondela,,,SC Farense,
-17,Wed Feb 3 2021,Sporting Clube de Braga,,,Portimonense SC,
-17,Wed Feb 3 2021,CS Marítimo,,,Sporting Clube de Portugal,
-17,Wed Feb 3 2021,FC Paços de Ferreira,,,CD Tondela,
-17,Wed Feb 3 2021,Rio Ave FC,,,CD Nacional,
-17,Wed Feb 3 2021,Sport Lisboa e Benfica,,,Vitória Guimarães,
-17,Wed Feb 3 2021,Os Belenenses Futebol,,,FC Porto,
-17,Wed Feb 3 2021,FC Famalicão,,,Moreirense FC,
-17,Wed Feb 3 2021,Boavista FC,,,Gil Vicente FC,
-17,Wed Feb 3 2021,SC Farense,,,CD Santa Clara,
-18,Sun Feb 7 2021,Sporting Clube de Braga,,,FC Porto,
-18,Sun Feb 7 2021,CS Marítimo,,,CD Santa Clara,
-18,Sun Feb 7 2021,FC Paços de Ferreira,,,Portimonense SC,
-18,Sun Feb 7 2021,Gil Vicente FC,,,Sporting Clube de Portugal,
-18,Sun Feb 7 2021,Rio Ave FC,,,CD Tondela,
-18,Sun Feb 7 2021,Sport Lisboa e Benfica,,,FC Famalicão,
-18,Sun Feb 7 2021,Os Belenenses Futebol,,,Vitória Guimarães,
-18,Sun Feb 7 2021,Boavista FC,,,CD Nacional,
-18,Sun Feb 7 2021,SC Farense,,,Moreirense FC,
-19,Sun Feb 14 2021,FC Porto,,,Boavista FC,
-19,Sun Feb 14 2021,CD Nacional,,,SC Farense,
-19,Sun Feb 14 2021,Moreirense FC,,,Sport Lisboa e Benfica,
-19,Sun Feb 14 2021,Sporting Clube de Portugal,,,FC Paços de Ferreira,
-19,Sun Feb 14 2021,Vitória Guimarães,,,Rio Ave FC,
-19,Sun Feb 14 2021,CD Santa Clara,,,Sporting Clube de Braga,
-19,Sun Feb 14 2021,Portimonense SC,,,Gil Vicente FC,
-19,Sun Feb 14 2021,FC Famalicão,,,Os Belenenses Futebol,
-19,Sun Feb 14 2021,CD Tondela,,,CS Marítimo,
-20,Sun Feb 21 2021,Sporting Clube de Braga,,,CD Tondela,
-20,Sun Feb 21 2021,CS Marítimo,,,FC Porto,
-20,Sun Feb 21 2021,FC Paços de Ferreira,,,Vitória Guimarães,
-20,Sun Feb 21 2021,Gil Vicente FC,,,CD Santa Clara,
-20,Sun Feb 21 2021,Rio Ave FC,,,FC Famalicão,
-20,Sun Feb 21 2021,Sporting Clube de Portugal,,,Portimonense SC,
-20,Sun Feb 21 2021,Os Belenenses Futebol,,,CD Nacional,
-20,Sun Feb 21 2021,Boavista FC,,,Moreirense FC,
-20,Sun Feb 21 2021,SC Farense,,,Sport Lisboa e Benfica,
-21,Sun Feb 28 2021,FC Porto,,,Sporting Clube de Portugal,
-21,Sun Feb 28 2021,CD Nacional,,,Sporting Clube de Braga,
-21,Sun Feb 28 2021,Moreirense FC,,,Os Belenenses Futebol,
-21,Sun Feb 28 2021,Sport Lisboa e Benfica,,,Rio Ave FC,
-21,Sun Feb 28 2021,Vitória Guimarães,,,Boavista FC,
-21,Sun Feb 28 2021,CD Santa Clara,,,FC Paços de Ferreira,
-21,Sun Feb 28 2021,Portimonense SC,,,CS Marítimo,
-21,Sun Feb 28 2021,FC Famalicão,,,SC Farense,
-21,Sun Feb 28 2021,CD Tondela,,,Gil Vicente FC,
-22,Sun Mar 7 2021,Gil Vicente FC,,,FC Porto,
-22,Sun Mar 7 2021,Rio Ave FC,,,SC Farense,
-22,Sun Mar 7 2021,Sporting Clube de Portugal,,,CD Santa Clara,
-22,Sun Mar 7 2021,Os Belenenses Futebol,,,Sport Lisboa e Benfica,
-22,Sun Mar 7 2021,Portimonense SC,,,CD Tondela,
-22,Sun Mar 7 2021,Boavista FC,,,FC Famalicão,
-22,Sun Mar 7 2021,Sporting Clube de Braga,,,Vitória Guimarães,
-22,Sun Mar 7 2021,CS Marítimo,,,Moreirense FC,
-22,Sun Mar 7 2021,FC Paços de Ferreira,,,CD Nacional,
-23,Sun Mar 14 2021,FC Porto,,,FC Paços de Ferreira,
-23,Sun Mar 14 2021,CD Nacional,,,CS Marítimo,
-23,Sun Mar 14 2021,Moreirense FC,,,Rio Ave FC,
-23,Sun Mar 14 2021,Sport Lisboa e Benfica,,,Boavista FC,
-23,Sun Mar 14 2021,Vitória Guimarães,,,Gil Vicente FC,
-23,Sun Mar 14 2021,CD Santa Clara,,,Portimonense SC,
-23,Sun Mar 14 2021,FC Famalicão,,,Sporting Clube de Braga,
-23,Sun Mar 14 2021,SC Farense,,,Os Belenenses Futebol,
-23,Sun Mar 14 2021,CD Tondela,,,Sporting Clube de Portugal,
-24,Sun Mar 21 2021,Sporting Clube de Braga,,,Sport Lisboa e Benfica,
-24,Sun Mar 21 2021,CS Marítimo,,,FC Famalicão,
-24,Sun Mar 21 2021,FC Paços de Ferreira,,,Moreirense FC,
-24,Sun Mar 21 2021,Gil Vicente FC,,,CD Nacional,
-24,Sun Mar 21 2021,Rio Ave FC,,,Os Belenenses Futebol,
-24,Sun Mar 21 2021,Sporting Clube de Portugal,,,Vitória Guimarães,
-24,Sun Mar 21 2021,CD Santa Clara,,,CD Tondela,
-24,Sun Mar 21 2021,Portimonense SC,,,FC Porto,
-24,Sun Mar 21 2021,Boavista FC,,,SC Farense,
-25,Sat Apr 3 2021,FC Porto,,,CD Santa Clara,
-25,Sat Apr 3 2021,CD Nacional,,,Portimonense SC,
-25,Sat Apr 3 2021,Moreirense FC,,,Sporting Clube de Portugal,
-25,Sat Apr 3 2021,Rio Ave FC,,,Gil Vicente FC,
-25,Sat Apr 3 2021,Sport Lisboa e Benfica,,,CS Marítimo,
-25,Sat Apr 3 2021,Vitória Guimarães,,,CD Tondela,
-25,Sat Apr 3 2021,Os Belenenses Futebol,,,Boavista FC,
-25,Sat Apr 3 2021,FC Famalicão,,,FC Paços de Ferreira,
-25,Sat Apr 3 2021,SC Farense,,,Sporting Clube de Braga,
-26,Sun Apr 11 2021,Sporting Clube de Braga,,,Os Belenenses Futebol,
-26,Sun Apr 11 2021,CS Marítimo,,,SC Farense,
-26,Sun Apr 11 2021,FC Paços de Ferreira,,,Sport Lisboa e Benfica,
-26,Sun Apr 11 2021,Gil Vicente FC,,,Moreirense FC,
-26,Sun Apr 11 2021,Sporting Clube de Portugal,,,FC Famalicão,
-26,Sun Apr 11 2021,CD Santa Clara,,,CD Nacional,
-26,Sun Apr 11 2021,Portimonense SC,,,Vitória Guimarães,
-26,Sun Apr 11 2021,Boavista FC,,,Rio Ave FC,
-26,Sun Apr 11 2021,CD Tondela,,,FC Porto,
-27,Sun Apr 18 2021,CD Nacional,,,FC Porto,
-27,Sun Apr 18 2021,Moreirense FC,,,CD Tondela,
-27,Sun Apr 18 2021,Rio Ave FC,,,Sporting Clube de Braga,
-27,Sun Apr 18 2021,Sport Lisboa e Benfica,,,Gil Vicente FC,
-27,Sun Apr 18 2021,Vitória Guimarães,,,CD Santa Clara,
-27,Sun Apr 18 2021,Os Belenenses Futebol,,,CS Marítimo,
-27,Sun Apr 18 2021,FC Famalicão,,,Portimonense SC,
-27,Sun Apr 18 2021,Boavista FC,,,FC Paços de Ferreira,
-27,Sun Apr 18 2021,SC Farense,,,Sporting Clube de Portugal,
-28,Wed Apr 21 2021,FC Porto,,,Vitória Guimarães,
-28,Wed Apr 21 2021,Sporting Clube de Braga,,,Boavista FC,
-28,Wed Apr 21 2021,CS Marítimo,,,Rio Ave FC,
-28,Wed Apr 21 2021,FC Paços de Ferreira,,,SC Farense,
-28,Wed Apr 21 2021,Gil Vicente FC,,,FC Famalicão,
-28,Wed Apr 21 2021,Sporting Clube de Portugal,,,Os Belenenses Futebol,
-28,Wed Apr 21 2021,CD Santa Clara,,,Moreirense FC,
-28,Wed Apr 21 2021,Portimonense SC,,,Sport Lisboa e Benfica,
-28,Wed Apr 21 2021,CD Tondela,,,CD Nacional,
-29,Sun Apr 25 2021,CD Nacional,,,Vitória Guimarães,
-29,Sun Apr 25 2021,Sporting Clube de Braga,,,Sporting Clube de Portugal,
-29,Sun Apr 25 2021,Moreirense FC,,,FC Porto,
-29,Sun Apr 25 2021,Rio Ave FC,,,FC Paços de Ferreira,
-29,Sun Apr 25 2021,Sport Lisboa e Benfica,,,CD Santa Clara,
-29,Sun Apr 25 2021,Os Belenenses Futebol,,,Gil Vicente FC,
-29,Sun Apr 25 2021,FC Famalicão,,,CD Tondela,
-29,Sun Apr 25 2021,Boavista FC,,,CS Marítimo,
-29,Sun Apr 25 2021,SC Farense,,,Portimonense SC,
-30,Sun May 2 2021,FC Porto,,,FC Famalicão,
-30,Sun May 2 2021,CS Marítimo,,,Sporting Clube de Braga,
-30,Sun May 2 2021,FC Paços de Ferreira,,,Os Belenenses Futebol,
-30,Sun May 2 2021,Gil Vicente FC,,,SC Farense,
-30,Sun May 2 2021,Sporting Clube de Portugal,,,CD Nacional,
-30,Sun May 2 2021,Vitória Guimarães,,,Moreirense FC,
-30,Sun May 2 2021,CD Santa Clara,,,Boavista FC,
-30,Sun May 2 2021,Portimonense SC,,,Rio Ave FC,
-30,Sun May 2 2021,CD Tondela,,,Sport Lisboa e Benfica,
-31,Sun May 9 2021,Sporting Clube de Braga,,,FC Paços de Ferreira,
-31,Sun May 9 2021,CS Marítimo,,,Gil Vicente FC,
-31,Sun May 9 2021,Moreirense FC,,,CD Nacional,
-31,Sun May 9 2021,Rio Ave FC,,,Sporting Clube de Portugal,
-31,Sun May 9 2021,Sport Lisboa e Benfica,,,FC Porto,
-31,Sun May 9 2021,Os Belenenses Futebol,,,Portimonense SC,
-31,Sun May 9 2021,FC Famalicão,,,CD Santa Clara,
-31,Sun May 9 2021,Boavista FC,,,CD Tondela,
-31,Sun May 9 2021,SC Farense,,,Vitória Guimarães,
-32,Wed May 12 2021,FC Porto,,,SC Farense,
-32,Wed May 12 2021,CD Nacional,,,Sport Lisboa e Benfica,
-32,Wed May 12 2021,FC Paços de Ferreira,,,CS Marítimo,
-32,Wed May 12 2021,Gil Vicente FC,,,Sporting Clube de Braga,
-32,Wed May 12 2021,Sporting Clube de Portugal,,,Boavista FC,
-32,Wed May 12 2021,Vitória Guimarães,,,FC Famalicão,
-32,Wed May 12 2021,CD Santa Clara,,,Rio Ave FC,
-32,Wed May 12 2021,Portimonense SC,,,Moreirense FC,
-32,Wed May 12 2021,CD Tondela,,,Os Belenenses Futebol,
-33,Sun May 16 2021,Sporting Clube de Braga,,,Moreirense FC,
-33,Sun May 16 2021,CS Marítimo,,,Vitória Guimarães,
-33,Sun May 16 2021,FC Paços de Ferreira,,,Gil Vicente FC,
-33,Sun May 16 2021,Rio Ave FC,,,FC Porto,
-33,Sun May 16 2021,Sport Lisboa e Benfica,,,Sporting Clube de Portugal,
-33,Sun May 16 2021,Os Belenenses Futebol,,,CD Santa Clara,
-33,Sun May 16 2021,FC Famalicão,,,CD Nacional,
-33,Sun May 16 2021,Boavista FC,,,Portimonense SC,
-33,Sun May 16 2021,SC Farense,,,CD Tondela,
-34,Wed May 19 2021,FC Porto,,,Os Belenenses Futebol,
-34,Wed May 19 2021,CD Nacional,,,Rio Ave FC,
-34,Wed May 19 2021,Gil Vicente FC,,,Boavista FC,
-34,Wed May 19 2021,Moreirense FC,,,FC Famalicão,
-34,Wed May 19 2021,Sporting Clube de Portugal,,,CS Marítimo,
-34,Wed May 19 2021,Vitória Guimarães,,,Sport Lisboa e Benfica,
-34,Wed May 19 2021,CD Santa Clara,,,SC Farense,
-34,Wed May 19 2021,Portimonense SC,,,Sporting Clube de Braga,
-34,Wed May 19 2021,CD Tondela,,,FC Paços de Ferreira,
+Matchday,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,Status,UTC
+1,Fri Sep 18 2020,19:00,WEST / UTC+0100,FC Famalicão,1-5,0-3,Sport Lisboa e Benfica,,FINISHED,2020-09-18T18:00:00Z
+1,Fri Sep 18 2020,21:15,WEST / UTC+0100,Vitória Guimarães,0-1,0-0,Os Belenenses Futebol,,FINISHED,2020-09-18T20:15:00Z
+1,Sat Sep 19 2020,16:00,WEST / UTC+0100,CD Nacional,3-3,2-2,Boavista FC,,FINISHED,2020-09-19T15:00:00Z
+1,Sat Sep 19 2020,21:00,WEST / UTC+0100,FC Porto,3-1,2-1,Sporting Clube de Braga,,FINISHED,2020-09-19T20:00:00Z
+1,Sun Sep 20 2020,16:00,WEST / UTC+0100,CD Santa Clara,2-0,0-0,CS Marítimo,,FINISHED,2020-09-20T15:00:00Z
+1,Sun Sep 20 2020,18:30,WEST / UTC+0100,Moreirense FC,2-0,1-0,SC Farense,,FINISHED,2020-09-20T17:30:00Z
+1,Sun Sep 20 2020,21:00,WEST / UTC+0100,CD Tondela,1-1,1-0,Rio Ave FC,,FINISHED,2020-09-20T20:00:00Z
+1,Mon Sep 21 2020,19:45,WEST / UTC+0100,Portimonense SC,1-1,0-1,FC Paços de Ferreira,,FINISHED,2020-09-21T18:45:00Z
+2,Fri Sep 25 2020,20:30,WEST / UTC+0100,Sporting Clube de Braga,0-1,0-1,CD Santa Clara,,FINISHED,2020-09-25T19:30:00Z
+2,Sat Sep 26 2020,15:30,WEST / UTC+0100,CS Marítimo,2-1,2-1,CD Tondela,,FINISHED,2020-09-26T14:30:00Z
+2,Sat Sep 26 2020,18:30,WEST / UTC+0100,Sport Lisboa e Benfica,2-0,1-0,Moreirense FC,,FINISHED,2020-09-26T17:30:00Z
+2,Sat Sep 26 2020,21:00,WEST / UTC+0100,Boavista FC,0-5,0-0,FC Porto,,FINISHED,2020-09-26T20:00:00Z
+2,Sun Sep 27 2020,15:30,WEST / UTC+0100,SC Farense,0-1,0-0,CD Nacional,,FINISHED,2020-09-27T14:30:00Z
+2,Sun Sep 27 2020,16:00,WEST / UTC+0100,Gil Vicente FC,1-0,0-0,Portimonense SC,,FINISHED,2020-09-27T15:00:00Z
+2,Sun Sep 27 2020,18:30,WEST / UTC+0100,FC Paços de Ferreira,0-2,0-1,Sporting Clube de Portugal,,FINISHED,2020-09-27T17:30:00Z
+2,Sun Sep 27 2020,21:00,WEST / UTC+0100,Rio Ave FC,0-0,0-0,Vitória Guimarães,,FINISHED,2020-09-27T20:00:00Z
+2,Mon Sep 28 2020,19:45,WEST / UTC+0100,Os Belenenses Futebol,1-2,1-0,FC Famalicão,,FINISHED,2020-09-28T18:45:00Z
+3,Fri Oct 2 2020,19:00,WEST / UTC+0100,Moreirense FC,1-1,0-1,Boavista FC,,FINISHED,2020-10-02T18:00:00Z
+3,Fri Oct 2 2020,21:15,WEST / UTC+0100,Vitória Guimarães,1-0,0-0,FC Paços de Ferreira,,FINISHED,2020-10-02T20:15:00Z
+3,Sat Oct 3 2020,16:00,WEST / UTC+0100,CD Santa Clara,0-0,0-0,Gil Vicente FC,,FINISHED,2020-10-03T15:00:00Z
+3,Sat Oct 3 2020,18:30,WEST / UTC+0100,FC Porto,2-3,1-1,CS Marítimo,,FINISHED,2020-10-03T17:30:00Z
+3,Sat Oct 3 2020,21:00,WEST / UTC+0100,CD Tondela,0-4,0-4,Sporting Clube de Braga,,FINISHED,2020-10-03T20:00:00Z
+3,Sun Oct 4 2020,15:30,WEST / UTC+0100,CD Nacional,0-0,0-0,Os Belenenses Futebol,,FINISHED,2020-10-04T14:30:00Z
+3,Sun Oct 4 2020,18:30,WEST / UTC+0100,Sport Lisboa e Benfica,3-2,1-0,SC Farense,,FINISHED,2020-10-04T17:30:00Z
+3,Sun Oct 4 2020,18:30,WEST / UTC+0100,FC Famalicão,1-1,1-0,Rio Ave FC,,FINISHED,2020-10-04T17:30:00Z
+3,Sun Oct 4 2020,21:00,WEST / UTC+0100,Portimonense SC,0-2,0-2,Sporting Clube de Portugal,,FINISHED,2020-10-04T20:00:00Z
+4,Sat Oct 17 2020,15:30,WEST / UTC+0100,CS Marítimo,1-2,0-0,Portimonense SC,,FINISHED,2020-10-17T14:30:00Z
+4,Sat Oct 17 2020,15:30,WEST / UTC+0100,Gil Vicente FC,1-1,1-0,CD Tondela,,FINISHED,2020-10-17T14:30:00Z
+4,Sat Oct 17 2020,18:00,WEST / UTC+0100,Sporting Clube de Braga,2-1,2-0,CD Nacional,,FINISHED,2020-10-17T17:00:00Z
+4,Sat Oct 17 2020,20:30,WEST / UTC+0100,Sporting Clube de Portugal,2-2,1-2,FC Porto,,FINISHED,2020-10-17T19:30:00Z
+4,Sun Oct 18 2020,15:00,WEST / UTC+0100,FC Paços de Ferreira,2-1,1-0,CD Santa Clara,,FINISHED,2020-10-18T14:00:00Z
+4,Sun Oct 18 2020,15:00,WEST / UTC+0100,Os Belenenses Futebol,0-0,0-0,Moreirense FC,,FINISHED,2020-10-18T14:00:00Z
+4,Sun Oct 18 2020,17:30,WEST / UTC+0100,SC Farense,3-3,2-0,FC Famalicão,,FINISHED,2020-10-18T16:30:00Z
+4,Sun Oct 18 2020,20:00,WEST / UTC+0100,Rio Ave FC,0-3,0-2,Sport Lisboa e Benfica,,FINISHED,2020-10-18T19:00:00Z
+4,Mon Oct 19 2020,20:15,WEST / UTC+0100,Boavista FC,0-1,0-1,Vitória Guimarães,,FINISHED,2020-10-19T19:15:00Z
+5,Fri Oct 23 2020,20:30,WEST / UTC+0100,CD Tondela,1-0,1-0,Portimonense SC,,FINISHED,2020-10-23T19:30:00Z
+5,Sat Oct 24 2020,15:30,WEST / UTC+0100,CD Nacional,1-1,0-0,FC Paços de Ferreira,,FINISHED,2020-10-24T14:30:00Z
+5,Sat Oct 24 2020,18:00,WEST / UTC+0100,CD Santa Clara,1-2,1-1,Sporting Clube de Portugal,,FINISHED,2020-10-24T17:00:00Z
+5,Sat Oct 24 2020,20:30,WEST / UTC+0100,FC Porto,1-0,1-0,Gil Vicente FC,,FINISHED,2020-10-24T19:30:00Z
+5,Sun Oct 25 2020,15:00,WET / UTC+0000,Moreirense FC,2-1,2-0,CS Marítimo,,FINISHED,2020-10-25T15:00:00Z
+5,Sun Oct 25 2020,15:00,WET / UTC+0000,SC Farense,0-1,0-1,Rio Ave FC,,FINISHED,2020-10-25T15:00:00Z
+5,Sun Oct 25 2020,17:30,WET / UTC+0000,FC Famalicão,2-2,0-0,Boavista FC,,FINISHED,2020-10-25T17:30:00Z
+5,Sun Oct 25 2020,20:00,WET / UTC+0000,Vitória Guimarães,0-1,0-1,Sporting Clube de Braga,,FINISHED,2020-10-25T20:00:00Z
+5,Mon Oct 26 2020,20:15,WET / UTC+0000,Sport Lisboa e Benfica,2-0,1-0,Os Belenenses Futebol,,FINISHED,2020-10-26T20:15:00Z
+1,Wed Oct 28 2020,21:45,WET / UTC+0000,Sporting Clube de Portugal,3-1,0-0,Gil Vicente FC,,FINISHED,2020-10-28T21:45:00Z
+6,Fri Oct 30 2020,20:30,WET / UTC+0000,FC Paços de Ferreira,3-2,2-1,FC Porto,,FINISHED,2020-10-30T20:30:00Z
+6,Sat Oct 31 2020,15:30,WET / UTC+0000,Os Belenenses Futebol,1-1,0-0,SC Farense,,FINISHED,2020-10-31T15:30:00Z
+6,Sat Oct 31 2020,18:00,WET / UTC+0000,Rio Ave FC,2-0,1-0,Moreirense FC,,FINISHED,2020-10-31T18:00:00Z
+6,Sat Oct 31 2020,20:30,WET / UTC+0000,CS Marítimo,0-0,0-0,CD Nacional,,FINISHED,2020-10-31T20:30:00Z
+6,Sun Nov 1 2020,15:00,WET / UTC+0000,Portimonense SC,1-2,0-1,CD Santa Clara,,FINISHED,2020-11-01T15:00:00Z
+6,Sun Nov 1 2020,17:30,WET / UTC+0000,Gil Vicente FC,1-2,0-1,Vitória Guimarães,,FINISHED,2020-11-01T17:30:00Z
+6,Sun Nov 1 2020,20:00,WET / UTC+0000,Sporting Clube de Portugal,4-0,1-0,CD Tondela,,FINISHED,2020-11-01T20:00:00Z
+6,Mon Nov 2 2020,18:45,WET / UTC+0000,Sporting Clube de Braga,1-0,0-0,FC Famalicão,,FINISHED,2020-11-02T18:45:00Z
+6,Mon Nov 2 2020,21:00,WET / UTC+0000,Boavista FC,3-0,2-0,Sport Lisboa e Benfica,,FINISHED,2020-11-02T21:00:00Z
+7,Fri Nov 6 2020,20:30,WET / UTC+0000,Os Belenenses Futebol,0-0,0-0,Rio Ave FC,,FINISHED,2020-11-06T20:30:00Z
+7,Sat Nov 7 2020,15:00,WET / UTC+0000,CD Tondela,2-0,1-0,CD Santa Clara,,FINISHED,2020-11-07T15:00:00Z
+7,Sat Nov 7 2020,18:00,WET / UTC+0000,FC Famalicão,2-1,2-1,CS Marítimo,,FINISHED,2020-11-07T18:00:00Z
+7,Sat Nov 7 2020,20:30,WET / UTC+0000,Vitória Guimarães,0-4,0-2,Sporting Clube de Portugal,,FINISHED,2020-11-07T20:30:00Z
+7,Sun Nov 8 2020,15:00,WET / UTC+0000,CD Nacional,2-1,0-1,Gil Vicente FC,,FINISHED,2020-11-08T15:00:00Z
+7,Sun Nov 8 2020,15:00,WET / UTC+0000,SC Farense,3-1,1-1,Boavista FC,,FINISHED,2020-11-08T15:00:00Z
+7,Sun Nov 8 2020,17:30,WET / UTC+0000,FC Porto,3-1,1-1,Portimonense SC,,FINISHED,2020-11-08T17:30:00Z
+7,Sun Nov 8 2020,20:00,WET / UTC+0000,Sport Lisboa e Benfica,2-3,0-1,Sporting Clube de Braga,,FINISHED,2020-11-08T20:00:00Z
+8,Fri Nov 27 2020,19:00,WET / UTC+0000,FC Paços de Ferreira,2-0,1-0,FC Famalicão,,FINISHED,2020-11-27T19:00:00Z
+8,Fri Nov 27 2020,21:00,WET / UTC+0000,CD Tondela,0-2,0-0,Vitória Guimarães,,FINISHED,2020-11-27T21:00:00Z
+8,Sat Nov 28 2020,18:00,WET / UTC+0000,CD Santa Clara,0-1,0-1,FC Porto,,FINISHED,2020-11-28T18:00:00Z
+8,Sat Nov 28 2020,20:30,WET / UTC+0000,Sporting Clube de Portugal,2-1,1-1,Moreirense FC,,FINISHED,2020-11-28T20:30:00Z
+8,Sun Nov 29 2020,15:00,WET / UTC+0000,Gil Vicente FC,2-0,1-0,Rio Ave FC,,FINISHED,2020-11-29T15:00:00Z
+8,Sun Nov 29 2020,15:00,WET / UTC+0000,Portimonense SC,1-0,0-0,CD Nacional,,FINISHED,2020-11-29T15:00:00Z
+8,Sun Nov 29 2020,17:30,WET / UTC+0000,Boavista FC,0-0,0-0,Os Belenenses Futebol,,FINISHED,2020-11-29T17:30:00Z
+8,Sun Nov 29 2020,20:00,WET / UTC+0000,Sporting Clube de Braga,1-0,0-0,SC Farense,,FINISHED,2020-11-29T20:00:00Z
+8,Mon Nov 30 2020,19:00,WET / UTC+0000,CS Marítimo,1-2,1-1,Sport Lisboa e Benfica,,FINISHED,2020-11-30T19:00:00Z
+7,Tue Dec 1 2020,21:45,WET / UTC+0000,Moreirense FC,0-1,0-1,FC Paços de Ferreira,,FINISHED,2020-12-01T21:45:00Z
+9,Sat Dec 5 2020,15:30,WET / UTC+0000,Moreirense FC,1-1,0-0,Gil Vicente FC,,FINISHED,2020-12-05T15:30:00Z
+9,Sat Dec 5 2020,15:30,WET / UTC+0000,Vitória Guimarães,1-0,1-0,Portimonense SC,,FINISHED,2020-12-05T15:30:00Z
+9,Sat Dec 5 2020,18:00,WET / UTC+0000,FC Famalicão,2-2,1-2,Sporting Clube de Portugal,,FINISHED,2020-12-05T18:00:00Z
+9,Sat Dec 5 2020,20:30,WET / UTC+0000,FC Porto,4-3,2-2,CD Tondela,,FINISHED,2020-12-05T20:30:00Z
+9,Sun Dec 6 2020,15:00,WET / UTC+0000,CD Nacional,1-3,1-2,CD Santa Clara,,FINISHED,2020-12-06T15:00:00Z
+9,Sun Dec 6 2020,17:30,WET / UTC+0000,Rio Ave FC,0-0,0-0,Boavista FC,,FINISHED,2020-12-06T17:30:00Z
+9,Sun Dec 6 2020,20:00,WET / UTC+0000,Sport Lisboa e Benfica,2-1,0-1,FC Paços de Ferreira,,FINISHED,2020-12-06T20:00:00Z
+9,Sun Dec 6 2020,20:00,WET / UTC+0000,Os Belenenses Futebol,2-1,2-0,Sporting Clube de Braga,,FINISHED,2020-12-06T20:00:00Z
+9,Mon Dec 7 2020,20:15,WET / UTC+0000,SC Farense,2-1,1-0,CS Marítimo,,FINISHED,2020-12-07T20:15:00Z
+10,Fri Dec 18 2020,20:30,WET / UTC+0000,Portimonense SC,0-0,0-0,FC Famalicão,,FINISHED,2020-12-18T20:30:00Z
+10,Sat Dec 19 2020,15:00,WET / UTC+0000,CS Marítimo,1-0,0-0,Os Belenenses Futebol,,FINISHED,2020-12-19T15:00:00Z
+10,Sat Dec 19 2020,18:00,WET / UTC+0000,CD Tondela,0-0,0-0,Moreirense FC,,FINISHED,2020-12-19T18:00:00Z
+10,Sat Dec 19 2020,20:30,WET / UTC+0000,Sporting Clube de Portugal,1-0,0-0,SC Farense,,FINISHED,2020-12-19T20:30:00Z
+10,Sun Dec 20 2020,15:00,WET / UTC+0000,FC Paços de Ferreira,1-1,0-0,Boavista FC,,FINISHED,2020-12-20T15:00:00Z
+10,Sun Dec 20 2020,17:30,WET / UTC+0000,Gil Vicente FC,0-2,0-0,Sport Lisboa e Benfica,,FINISHED,2020-12-20T17:30:00Z
+10,Sun Dec 20 2020,20:00,WET / UTC+0000,FC Porto,2-0,2-0,CD Nacional,,FINISHED,2020-12-20T20:00:00Z
+10,Mon Dec 21 2020,20:15,WET / UTC+0000,CD Santa Clara,0-4,0-3,Vitória Guimarães,,FINISHED,2020-12-21T20:15:00Z
+10,Tue Dec 22 2020,20:15,WET / UTC+0000,Sporting Clube de Braga,3-0,1-0,Rio Ave FC,,FINISHED,2020-12-22T20:15:00Z
+11,Sun Dec 27 2020,15:00,WET / UTC+0000,CD Nacional,2-0,1-0,CD Tondela,,FINISHED,2020-12-27T15:00:00Z
+11,Sun Dec 27 2020,15:00,WET / UTC+0000,FC Famalicão,0-1,0-1,Gil Vicente FC,,FINISHED,2020-12-27T15:00:00Z
+11,Sun Dec 27 2020,17:30,WET / UTC+0000,SC Farense,1-1,0-0,FC Paços de Ferreira,,FINISHED,2020-12-27T17:30:00Z
+11,Sun Dec 27 2020,20:00,WET / UTC+0000,Os Belenenses Futebol,1-2,1-2,Sporting Clube de Portugal,,FINISHED,2020-12-27T20:00:00Z
+11,Mon Dec 28 2020,18:45,WET / UTC+0000,Rio Ave FC,1-3,1-0,CS Marítimo,,FINISHED,2020-12-28T18:45:00Z
+11,Mon Dec 28 2020,21:00,WET / UTC+0000,Boavista FC,1-4,0-3,Sporting Clube de Braga,,FINISHED,2020-12-28T21:00:00Z
+11,Tue Dec 29 2020,18:00,WET / UTC+0000,Sport Lisboa e Benfica,2-1,2-0,Portimonense SC,,FINISHED,2020-12-29T18:00:00Z
+11,Tue Dec 29 2020,18:45,WET / UTC+0000,Moreirense FC,1-0,0-0,CD Santa Clara,,FINISHED,2020-12-29T18:45:00Z
+11,Tue Dec 29 2020,21:00,WET / UTC+0000,Vitória Guimarães,2-3,1-1,FC Porto,,FINISHED,2020-12-29T21:00:00Z
+12,Sat Jan 2 2021,18:00,WET / UTC+0000,Sporting Clube de Portugal,2-0,0-0,Sporting Clube de Braga,,FINISHED,2021-01-02T18:00:00Z
+12,Sun Jan 3 2021,13:00,WET / UTC+0000,CD Tondela,1-0,0-0,FC Famalicão,,FINISHED,2021-01-03T13:00:00Z
+12,Sun Jan 3 2021,15:00,WET / UTC+0000,CS Marítimo,0-0,0-0,Boavista FC,,FINISHED,2021-01-03T15:00:00Z
+12,Sun Jan 3 2021,19:00,WET / UTC+0000,FC Paços de Ferreira,2-0,1-0,Rio Ave FC,,FINISHED,2021-01-03T19:00:00Z
+12,Sun Jan 3 2021,21:00,WET / UTC+0000,FC Porto,3-0,1-0,Moreirense FC,,FINISHED,2021-01-03T21:00:00Z
+12,Mon Jan 4 2021,17:00,WET / UTC+0000,CD Santa Clara,1-1,0-1,Sport Lisboa e Benfica,,FINISHED,2021-01-04T17:00:00Z
+12,Mon Jan 4 2021,19:00,WET / UTC+0000,Gil Vicente FC,0-0,0-0,Os Belenenses Futebol,,FINISHED,2021-01-04T19:00:00Z
+12,Mon Jan 4 2021,21:15,WET / UTC+0000,Portimonense SC,2-0,0-0,SC Farense,,FINISHED,2021-01-04T21:15:00Z
+13,Thu Jan 7 2021,21:00,WET / UTC+0000,Sporting Clube de Braga,2-1,1-0,CS Marítimo,,FINISHED,2021-01-07T21:00:00Z
+13,Fri Jan 8 2021,18:00,WET / UTC+0000,CD Nacional,0-2,0-1,Sporting Clube de Portugal,,FINISHED,2021-01-08T18:00:00Z
+13,Fri Jan 8 2021,19:00,WET / UTC+0000,Rio Ave FC,3-0,0-0,Portimonense SC,,FINISHED,2021-01-08T19:00:00Z
+13,Fri Jan 8 2021,19:00,WET / UTC+0000,Sport Lisboa e Benfica,2-0,0-0,CD Tondela,,FINISHED,2021-01-08T19:00:00Z
+13,Fri Jan 8 2021,21:00,WET / UTC+0000,FC Famalicão,1-4,1-2,FC Porto,,FINISHED,2021-01-08T21:00:00Z
+13,Sat Jan 9 2021,17:00,WET / UTC+0000,Moreirense FC,2-2,1-1,Vitória Guimarães,,FINISHED,2021-01-09T17:00:00Z
+13,Sat Jan 9 2021,20:30,WET / UTC+0000,Boavista FC,1-1,1-1,CD Santa Clara,,FINISHED,2021-01-09T20:30:00Z
+13,Sun Jan 10 2021,15:00,WET / UTC+0000,SC Farense,3-1,2-1,Gil Vicente FC,,FINISHED,2021-01-10T15:00:00Z
+13,Sun Jan 10 2021,20:00,WET / UTC+0000,Os Belenenses Futebol,0-2,0-1,FC Paços de Ferreira,,FINISHED,2021-01-10T20:00:00Z
+14,Fri Jan 15 2021,18:30,WET / UTC+0000,Sporting Clube de Portugal,1-1,1-0,Rio Ave FC,,FINISHED,2021-01-15T18:30:00Z
+14,Fri Jan 15 2021,21:00,WET / UTC+0000,FC Porto,1-1,1-1,Sport Lisboa e Benfica,,FINISHED,2021-01-15T21:00:00Z
+14,Sat Jan 16 2021,15:30,WET / UTC+0000,FC Paços de Ferreira,2-0,0-0,Sporting Clube de Braga,,FINISHED,2021-01-16T15:30:00Z
+14,Sat Jan 16 2021,20:30,WET / UTC+0000,CD Tondela,3-1,1-0,Boavista FC,,FINISHED,2021-01-16T20:30:00Z
+14,Sun Jan 17 2021,15:00,WET / UTC+0000,CD Nacional,0-1,0-0,Moreirense FC,,FINISHED,2021-01-17T15:00:00Z
+14,Sun Jan 17 2021,17:30,WET / UTC+0000,CD Santa Clara,1-2,0-0,FC Famalicão,,FINISHED,2021-01-17T17:30:00Z
+14,Sun Jan 17 2021,20:00,WET / UTC+0000,Gil Vicente FC,0-1,0-0,CS Marítimo,,FINISHED,2021-01-17T20:00:00Z
+14,Mon Jan 18 2021,20:15,WET / UTC+0000,Portimonense SC,1-0,1-0,Os Belenenses Futebol,,FINISHED,2021-01-18T20:15:00Z
+12,Thu Jan 21 2021,20:15,WET / UTC+0000,Vitória Guimarães,3-1,1-1,CD Nacional,,FINISHED,2021-01-21T20:15:00Z
+15,Sun Jan 24 2021,15:00,WET / UTC+0000,CS Marítimo,0-3,0-1,FC Paços de Ferreira,,FINISHED,2021-01-24T15:00:00Z
+15,Sun Jan 24 2021,17:30,WET / UTC+0000,Moreirense FC,2-2,2-1,Portimonense SC,,FINISHED,2021-01-24T17:30:00Z
+15,Sun Jan 24 2021,20:15,WET / UTC+0000,FC Famalicão,0-1,0-1,Vitória Guimarães,,FINISHED,2021-01-24T20:15:00Z
+15,Mon Jan 25 2021,14:30,WET / UTC+0000,Os Belenenses Futebol,2-0,2-0,CD Tondela,,FINISHED,2021-01-25T14:30:00Z
+15,Mon Jan 25 2021,16:30,WET / UTC+0000,Rio Ave FC,1-2,1-1,CD Santa Clara,,FINISHED,2021-01-25T16:30:00Z
+15,Mon Jan 25 2021,17:00,WET / UTC+0000,Sport Lisboa e Benfica,1-1,1-0,CD Nacional,,FINISHED,2021-01-25T17:00:00Z
+15,Mon Jan 25 2021,20:15,WET / UTC+0000,SC Farense,0-1,0-1,FC Porto,,FINISHED,2021-01-25T20:15:00Z
+15,Tue Jan 26 2021,19:45,WET / UTC+0000,Sporting Clube de Braga,1-0,0-0,Gil Vicente FC,,FINISHED,2021-01-26T19:45:00Z
+15,Tue Jan 26 2021,21:15,WET / UTC+0000,Boavista FC,0-2,0-1,Sporting Clube de Portugal,,FINISHED,2021-01-26T21:15:00Z
+16,Sat Jan 30 2021,15:30,WET / UTC+0000,CD Nacional,2-1,0-1,FC Famalicão,,FINISHED,2021-01-30T15:30:00Z
+16,Sat Jan 30 2021,18:00,WET / UTC+0000,CD Tondela,2-0,0-0,SC Farense,,FINISHED,2021-01-30T18:00:00Z
+16,Sat Jan 30 2021,20:30,WET / UTC+0000,Portimonense SC,1-2,1-1,Boavista FC,,FINISHED,2021-01-30T20:30:00Z
+16,Sun Jan 31 2021,15:00,WET / UTC+0000,Vitória Guimarães,1-0,0-0,CS Marítimo,,FINISHED,2021-01-31T15:00:00Z
+16,Mon Feb 1 2021,17:00,WET / UTC+0000,CD Santa Clara,2-0,1-0,Os Belenenses Futebol,,FINISHED,2021-02-01T17:00:00Z
+16,Mon Feb 1 2021,19:00,WET / UTC+0000,FC Porto,2-0,1-0,Rio Ave FC,,FINISHED,2021-02-01T19:00:00Z
+16,Mon Feb 1 2021,19:45,WET / UTC+0000,Moreirense FC,0-4,0-3,Sporting Clube de Braga,,FINISHED,2021-02-01T19:45:00Z
+16,Mon Feb 1 2021,21:30,WET / UTC+0000,Sporting Clube de Portugal,1-0,0-0,Sport Lisboa e Benfica,,FINISHED,2021-02-01T21:30:00Z
+16,Tue Feb 2 2021,20:15,WET / UTC+0000,Gil Vicente FC,1-2,0-2,FC Paços de Ferreira,,FINISHED,2021-02-02T20:15:00Z
+17,Thu Feb 4 2021,15:00,WET / UTC+0000,SC Farense,1-1,1-0,CD Santa Clara,,FINISHED,2021-02-04T15:00:00Z
+17,Thu Feb 4 2021,19:00,WET / UTC+0000,Os Belenenses Futebol,0-0,0-0,FC Porto,,FINISHED,2021-02-04T19:00:00Z
+17,Thu Feb 4 2021,21:00,WET / UTC+0000,Sporting Clube de Braga,2-1,0-1,Portimonense SC,,FINISHED,2021-02-04T21:00:00Z
+17,Thu Feb 4 2021,21:30,WET / UTC+0000,FC Famalicão,0-2,0-2,Moreirense FC,,FINISHED,2021-02-04T21:30:00Z
+17,Fri Feb 5 2021,17:00,WET / UTC+0000,Rio Ave FC,0-0,0-0,CD Nacional,,FINISHED,2021-02-05T17:00:00Z
+17,Fri Feb 5 2021,19:00,WET / UTC+0000,CS Marítimo,0-2,0-1,Sporting Clube de Portugal,,FINISHED,2021-02-05T19:00:00Z
+17,Fri Feb 5 2021,19:00,WET / UTC+0000,Sport Lisboa e Benfica,0-0,0-0,Vitória Guimarães,,FINISHED,2021-02-05T19:00:00Z
+17,Fri Feb 5 2021,21:00,WET / UTC+0000,FC Paços de Ferreira,2-1,1-0,CD Tondela,,FINISHED,2021-02-05T21:00:00Z
+17,Fri Feb 5 2021,21:00,WET / UTC+0000,Boavista FC,1-2,1-1,Gil Vicente FC,,FINISHED,2021-02-05T21:00:00Z
+18,Sun Feb 7 2021,20:45,WET / UTC+0000,Sporting Clube de Braga,2-2,0-1,FC Porto,,FINISHED,2021-02-07T20:45:00Z
+18,Mon Feb 8 2021,17:00,WET / UTC+0000,SC Farense,1-2,0-1,Moreirense FC,,FINISHED,2021-02-08T17:00:00Z
+18,Mon Feb 8 2021,19:00,WET / UTC+0000,CS Marítimo,1-2,0-0,CD Santa Clara,,FINISHED,2021-02-08T19:00:00Z
+18,Mon Feb 8 2021,19:00,WET / UTC+0000,Sport Lisboa e Benfica,2-0,2-0,FC Famalicão,,FINISHED,2021-02-08T19:00:00Z
+18,Mon Feb 8 2021,21:00,WET / UTC+0000,Os Belenenses Futebol,1-1,1-1,Vitória Guimarães,,FINISHED,2021-02-08T21:00:00Z
+18,Tue Feb 9 2021,15:00,WET / UTC+0000,FC Paços de Ferreira,0-0,0-0,Portimonense SC,,FINISHED,2021-02-09T15:00:00Z
+18,Tue Feb 9 2021,17:00,WET / UTC+0000,Rio Ave FC,2-1,0-1,CD Tondela,,FINISHED,2021-02-09T17:00:00Z
+18,Tue Feb 9 2021,19:00,WET / UTC+0000,Boavista FC,0-1,0-1,CD Nacional,,FINISHED,2021-02-09T19:00:00Z
+18,Tue Feb 9 2021,21:00,WET / UTC+0000,Gil Vicente FC,1-2,1-0,Sporting Clube de Portugal,,FINISHED,2021-02-09T21:00:00Z
+19,Fri Feb 12 2021,20:30,WET / UTC+0000,FC Famalicão,0-0,0-0,Os Belenenses Futebol,,FINISHED,2021-02-12T20:30:00Z
+19,Sat Feb 13 2021,15:30,WET / UTC+0000,CD Nacional,2-3,0-0,SC Farense,,FINISHED,2021-02-13T15:30:00Z
+19,Sat Feb 13 2021,18:00,WET / UTC+0000,Vitória Guimarães,1-3,0-2,Rio Ave FC,,FINISHED,2021-02-13T18:00:00Z
+19,Sat Feb 13 2021,20:30,WET / UTC+0000,FC Porto,2-2,0-2,Boavista FC,,FINISHED,2021-02-13T20:30:00Z
+19,Sun Feb 14 2021,15:00,WET / UTC+0000,Portimonense SC,4-1,2-1,Gil Vicente FC,,FINISHED,2021-02-14T15:00:00Z
+19,Sun Feb 14 2021,17:30,WET / UTC+0000,CD Santa Clara,0-1,0-1,Sporting Clube de Braga,,FINISHED,2021-02-14T17:30:00Z
+19,Sun Feb 14 2021,20:15,WET / UTC+0000,Moreirense FC,1-1,1-1,Sport Lisboa e Benfica,,FINISHED,2021-02-14T20:15:00Z
+19,Mon Feb 15 2021,20:15,WET / UTC+0000,Sporting Clube de Portugal,2-0,1-0,FC Paços de Ferreira,,FINISHED,2021-02-15T20:15:00Z
+19,Tue Feb 16 2021,17:45,WET / UTC+0000,CD Tondela,2-1,1-1,CS Marítimo,,FINISHED,2021-02-16T17:45:00Z
+14,Wed Feb 17 2021,21:45,WET / UTC+0000,Vitória Guimarães,2-2,2-1,SC Farense,,FINISHED,2021-02-17T21:45:00Z
+20,Fri Feb 19 2021,20:30,WET / UTC+0000,Boavista FC,1-0,0-0,Moreirense FC,,FINISHED,2021-02-19T20:30:00Z
+20,Sat Feb 20 2021,15:30,WET / UTC+0000,Os Belenenses Futebol,2-1,1-1,CD Nacional,,FINISHED,2021-02-20T15:30:00Z
+20,Sat Feb 20 2021,17:30,WET / UTC+0000,Gil Vicente FC,1-0,0-0,CD Santa Clara,,FINISHED,2021-02-20T17:30:00Z
+20,Sat Feb 20 2021,20:30,WET / UTC+0000,Sporting Clube de Portugal,2-0,2-0,Portimonense SC,,FINISHED,2021-02-20T20:30:00Z
+20,Sun Feb 21 2021,15:00,WET / UTC+0000,FC Paços de Ferreira,2-1,1-1,Vitória Guimarães,,FINISHED,2021-02-21T15:00:00Z
+20,Sun Feb 21 2021,15:00,WET / UTC+0000,Rio Ave FC,0-1,0-1,FC Famalicão,,FINISHED,2021-02-21T15:00:00Z
+20,Sun Feb 21 2021,18:00,WET / UTC+0000,Sporting Clube de Braga,4-2,3-0,CD Tondela,,FINISHED,2021-02-21T18:00:00Z
+20,Sun Feb 21 2021,20:15,WET / UTC+0000,SC Farense,0-0,0-0,Sport Lisboa e Benfica,,FINISHED,2021-02-21T20:15:00Z
+20,Mon Feb 22 2021,19:00,WET / UTC+0000,CS Marítimo,1-2,1-1,FC Porto,,FINISHED,2021-02-22T19:00:00Z
+21,Fri Feb 26 2021,20:30,WET / UTC+0000,Vitória Guimarães,2-1,1-1,Boavista FC,,FINISHED,2021-02-26T20:30:00Z
+21,Sat Feb 27 2021,15:30,WET / UTC+0000,FC Famalicão,0-0,0-0,SC Farense,,FINISHED,2021-02-27T15:30:00Z
+21,Sat Feb 27 2021,18:00,WET / UTC+0000,CD Santa Clara,3-0,2-0,FC Paços de Ferreira,,FINISHED,2021-02-27T18:00:00Z
+21,Sat Feb 27 2021,20:30,WET / UTC+0000,FC Porto,0-0,0-0,Sporting Clube de Portugal,,FINISHED,2021-02-27T20:30:00Z
+21,Sun Feb 28 2021,15:00,WET / UTC+0000,Portimonense SC,0-0,0-0,CS Marítimo,,FINISHED,2021-02-28T15:00:00Z
+21,Sun Feb 28 2021,17:30,WET / UTC+0000,CD Tondela,1-0,1-0,Gil Vicente FC,,FINISHED,2021-02-28T17:30:00Z
+21,Sun Feb 28 2021,20:00,WET / UTC+0000,CD Nacional,1-2,0-2,Sporting Clube de Braga,,FINISHED,2021-02-28T20:00:00Z
+21,Mon Mar 1 2021,19:00,WET / UTC+0000,Sport Lisboa e Benfica,2-0,0-0,Rio Ave FC,,FINISHED,2021-03-01T19:00:00Z
+21,Mon Mar 1 2021,20:15,WET / UTC+0000,Moreirense FC,2-2,2-1,Os Belenenses Futebol,,FINISHED,2021-03-01T20:15:00Z
+22,Fri Mar 5 2021,18:30,WET / UTC+0000,FC Paços de Ferreira,2-1,2-0,CD Nacional,,FINISHED,2021-03-05T18:30:00Z
+22,Fri Mar 5 2021,20:45,WET / UTC+0000,Sporting Clube de Portugal,2-1,1-0,CD Santa Clara,,FINISHED,2021-03-05T20:45:00Z
+22,Sat Mar 6 2021,15:30,WET / UTC+0000,Portimonense SC,3-0,2-0,CD Tondela,,FINISHED,2021-03-06T15:30:00Z
+22,Sat Mar 6 2021,18:00,WET / UTC+0000,Gil Vicente FC,0-2,0-1,FC Porto,,FINISHED,2021-03-06T18:00:00Z
+22,Sat Mar 6 2021,20:30,WET / UTC+0000,Boavista FC,3-0,1-0,FC Famalicão,,FINISHED,2021-03-06T20:30:00Z
+22,Sun Mar 7 2021,17:30,WET / UTC+0000,CS Marítimo,0-2,0-1,Moreirense FC,,FINISHED,2021-03-07T17:30:00Z
+22,Sun Mar 7 2021,20:00,WET / UTC+0000,Rio Ave FC,2-0,1-0,SC Farense,,FINISHED,2021-03-07T20:00:00Z
+22,Mon Mar 8 2021,20:15,WET / UTC+0000,Os Belenenses Futebol,0-3,0-0,Sport Lisboa e Benfica,,FINISHED,2021-03-08T20:15:00Z
+22,Tue Mar 9 2021,21:45,WET / UTC+0000,Sporting Clube de Braga,3-0,2-0,Vitória Guimarães,,FINISHED,2021-03-09T21:45:00Z
+23,Fri Mar 12 2021,20:30,WET / UTC+0000,CD Nacional,1-2,1-0,CS Marítimo,,FINISHED,2021-03-12T20:30:00Z
+23,Sat Mar 13 2021,15:30,WET / UTC+0000,SC Farense,0-1,0-0,Os Belenenses Futebol,,FINISHED,2021-03-13T15:30:00Z
+23,Sat Mar 13 2021,18:00,WET / UTC+0000,Sport Lisboa e Benfica,2-0,1-0,Boavista FC,,FINISHED,2021-03-13T18:00:00Z
+23,Sat Mar 13 2021,18:00,WET / UTC+0000,CD Santa Clara,2-0,1-0,Portimonense SC,,FINISHED,2021-03-13T18:00:00Z
+23,Sat Mar 13 2021,20:30,WET / UTC+0000,CD Tondela,0-1,0-0,Sporting Clube de Portugal,,FINISHED,2021-03-13T20:30:00Z
+23,Sun Mar 14 2021,15:00,WET / UTC+0000,Moreirense FC,1-1,0-1,Rio Ave FC,,FINISHED,2021-03-14T15:00:00Z
+23,Sun Mar 14 2021,17:30,WET / UTC+0000,Vitória Guimarães,2-4,1-3,Gil Vicente FC,,FINISHED,2021-03-14T17:30:00Z
+23,Sun Mar 14 2021,20:00,WET / UTC+0000,FC Porto,2-0,0-0,FC Paços de Ferreira,,FINISHED,2021-03-14T20:00:00Z
+23,Mon Mar 15 2021,20:15,WET / UTC+0000,FC Famalicão,2-2,1-2,Sporting Clube de Braga,,FINISHED,2021-03-15T20:15:00Z
+24,Fri Mar 19 2021,20:30,WET / UTC+0000,Gil Vicente FC,2-0,0-0,CD Nacional,,FINISHED,2021-03-19T20:30:00Z
+24,Sat Mar 20 2021,15:30,WET / UTC+0000,FC Paços de Ferreira,3-0,3-0,Moreirense FC,,FINISHED,2021-03-20T15:30:00Z
+24,Sat Mar 20 2021,15:30,WET / UTC+0000,CD Santa Clara,1-1,0-1,CD Tondela,,FINISHED,2021-03-20T15:30:00Z
+24,Sat Mar 20 2021,18:00,WET / UTC+0000,Portimonense SC,1-2,0-1,FC Porto,,FINISHED,2021-03-20T18:00:00Z
+24,Sat Mar 20 2021,20:30,WET / UTC+0000,Sporting Clube de Portugal,1-0,1-0,Vitória Guimarães,,FINISHED,2021-03-20T20:30:00Z
+24,Sun Mar 21 2021,15:00,WET / UTC+0000,Rio Ave FC,0-0,0-0,Os Belenenses Futebol,,FINISHED,2021-03-21T15:00:00Z
+24,Sun Mar 21 2021,17:30,WET / UTC+0000,CS Marítimo,0-4,0-2,FC Famalicão,,FINISHED,2021-03-21T17:30:00Z
+24,Sun Mar 21 2021,17:30,WET / UTC+0000,Boavista FC,0-1,0-1,SC Farense,,FINISHED,2021-03-21T17:30:00Z
+24,Sun Mar 21 2021,20:00,WET / UTC+0000,Sporting Clube de Braga,0-2,0-1,Sport Lisboa e Benfica,,FINISHED,2021-03-21T20:00:00Z
+25,Fri Apr 2 2021,20:30,WEST / UTC+0100,CD Nacional,1-5,0-2,Portimonense SC,,FINISHED,2021-04-02T19:30:00Z
+25,Sat Apr 3 2021,18:00,WEST / UTC+0100,Rio Ave FC,0-2,0-0,Gil Vicente FC,,FINISHED,2021-04-03T17:00:00Z
+25,Sat Apr 3 2021,20:30,WEST / UTC+0100,FC Porto,2-1,0-0,CD Santa Clara,,FINISHED,2021-04-03T19:30:00Z
+25,Sun Apr 4 2021,15:00,WEST / UTC+0100,Os Belenenses Futebol,0-2,0-1,Boavista FC,,FINISHED,2021-04-04T14:00:00Z
+25,Sun Apr 4 2021,17:30,WEST / UTC+0100,Vitória Guimarães,1-2,1-1,CD Tondela,,FINISHED,2021-04-04T16:30:00Z
+25,Sun Apr 4 2021,20:00,WEST / UTC+0100,FC Famalicão,2-0,1-0,FC Paços de Ferreira,,FINISHED,2021-04-04T19:00:00Z
+25,Mon Apr 5 2021,18:45,WEST / UTC+0100,SC Farense,1-2,1-1,Sporting Clube de Braga,,FINISHED,2021-04-05T17:45:00Z
+25,Mon Apr 5 2021,19:00,WEST / UTC+0100,Sport Lisboa e Benfica,1-0,1-0,CS Marítimo,,FINISHED,2021-04-05T18:00:00Z
+25,Mon Apr 5 2021,21:00,WEST / UTC+0100,Moreirense FC,1-1,0-1,Sporting Clube de Portugal,,FINISHED,2021-04-05T20:00:00Z
+26,Fri Apr 9 2021,20:00,WEST / UTC+0100,Portimonense SC,3-0,1-0,Vitória Guimarães,,FINISHED,2021-04-09T19:00:00Z
+26,Sat Apr 10 2021,15:00,WEST / UTC+0100,CS Marítimo,1-0,1-0,SC Farense,,FINISHED,2021-04-10T14:00:00Z
+26,Sat Apr 10 2021,15:30,WEST / UTC+0100,Boavista FC,3-3,2-1,Rio Ave FC,,FINISHED,2021-04-10T14:30:00Z
+26,Sat Apr 10 2021,18:00,WEST / UTC+0100,CD Tondela,0-2,0-1,FC Porto,,FINISHED,2021-04-10T17:00:00Z
+26,Sat Apr 10 2021,20:30,WEST / UTC+0100,FC Paços de Ferreira,0-5,0-3,Sport Lisboa e Benfica,,FINISHED,2021-04-10T19:30:00Z
+26,Sun Apr 11 2021,15:00,WEST / UTC+0100,Gil Vicente FC,1-2,0-1,Moreirense FC,,FINISHED,2021-04-11T14:00:00Z
+26,Sun Apr 11 2021,15:30,WEST / UTC+0100,CD Santa Clara,5-1,2-0,CD Nacional,,FINISHED,2021-04-11T14:30:00Z
+26,Sun Apr 11 2021,17:30,WEST / UTC+0100,Sporting Clube de Braga,1-1,1-0,Os Belenenses Futebol,,FINISHED,2021-04-11T16:30:00Z
+26,Sun Apr 11 2021,20:00,WEST / UTC+0100,Sporting Clube de Portugal,1-1,1-1,FC Famalicão,,FINISHED,2021-04-11T19:00:00Z
+27,Fri Apr 16 2021,18:45,WEST / UTC+0100,Boavista FC,2-0,2-0,FC Paços de Ferreira,,FINISHED,2021-04-16T17:45:00Z
+27,Fri Apr 16 2021,21:00,WEST / UTC+0100,SC Farense,0-1,0-1,Sporting Clube de Portugal,,FINISHED,2021-04-16T20:00:00Z
+27,Sat Apr 17 2021,15:30,WEST / UTC+0100,Moreirense FC,2-3,2-3,CD Tondela,,FINISHED,2021-04-17T14:30:00Z
+27,Sat Apr 17 2021,15:30,WEST / UTC+0100,Vitória Guimarães,1-0,1-0,CD Santa Clara,,FINISHED,2021-04-17T14:30:00Z
+27,Sat Apr 17 2021,18:00,WEST / UTC+0100,Sport Lisboa e Benfica,1-2,0-1,Gil Vicente FC,,FINISHED,2021-04-17T17:00:00Z
+27,Sat Apr 17 2021,18:00,WEST / UTC+0100,Os Belenenses Futebol,2-0,1-0,CS Marítimo,,FINISHED,2021-04-17T17:00:00Z
+27,Sat Apr 17 2021,20:30,WEST / UTC+0100,Rio Ave FC,0-0,0-0,Sporting Clube de Braga,,FINISHED,2021-04-17T19:30:00Z
+27,Sun Apr 18 2021,15:00,WEST / UTC+0100,FC Famalicão,0-1,0-1,Portimonense SC,,FINISHED,2021-04-18T14:00:00Z
+27,Sun Apr 18 2021,17:30,WEST / UTC+0100,CD Nacional,0-1,0-1,FC Porto,,FINISHED,2021-04-18T16:30:00Z
+28,Tue Apr 20 2021,20:00,WEST / UTC+0100,FC Paços de Ferreira,0-2,0-0,SC Farense,,FINISHED,2021-04-20T19:00:00Z
+28,Wed Apr 21 2021,15:30,WEST / UTC+0100,CD Santa Clara,0-0,0-0,Moreirense FC,,FINISHED,2021-04-21T14:30:00Z
+28,Wed Apr 21 2021,17:00,WEST / UTC+0100,CS Marítimo,1-0,1-0,Rio Ave FC,,FINISHED,2021-04-21T16:00:00Z
+28,Wed Apr 21 2021,19:00,WEST / UTC+0100,Sporting Clube de Braga,2-1,1-1,Boavista FC,,FINISHED,2021-04-21T18:00:00Z
+28,Wed Apr 21 2021,21:15,WEST / UTC+0100,Sporting Clube de Portugal,2-2,0-1,Os Belenenses Futebol,,FINISHED,2021-04-21T20:15:00Z
+28,Thu Apr 22 2021,15:00,WEST / UTC+0100,CD Tondela,2-1,1-1,CD Nacional,,FINISHED,2021-04-22T14:00:00Z
+28,Thu Apr 22 2021,17:00,WEST / UTC+0100,Gil Vicente FC,0-3,0-0,FC Famalicão,,FINISHED,2021-04-22T16:00:00Z
+28,Thu Apr 22 2021,19:00,WEST / UTC+0100,Portimonense SC,1-5,1-1,Sport Lisboa e Benfica,,FINISHED,2021-04-22T18:00:00Z
+28,Thu Apr 22 2021,21:00,WEST / UTC+0100,FC Porto,1-0,0-0,Vitória Guimarães,,FINISHED,2021-04-22T20:00:00Z
+29,Sun Apr 25 2021,15:00,WEST / UTC+0100,Boavista FC,0-1,0-0,CS Marítimo,,FINISHED,2021-04-25T14:00:00Z
+29,Sun Apr 25 2021,17:30,WEST / UTC+0100,Rio Ave FC,1-1,0-1,FC Paços de Ferreira,,FINISHED,2021-04-25T16:30:00Z
+29,Sun Apr 25 2021,20:00,WEST / UTC+0100,Sporting Clube de Braga,0-1,0-0,Sporting Clube de Portugal,,FINISHED,2021-04-25T19:00:00Z
+29,Mon Apr 26 2021,17:00,WEST / UTC+0100,Os Belenenses Futebol,2-1,0-1,Gil Vicente FC,,FINISHED,2021-04-26T16:00:00Z
+29,Mon Apr 26 2021,19:00,WEST / UTC+0100,CD Nacional,1-0,1-0,Vitória Guimarães,,FINISHED,2021-04-26T18:00:00Z
+29,Mon Apr 26 2021,19:00,WEST / UTC+0100,Sport Lisboa e Benfica,2-1,1-0,CD Santa Clara,,FINISHED,2021-04-26T18:00:00Z
+29,Mon Apr 26 2021,19:00,WEST / UTC+0100,FC Famalicão,2-2,2-2,CD Tondela,,FINISHED,2021-04-26T18:00:00Z
+29,Mon Apr 26 2021,21:15,WEST / UTC+0100,Moreirense FC,1-1,1-0,FC Porto,,FINISHED,2021-04-26T20:15:00Z
+29,Tue Apr 27 2021,21:45,WEST / UTC+0100,SC Farense,1-1,1-0,Portimonense SC,,FINISHED,2021-04-27T20:45:00Z
+30,Thu Apr 29 2021,20:30,WEST / UTC+0100,CS Marítimo,1-0,0-0,Sporting Clube de Braga,,FINISHED,2021-04-29T19:30:00Z
+30,Fri Apr 30 2021,15:00,WEST / UTC+0100,FC Paços de Ferreira,1-0,0-0,Os Belenenses Futebol,,FINISHED,2021-04-30T14:00:00Z
+30,Fri Apr 30 2021,17:00,WEST / UTC+0100,Vitória Guimarães,2-0,2-0,Moreirense FC,,FINISHED,2021-04-30T16:00:00Z
+30,Fri Apr 30 2021,19:00,WEST / UTC+0100,CD Tondela,0-2,0-2,Sport Lisboa e Benfica,,FINISHED,2021-04-30T18:00:00Z
+30,Fri Apr 30 2021,21:15,WEST / UTC+0100,FC Porto,3-2,1-1,FC Famalicão,,FINISHED,2021-04-30T20:15:00Z
+30,Sat May 1 2021,15:30,WEST / UTC+0100,Gil Vicente FC,0-0,0-0,SC Farense,,FINISHED,2021-05-01T14:30:00Z
+30,Sat May 1 2021,18:00,WEST / UTC+0100,CD Santa Clara,3-3,1-1,Boavista FC,,FINISHED,2021-05-01T17:00:00Z
+30,Sat May 1 2021,18:00,WEST / UTC+0100,Portimonense SC,0-0,0-0,Rio Ave FC,,FINISHED,2021-05-01T17:00:00Z
+30,Sat May 1 2021,20:30,WEST / UTC+0100,Sporting Clube de Portugal,2-0,0-0,CD Nacional,,FINISHED,2021-05-01T19:30:00Z
+31,Wed May 5 2021,19:00,WEST / UTC+0100,Sporting Clube de Braga,1-1,0-1,FC Paços de Ferreira,,FINISHED,2021-05-05T18:00:00Z
+31,Wed May 5 2021,19:00,WEST / UTC+0100,CS Marítimo,0-1,0-1,Gil Vicente FC,,FINISHED,2021-05-05T18:00:00Z
+31,Wed May 5 2021,21:15,WEST / UTC+0100,Rio Ave FC,0-2,0-1,Sporting Clube de Portugal,,FINISHED,2021-05-05T20:15:00Z
+31,Thu May 6 2021,15:00,WEST / UTC+0100,Moreirense FC,2-2,0-1,CD Nacional,,FINISHED,2021-05-06T14:00:00Z
+31,Thu May 6 2021,17:00,WEST / UTC+0100,Os Belenenses Futebol,1-0,1-0,Portimonense SC,,FINISHED,2021-05-06T16:00:00Z
+31,Thu May 6 2021,18:30,WEST / UTC+0100,Sport Lisboa e Benfica,1-1,1-0,FC Porto,,FINISHED,2021-05-06T17:30:00Z
+31,Thu May 6 2021,20:30,WEST / UTC+0100,SC Farense,2-2,2-1,Vitória Guimarães,,FINISHED,2021-05-06T19:30:00Z
+31,Fri May 7 2021,19:00,WEST / UTC+0100,FC Famalicão,1-0,0-0,CD Santa Clara,,FINISHED,2021-05-07T18:00:00Z
+31,Fri May 7 2021,21:15,WEST / UTC+0100,Boavista FC,1-1,0-0,CD Tondela,,FINISHED,2021-05-07T20:15:00Z
+32,Sun May 9 2021,15:00,WEST / UTC+0100,FC Paços de Ferreira,1-1,1-1,CS Marítimo,,FINISHED,2021-05-09T14:00:00Z
+32,Sun May 9 2021,20:00,WEST / UTC+0100,Gil Vicente FC,1-1,1-1,Sporting Clube de Braga,,FINISHED,2021-05-09T19:00:00Z
+32,Mon May 10 2021,18:00,WEST / UTC+0100,Portimonense SC,1-2,1-1,Moreirense FC,,FINISHED,2021-05-10T17:00:00Z
+32,Mon May 10 2021,20:15,WEST / UTC+0100,FC Porto,5-1,3-0,SC Farense,,FINISHED,2021-05-10T19:15:00Z
+32,Tue May 11 2021,16:00,WEST / UTC+0100,CD Santa Clara,1-0,0-0,Rio Ave FC,,FINISHED,2021-05-11T15:00:00Z
+32,Tue May 11 2021,16:00,WEST / UTC+0100,CD Tondela,1-3,1-2,Os Belenenses Futebol,,FINISHED,2021-05-11T15:00:00Z
+32,Tue May 11 2021,18:00,WEST / UTC+0100,CD Nacional,1-3,1-0,Sport Lisboa e Benfica,,FINISHED,2021-05-11T17:00:00Z
+32,Tue May 11 2021,20:30,WEST / UTC+0100,Sporting Clube de Portugal,1-0,1-0,Boavista FC,,FINISHED,2021-05-11T19:30:00Z
+32,Wed May 12 2021,20:15,WEST / UTC+0100,Vitória Guimarães,1-2,1-1,FC Famalicão,,FINISHED,2021-05-12T19:15:00Z
+33,Fri May 14 2021,19:00,WEST / UTC+0100,FC Paços de Ferreira,0-2,0-1,Gil Vicente FC,,FINISHED,2021-05-14T18:00:00Z
+33,Fri May 14 2021,21:15,WEST / UTC+0100,Sporting Clube de Braga,1-0,1-0,Moreirense FC,,FINISHED,2021-05-14T20:15:00Z
+33,Sat May 15 2021,15:30,WEST / UTC+0100,Boavista FC,1-0,0-0,Portimonense SC,,FINISHED,2021-05-15T14:30:00Z
+33,Sat May 15 2021,15:30,WEST / UTC+0100,SC Farense,1-0,0-0,CD Tondela,,FINISHED,2021-05-15T14:30:00Z
+33,Sat May 15 2021,18:00,WEST / UTC+0100,Sport Lisboa e Benfica,4-3,3-1,Sporting Clube de Portugal,,FINISHED,2021-05-15T17:00:00Z
+33,Sat May 15 2021,20:30,WEST / UTC+0100,Rio Ave FC,0-3,0-0,FC Porto,,FINISHED,2021-05-15T19:30:00Z
+33,Sun May 16 2021,15:00,WEST / UTC+0100,FC Famalicão,3-0,1-0,CD Nacional,,FINISHED,2021-05-16T14:00:00Z
+33,Sun May 16 2021,17:00,WEST / UTC+0100,Os Belenenses Futebol,0-2,0-1,CD Santa Clara,,FINISHED,2021-05-16T16:00:00Z
+33,Sun May 16 2021,20:00,WEST / UTC+0100,CS Marítimo,0-0,0-0,Vitória Guimarães,,FINISHED,2021-05-16T19:00:00Z
+34,Tue May 18 2021,20:15,WEST / UTC+0100,CD Tondela,2-3,2-2,FC Paços de Ferreira,,FINISHED,2021-05-18T19:15:00Z
+34,Wed May 19 2021,18:00,WEST / UTC+0100,FC Porto,4-0,2-0,Os Belenenses Futebol,,FINISHED,2021-05-19T17:00:00Z
+34,Wed May 19 2021,20:00,WEST / UTC+0100,CD Nacional,1-2,1-0,Rio Ave FC,,FINISHED,2021-05-19T19:00:00Z
+34,Wed May 19 2021,20:00,WEST / UTC+0100,Gil Vicente FC,1-2,1-0,Boavista FC,,FINISHED,2021-05-19T19:00:00Z
+34,Wed May 19 2021,20:00,WEST / UTC+0100,Moreirense FC,3-0,2-0,FC Famalicão,,FINISHED,2021-05-19T19:00:00Z
+34,Wed May 19 2021,20:00,WEST / UTC+0100,Vitória Guimarães,1-3,0-0,Sport Lisboa e Benfica,,FINISHED,2021-05-19T19:00:00Z
+34,Wed May 19 2021,20:00,WEST / UTC+0100,CD Santa Clara,4-0,2-0,SC Farense,,FINISHED,2021-05-19T19:00:00Z
+34,Wed May 19 2021,20:00,WEST / UTC+0100,Portimonense SC,0-0,0-0,Sporting Clube de Braga,,FINISHED,2021-05-19T19:00:00Z
+34,Wed May 19 2021,21:45,WEST / UTC+0100,Sporting Clube de Portugal,5-1,3-0,CS Marítimo,,FINISHED,2021-05-19T20:45:00Z

@@ -1,381 +1,381 @@
-Matchday,Date,Team 1,FT,HT,Team 2,Comments
-1,Fri Aug 21 2020,FC Girondins de Bordeaux,0-0,0-0,FC Nantes,
-1,Sat Aug 22 2020,Dijon Football Côte d'Or,0-1,0-1,Angers SCO,
-1,Sat Aug 22 2020,Lille OSC,1-1,1-0,Stade Rennais FC 1901,
-1,Sun Aug 23 2020,AS Monaco FC,2-2,1-2,Stade de Reims,
-1,Sun Aug 23 2020,FC Lorient,3-1,0-1,RC Strasbourg Alsace,
-1,Sun Aug 23 2020,Nîmes Olympique,4-0,2-0,Stade Brestois 29,
-1,Sun Aug 23 2020,OGC Nice,2-1,1-1,Racing Club de Lens,
-2,Fri Aug 28 2020,Olympique Lyonnais,4-1,3-1,Dijon Football Côte d'Or,
-2,Sat Aug 29 2020,Stade Rennais FC 1901,2-1,1-0,Montpellier HSC,
-2,Sat Aug 29 2020,RC Strasbourg Alsace,0-2,0-1,OGC Nice,
-2,Sun Aug 30 2020,Stade de Reims,0-1,0-1,Lille OSC,
-2,Sun Aug 30 2020,AS Saint-Étienne,2-0,1-0,FC Lorient,
-2,Sun Aug 30 2020,Angers SCO,0-2,0-2,FC Girondins de Bordeaux,
-2,Sun Aug 30 2020,FC Nantes,2-1,2-0,Nîmes Olympique,
-2,Sun Aug 30 2020,FC Metz,0-1,0-1,AS Monaco FC,
-2,Sun Aug 30 2020,Stade Brestois 29,2-3,1-2,Olympique de Marseille,
-2,Thu Sep 10 2020,Racing Club de Lens,1-0,0-0,Paris Saint-Germain FC,
-3,Fri Sep 11 2020,FC Girondins de Bordeaux,0-0,0-0,Olympique Lyonnais,
-3,Sat Sep 12 2020,Montpellier HSC,3-1,1-0,OGC Nice,
-3,Sat Sep 12 2020,AS Saint-Étienne,2-0,0-0,RC Strasbourg Alsace,
-3,Sun Sep 13 2020,Lille OSC,1-0,0-0,FC Metz,
-3,Sun Sep 13 2020,FC Lorient,2-3,1-2,Racing Club de Lens,
-3,Sun Sep 13 2020,Angers SCO,1-0,0-0,Stade de Reims,
-3,Sun Sep 13 2020,Dijon Football Côte d'Or,0-2,0-1,Stade Brestois 29,
-3,Sun Sep 13 2020,Nîmes Olympique,2-4,1-2,Stade Rennais FC 1901,
-3,Sun Sep 13 2020,AS Monaco FC,2-1,1-0,FC Nantes,
-3,Sun Sep 13 2020,Paris Saint-Germain FC,0-1,0-1,Olympique de Marseille,
-1,Tue Sep 15 2020,Montpellier HSC,2-1,1-0,Olympique Lyonnais,
-1,Wed Sep 16 2020,Paris Saint-Germain FC,1-0,0-0,FC Metz,
-1,Thu Sep 17 2020,Olympique de Marseille,0-2,0-1,AS Saint-Étienne,
-4,Fri Sep 18 2020,Olympique Lyonnais,0-0,0-0,Nîmes Olympique,
-4,Sat Sep 19 2020,Racing Club de Lens,2-1,0-0,FC Girondins de Bordeaux,
-4,Sat Sep 19 2020,Stade Rennais FC 1901,2-1,0-1,AS Monaco FC,
-4,Sun Sep 20 2020,OGC Nice,0-3,0-2,Paris Saint-Germain FC,
-4,Sun Sep 20 2020,Montpellier HSC,4-1,2-1,Angers SCO,
-4,Sun Sep 20 2020,Stade Brestois 29,3-2,2-1,FC Lorient,
-4,Sun Sep 20 2020,FC Metz,2-1,1-1,Stade de Reims,
-4,Sun Sep 20 2020,RC Strasbourg Alsace,1-0,0-0,Dijon Football Côte d'Or,
-4,Sun Sep 20 2020,FC Nantes,2-2,0-1,AS Saint-Étienne,
-4,Sun Sep 20 2020,Olympique de Marseille,1-1,0-0,Lille OSC,
-5,Fri Sep 25 2020,Lille OSC,2-0,1-0,FC Nantes,
-5,Sat Sep 26 2020,AS Saint-Étienne,0-3,0-1,Stade Rennais FC 1901,
-5,Sat Sep 26 2020,Olympique de Marseille,1-1,0-0,FC Metz,
-5,Sun Sep 27 2020,FC Girondins de Bordeaux,0-0,0-0,OGC Nice,
-5,Sun Sep 27 2020,Angers SCO,3-2,1-2,Stade Brestois 29,
-5,Sun Sep 27 2020,AS Monaco FC,3-2,2-0,RC Strasbourg Alsace,
-5,Sun Sep 27 2020,Dijon Football Côte d'Or,2-2,1-0,Montpellier HSC,
-5,Sun Sep 27 2020,Nîmes Olympique,1-1,0-1,Racing Club de Lens,
-5,Sun Sep 27 2020,FC Lorient,1-1,0-0,Olympique Lyonnais,
-5,Sun Sep 27 2020,Stade de Reims,0-2,0-1,Paris Saint-Germain FC,
-6,Fri Oct 2 2020,Paris Saint-Germain FC,6-1,2-0,Angers SCO,
-6,Sat Oct 3 2020,Racing Club de Lens,2-0,1-0,AS Saint-Étienne,
-6,Sat Oct 3 2020,OGC Nice,2-1,1-1,FC Nantes,
-6,Sun Oct 4 2020,Montpellier HSC,0-1,0-0,Nîmes Olympique,
-6,Sun Oct 4 2020,FC Girondins de Bordeaux,3-0,2-0,Dijon Football Côte d'Or,
-6,Sun Oct 4 2020,Stade Brestois 29,1-0,1-0,AS Monaco FC,
-6,Sun Oct 4 2020,FC Metz,3-1,1-1,FC Lorient,
-6,Sun Oct 4 2020,RC Strasbourg Alsace,0-3,0-1,Lille OSC,
-6,Sun Oct 4 2020,Stade Rennais FC 1901,2-2,2-1,Stade de Reims,
-6,Sun Oct 4 2020,Olympique Lyonnais,1-1,1-1,Olympique de Marseille,
-7,Fri Oct 16 2020,Dijon Football Côte d'Or,1-1,0-1,Stade Rennais FC 1901,
-7,Fri Oct 16 2020,Nîmes Olympique,0-4,0-1,Paris Saint-Germain FC,
-7,Sat Oct 17 2020,Stade de Reims,1-3,1-0,FC Lorient,
-7,Sat Oct 17 2020,Olympique de Marseille,3-1,1-0,FC Girondins de Bordeaux,
-7,Sun Oct 18 2020,RC Strasbourg Alsace,2-3,1-3,Olympique Lyonnais,
-7,Sun Oct 18 2020,Angers SCO,1-1,1-1,FC Metz,
-7,Sun Oct 18 2020,FC Nantes,3-1,2-0,Stade Brestois 29,
-7,Sun Oct 18 2020,AS Monaco FC,1-1,0-0,Montpellier HSC,
-7,Sun Oct 18 2020,AS Saint-Étienne,1-3,0-2,OGC Nice,
-7,Sun Oct 18 2020,Lille OSC,4-0,1-0,Racing Club de Lens,
-8,Fri Oct 23 2020,Stade Rennais FC 1901,1-2,1-1,Angers SCO,
-8,Sat Oct 24 2020,FC Lorient,0-1,0-0,Olympique de Marseille,
-8,Sat Oct 24 2020,Paris Saint-Germain FC,4-0,2-0,Dijon Football Côte d'Or,
-8,Sun Oct 25 2020,Montpellier HSC,0-4,0-3,Stade de Reims,
-8,Sun Oct 25 2020,FC Girondins de Bordeaux,2-0,0-0,Nîmes Olympique,
-8,Sun Oct 25 2020,Stade Brestois 29,0-3,0-2,RC Strasbourg Alsace,
-8,Sun Oct 25 2020,FC Metz,2-0,1-0,AS Saint-Étienne,
-8,Sun Oct 25 2020,OGC Nice,1-1,0-0,Lille OSC,
-8,Sun Oct 25 2020,Olympique Lyonnais,4-1,4-0,AS Monaco FC,
-9,Fri Oct 30 2020,Olympique de Marseille,(*),,Racing Club de Lens,postponed
-9,Sat Oct 31 2020,Stade Rennais FC 1901,2-1,0-0,Stade Brestois 29,
-9,Sat Oct 31 2020,FC Nantes,0-3,0-0,Paris Saint-Germain FC,
-9,Sun Nov 1 2020,AS Saint-Étienne,0-1,0-1,Montpellier HSC,
-9,Sun Nov 1 2020,Stade de Reims,2-1,2-1,RC Strasbourg Alsace,
-9,Sun Nov 1 2020,Angers SCO,0-3,0-2,OGC Nice,
-9,Sun Nov 1 2020,Dijon Football Côte d'Or,0-0,0-0,FC Lorient,
-9,Sun Nov 1 2020,Nîmes Olympique,0-1,0-1,FC Metz,
-9,Sun Nov 1 2020,AS Monaco FC,4-0,3-0,FC Girondins de Bordeaux,
-9,Sun Nov 1 2020,Lille OSC,1-1,1-1,Olympique Lyonnais,
-10,Fri Nov 6 2020,RC Strasbourg Alsace,0-1,0-0,Olympique de Marseille,
-10,Sat Nov 7 2020,FC Girondins de Bordeaux,0-2,0-0,Montpellier HSC,
-10,Sat Nov 7 2020,Paris Saint-Germain FC,3-0,2-0,Stade Rennais FC 1901,
-10,Sun Nov 8 2020,Stade Brestois 29,3-2,3-1,Lille OSC,
-10,Sun Nov 8 2020,FC Lorient,0-2,0-0,FC Nantes,
-10,Sun Nov 8 2020,Racing Club de Lens,4-4,1-0,Stade de Reims,
-10,Sun Nov 8 2020,Nîmes Olympique,1-5,0-2,Angers SCO,
-10,Sun Nov 8 2020,FC Metz,1-1,1-1,Dijon Football Côte d'Or,
-10,Sun Nov 8 2020,OGC Nice,1-2,0-1,AS Monaco FC,
-10,Sun Nov 8 2020,Olympique Lyonnais,2-1,0-1,AS Saint-Étienne,
-11,Fri Nov 20 2020,Stade Rennais FC 1901,,,FC Girondins de Bordeaux,
-11,Fri Nov 20 2020,AS Monaco FC,,,Paris Saint-Germain FC,
-11,Sat Nov 21 2020,Stade Brestois 29,,,AS Saint-Étienne,
-11,Sat Nov 21 2020,Olympique de Marseille,,,OGC Nice,
-11,Sun Nov 22 2020,FC Nantes,,,FC Metz,
-11,Sun Nov 22 2020,Dijon Football Côte d'Or,,,Racing Club de Lens,
-11,Sun Nov 22 2020,Montpellier HSC,,,RC Strasbourg Alsace,
-11,Sun Nov 22 2020,Stade de Reims,,,Nîmes Olympique,
-11,Sun Nov 22 2020,Angers SCO,,,Olympique Lyonnais,
-11,Sun Nov 22 2020,Lille OSC,,,FC Lorient,
-8,Wed Nov 25 2020,Racing Club de Lens,,,FC Nantes,
-12,Fri Nov 27 2020,RC Strasbourg Alsace,,,Stade Rennais FC 1901,
-12,Sat Nov 28 2020,Olympique de Marseille,,,FC Nantes,
-12,Sat Nov 28 2020,Paris Saint-Germain FC,,,FC Girondins de Bordeaux,
-12,Sun Nov 29 2020,Olympique Lyonnais,,,Stade de Reims,
-12,Sun Nov 29 2020,FC Lorient,,,Montpellier HSC,
-12,Sun Nov 29 2020,AS Monaco FC,,,Nîmes Olympique,
-12,Sun Nov 29 2020,Racing Club de Lens,,,Angers SCO,
-12,Sun Nov 29 2020,FC Metz,,,Stade Brestois 29,
-12,Sun Nov 29 2020,OGC Nice,,,Dijon Football Côte d'Or,
-12,Sun Nov 29 2020,AS Saint-Étienne,,,Lille OSC,
-13,Fri Dec 4 2020,Nîmes Olympique,,,Olympique de Marseille,
-13,Sat Dec 5 2020,Stade Rennais FC 1901,,,Racing Club de Lens,
-13,Sat Dec 5 2020,Montpellier HSC,,,Paris Saint-Germain FC,
-13,Sun Dec 6 2020,Lille OSC,,,AS Monaco FC,
-13,Sun Dec 6 2020,FC Girondins de Bordeaux,,,Stade Brestois 29,
-13,Sun Dec 6 2020,Angers SCO,,,FC Lorient,
-13,Sun Dec 6 2020,FC Nantes,,,RC Strasbourg Alsace,
-13,Sun Dec 6 2020,Dijon Football Côte d'Or,,,AS Saint-Étienne,
-13,Sun Dec 6 2020,Stade de Reims,,,OGC Nice,
-13,Sun Dec 6 2020,FC Metz,,,Olympique Lyonnais,
-14,Mon Dec 14 2020,Lille OSC,,,FC Girondins de Bordeaux,
-14,Mon Dec 14 2020,AS Saint-Étienne,,,Angers SCO,
-14,Mon Dec 14 2020,Olympique de Marseille,,,AS Monaco FC,
-14,Mon Dec 14 2020,OGC Nice,,,Stade Rennais FC 1901,
-14,Mon Dec 14 2020,Stade Brestois 29,,,Stade de Reims,
-14,Mon Dec 14 2020,FC Lorient,,,Nîmes Olympique,
-14,Mon Dec 14 2020,FC Nantes,,,Dijon Football Côte d'Or,
-14,Mon Dec 14 2020,Racing Club de Lens,,,Montpellier HSC,
-14,Mon Dec 14 2020,RC Strasbourg Alsace,,,FC Metz,
-14,Sun Dec 13 2020,Paris Saint-Germain FC,,,Olympique Lyonnais,
-15,Thu Dec 17 2020,Montpellier HSC,,,FC Metz,
-15,Thu Dec 17 2020,Paris Saint-Germain FC,,,FC Lorient,
-15,Thu Dec 17 2020,Olympique Lyonnais,,,Stade Brestois 29,
-15,Thu Dec 17 2020,FC Girondins de Bordeaux,,,AS Saint-Étienne,
-15,Thu Dec 17 2020,Stade Rennais FC 1901,,,Olympique de Marseille,
-15,Thu Dec 17 2020,Stade de Reims,,,FC Nantes,
-15,Thu Dec 17 2020,Angers SCO,,,RC Strasbourg Alsace,
-15,Thu Dec 17 2020,AS Monaco FC,,,Racing Club de Lens,
-15,Thu Dec 17 2020,Dijon Football Côte d'Or,,,Lille OSC,
-15,Thu Dec 17 2020,Nîmes Olympique,,,OGC Nice,
-16,Mon Dec 21 2020,Lille OSC,,,Paris Saint-Germain FC,
-16,Mon Dec 21 2020,AS Saint-Étienne,,,Nîmes Olympique,
-16,Mon Dec 21 2020,Olympique de Marseille,,,Stade de Reims,
-16,Mon Dec 21 2020,OGC Nice,,,Olympique Lyonnais,
-16,Mon Dec 21 2020,Stade Brestois 29,,,Montpellier HSC,
-16,Mon Dec 21 2020,FC Lorient,,,Stade Rennais FC 1901,
-16,Mon Dec 21 2020,FC Nantes,,,Angers SCO,
-16,Mon Dec 21 2020,Dijon Football Côte d'Or,,,AS Monaco FC,
-16,Mon Dec 21 2020,FC Metz,,,Racing Club de Lens,
-16,Mon Dec 21 2020,RC Strasbourg Alsace,,,FC Girondins de Bordeaux,
-17,Thu Dec 24 2020,Montpellier HSC,,,Lille OSC,
-17,Thu Dec 24 2020,Paris Saint-Germain FC,,,RC Strasbourg Alsace,
-17,Thu Dec 24 2020,Olympique Lyonnais,,,FC Nantes,
-17,Thu Dec 24 2020,FC Girondins de Bordeaux,,,Stade de Reims,
-17,Thu Dec 24 2020,Stade Rennais FC 1901,,,FC Metz,
-17,Thu Dec 24 2020,OGC Nice,,,FC Lorient,
-17,Thu Dec 24 2020,Angers SCO,,,Olympique de Marseille,
-17,Thu Dec 24 2020,AS Monaco FC,,,AS Saint-Étienne,
-17,Thu Dec 24 2020,Racing Club de Lens,,,Stade Brestois 29,
-17,Thu Dec 24 2020,Nîmes Olympique,,,Dijon Football Côte d'Or,
-18,Thu Jan 7 2021,Lille OSC,,,Angers SCO,
-18,Thu Jan 7 2021,Olympique Lyonnais,,,Racing Club de Lens,
-18,Thu Jan 7 2021,AS Saint-Étienne,,,Paris Saint-Germain FC,
-18,Thu Jan 7 2021,Olympique de Marseille,,,Montpellier HSC,
-18,Thu Jan 7 2021,Stade Brestois 29,,,OGC Nice,
-18,Thu Jan 7 2021,FC Lorient,,,AS Monaco FC,
-18,Thu Jan 7 2021,Stade de Reims,,,Dijon Football Côte d'Or,
-18,Thu Jan 7 2021,FC Nantes,,,Stade Rennais FC 1901,
-18,Thu Jan 7 2021,FC Metz,,,FC Girondins de Bordeaux,
-18,Thu Jan 7 2021,RC Strasbourg Alsace,,,Nîmes Olympique,
-19,Mon Jan 11 2021,Montpellier HSC,,,FC Nantes,
-19,Mon Jan 11 2021,Paris Saint-Germain FC,,,Stade Brestois 29,
-19,Mon Jan 11 2021,FC Girondins de Bordeaux,,,FC Lorient,
-19,Mon Jan 11 2021,Stade Rennais FC 1901,,,Olympique Lyonnais,
-19,Mon Jan 11 2021,Stade de Reims,,,AS Saint-Étienne,
-19,Mon Jan 11 2021,AS Monaco FC,,,Angers SCO,
-19,Mon Jan 11 2021,Dijon Football Côte d'Or,,,Olympique de Marseille,
-19,Mon Jan 11 2021,Racing Club de Lens,,,RC Strasbourg Alsace,
-19,Mon Jan 11 2021,Nîmes Olympique,,,Lille OSC,
-19,Mon Jan 11 2021,FC Metz,,,OGC Nice,
-20,Thu Jan 21 2021,Montpellier HSC,,,AS Monaco FC,
-20,Thu Jan 21 2021,Lille OSC,,,Stade de Reims,
-20,Thu Jan 21 2021,Olympique Lyonnais,,,FC Metz,
-20,Thu Jan 21 2021,Olympique de Marseille,,,Nîmes Olympique,
-20,Thu Jan 21 2021,OGC Nice,,,FC Girondins de Bordeaux,
-20,Thu Jan 21 2021,Stade Brestois 29,,,Stade Rennais FC 1901,
-20,Thu Jan 21 2021,FC Lorient,,,Dijon Football Côte d'Or,
-20,Thu Jan 21 2021,Angers SCO,,,Paris Saint-Germain FC,
-20,Thu Jan 21 2021,FC Nantes,,,Racing Club de Lens,
-20,Thu Jan 21 2021,RC Strasbourg Alsace,,,AS Saint-Étienne,
-21,Mon Jan 25 2021,Paris Saint-Germain FC,,,Montpellier HSC,
-21,Mon Jan 25 2021,FC Girondins de Bordeaux,,,Angers SCO,
-21,Mon Jan 25 2021,Stade Rennais FC 1901,,,Lille OSC,
-21,Mon Jan 25 2021,AS Saint-Étienne,,,Olympique Lyonnais,
-21,Mon Jan 25 2021,Stade de Reims,,,Stade Brestois 29,
-21,Mon Jan 25 2021,AS Monaco FC,,,Olympique de Marseille,
-21,Mon Jan 25 2021,Dijon Football Côte d'Or,,,RC Strasbourg Alsace,
-21,Mon Jan 25 2021,Racing Club de Lens,,,OGC Nice,
-21,Mon Jan 25 2021,Nîmes Olympique,,,FC Lorient,
-21,Mon Jan 25 2021,FC Metz,,,FC Nantes,
-22,Mon Feb 1 2021,Montpellier HSC,,,Racing Club de Lens,
-22,Mon Feb 1 2021,Lille OSC,,,Dijon Football Côte d'Or,
-22,Mon Feb 1 2021,Olympique Lyonnais,,,FC Girondins de Bordeaux,
-22,Mon Feb 1 2021,Olympique de Marseille,,,Stade Rennais FC 1901,
-22,Mon Feb 1 2021,OGC Nice,,,AS Saint-Étienne,
-22,Mon Feb 1 2021,Stade Brestois 29,,,FC Metz,
-22,Mon Feb 1 2021,FC Lorient,,,Paris Saint-Germain FC,
-22,Mon Feb 1 2021,Angers SCO,,,Nîmes Olympique,
-22,Mon Feb 1 2021,FC Nantes,,,AS Monaco FC,
-22,Mon Feb 1 2021,RC Strasbourg Alsace,,,Stade de Reims,
-23,Thu Feb 4 2021,Paris Saint-Germain FC,,,Nîmes Olympique,
-23,Thu Feb 4 2021,FC Girondins de Bordeaux,,,Lille OSC,
-23,Thu Feb 4 2021,Stade Rennais FC 1901,,,FC Lorient,
-23,Thu Feb 4 2021,AS Saint-Étienne,,,FC Nantes,
-23,Thu Feb 4 2021,Stade de Reims,,,Angers SCO,
-23,Thu Feb 4 2021,AS Monaco FC,,,OGC Nice,
-23,Thu Feb 4 2021,Dijon Football Côte d'Or,,,Olympique Lyonnais,
-23,Thu Feb 4 2021,Racing Club de Lens,,,Olympique de Marseille,
-23,Thu Feb 4 2021,FC Metz,,,Montpellier HSC,
-23,Thu Feb 4 2021,RC Strasbourg Alsace,,,Stade Brestois 29,
-24,Mon Feb 8 2021,Montpellier HSC,,,Dijon Football Côte d'Or,
-24,Mon Feb 8 2021,Olympique Lyonnais,,,RC Strasbourg Alsace,
-24,Mon Feb 8 2021,AS Saint-Étienne,,,FC Metz,
-24,Mon Feb 8 2021,Olympique de Marseille,,,Paris Saint-Germain FC,
-24,Mon Feb 8 2021,OGC Nice,,,Angers SCO,
-24,Mon Feb 8 2021,Stade Brestois 29,,,FC Girondins de Bordeaux,
-24,Mon Feb 8 2021,FC Lorient,,,Stade de Reims,
-24,Mon Feb 8 2021,FC Nantes,,,Lille OSC,
-24,Mon Feb 8 2021,Racing Club de Lens,,,Stade Rennais FC 1901,
-24,Mon Feb 8 2021,Nîmes Olympique,,,AS Monaco FC,
-25,Mon Feb 15 2021,Paris Saint-Germain FC,,,OGC Nice,
-25,Mon Feb 15 2021,Lille OSC,,,Stade Brestois 29,
-25,Mon Feb 15 2021,Olympique Lyonnais,,,Montpellier HSC,
-25,Mon Feb 15 2021,FC Girondins de Bordeaux,,,Olympique de Marseille,
-25,Mon Feb 15 2021,Stade Rennais FC 1901,,,AS Saint-Étienne,
-25,Mon Feb 15 2021,Stade de Reims,,,Racing Club de Lens,
-25,Mon Feb 15 2021,Angers SCO,,,FC Nantes,
-25,Mon Feb 15 2021,AS Monaco FC,,,FC Lorient,
-25,Mon Feb 15 2021,Dijon Football Côte d'Or,,,Nîmes Olympique,
-25,Mon Feb 15 2021,FC Metz,,,RC Strasbourg Alsace,
-26,Mon Feb 22 2021,Montpellier HSC,,,Stade Rennais FC 1901,
-26,Mon Feb 22 2021,Paris Saint-Germain FC,,,AS Monaco FC,
-26,Mon Feb 22 2021,AS Saint-Étienne,,,Stade de Reims,
-26,Mon Feb 22 2021,OGC Nice,,,FC Metz,
-26,Mon Feb 22 2021,Stade Brestois 29,,,Olympique Lyonnais,
-26,Mon Feb 22 2021,FC Lorient,,,Lille OSC,
-26,Mon Feb 22 2021,FC Nantes,,,Olympique de Marseille,
-26,Mon Feb 22 2021,Racing Club de Lens,,,Dijon Football Côte d'Or,
-26,Mon Feb 22 2021,Nîmes Olympique,,,FC Girondins de Bordeaux,
-26,Mon Feb 22 2021,RC Strasbourg Alsace,,,Angers SCO,
-27,Mon Mar 1 2021,Lille OSC,,,RC Strasbourg Alsace,
-27,Mon Mar 1 2021,FC Girondins de Bordeaux,,,FC Metz,
-27,Mon Mar 1 2021,Stade Rennais FC 1901,,,OGC Nice,
-27,Mon Mar 1 2021,Olympique de Marseille,,,Olympique Lyonnais,
-27,Mon Mar 1 2021,FC Lorient,,,AS Saint-Étienne,
-27,Mon Mar 1 2021,Stade de Reims,,,Montpellier HSC,
-27,Mon Mar 1 2021,Angers SCO,,,Racing Club de Lens,
-27,Mon Mar 1 2021,AS Monaco FC,,,Stade Brestois 29,
-27,Mon Mar 1 2021,Dijon Football Côte d'Or,,,Paris Saint-Germain FC,
-27,Mon Mar 1 2021,Nîmes Olympique,,,FC Nantes,
-28,Mon Mar 8 2021,Montpellier HSC,,,FC Lorient,
-28,Mon Mar 8 2021,Lille OSC,,,Olympique de Marseille,
-28,Mon Mar 8 2021,Olympique Lyonnais,,,Stade Rennais FC 1901,
-28,Mon Mar 8 2021,FC Girondins de Bordeaux,,,Paris Saint-Germain FC,
-28,Mon Mar 8 2021,AS Saint-Étienne,,,Racing Club de Lens,
-28,Mon Mar 8 2021,OGC Nice,,,Nîmes Olympique,
-28,Mon Mar 8 2021,Stade Brestois 29,,,Dijon Football Côte d'Or,
-28,Mon Mar 8 2021,FC Nantes,,,Stade de Reims,
-28,Mon Mar 8 2021,FC Metz,,,Angers SCO,
-28,Mon Mar 8 2021,RC Strasbourg Alsace,,,AS Monaco FC,
-29,Mon Mar 15 2021,Paris Saint-Germain FC,,,FC Nantes,
-29,Mon Mar 15 2021,Stade Rennais FC 1901,,,RC Strasbourg Alsace,
-29,Mon Mar 15 2021,Olympique de Marseille,,,Stade Brestois 29,
-29,Mon Mar 15 2021,FC Lorient,,,OGC Nice,
-29,Mon Mar 15 2021,Stade de Reims,,,Olympique Lyonnais,
-29,Mon Mar 15 2021,Angers SCO,,,AS Saint-Étienne,
-29,Mon Mar 15 2021,AS Monaco FC,,,Lille OSC,
-29,Mon Mar 15 2021,Dijon Football Côte d'Or,,,FC Girondins de Bordeaux,
-29,Mon Mar 15 2021,Racing Club de Lens,,,FC Metz,
-29,Mon Mar 15 2021,Nîmes Olympique,,,Montpellier HSC,
-30,Mon Mar 22 2021,Montpellier HSC,,,FC Girondins de Bordeaux,
-30,Mon Mar 22 2021,Lille OSC,,,Nîmes Olympique,
-30,Mon Mar 22 2021,Olympique Lyonnais,,,Paris Saint-Germain FC,
-30,Mon Mar 22 2021,AS Saint-Étienne,,,AS Monaco FC,
-30,Mon Mar 22 2021,OGC Nice,,,Olympique de Marseille,
-30,Mon Mar 22 2021,Stade Brestois 29,,,Angers SCO,
-30,Mon Mar 22 2021,FC Nantes,,,FC Lorient,
-30,Mon Mar 22 2021,Dijon Football Côte d'Or,,,Stade de Reims,
-30,Mon Mar 22 2021,FC Metz,,,Stade Rennais FC 1901,
-30,Mon Mar 22 2021,RC Strasbourg Alsace,,,Racing Club de Lens,
-31,Mon Apr 5 2021,Paris Saint-Germain FC,,,Lille OSC,
-31,Mon Apr 5 2021,FC Girondins de Bordeaux,,,RC Strasbourg Alsace,
-31,Mon Apr 5 2021,Olympique de Marseille,,,Dijon Football Côte d'Or,
-31,Mon Apr 5 2021,FC Lorient,,,Stade Brestois 29,
-31,Mon Apr 5 2021,Stade de Reims,,,Stade Rennais FC 1901,
-31,Mon Apr 5 2021,Angers SCO,,,Montpellier HSC,
-31,Mon Apr 5 2021,FC Nantes,,,OGC Nice,
-31,Mon Apr 5 2021,AS Monaco FC,,,FC Metz,
-31,Mon Apr 5 2021,Racing Club de Lens,,,Olympique Lyonnais,
-31,Mon Apr 5 2021,Nîmes Olympique,,,AS Saint-Étienne,
-32,Mon Apr 12 2021,Montpellier HSC,,,Olympique de Marseille,
-32,Mon Apr 12 2021,Olympique Lyonnais,,,Angers SCO,
-32,Mon Apr 12 2021,Stade Rennais FC 1901,,,FC Nantes,
-32,Mon Apr 12 2021,AS Saint-Étienne,,,FC Girondins de Bordeaux,
-32,Mon Apr 12 2021,OGC Nice,,,Stade de Reims,
-32,Mon Apr 12 2021,Stade Brestois 29,,,Nîmes Olympique,
-32,Mon Apr 12 2021,AS Monaco FC,,,Dijon Football Côte d'Or,
-32,Mon Apr 12 2021,Racing Club de Lens,,,FC Lorient,
-32,Mon Apr 12 2021,FC Metz,,,Lille OSC,
-32,Mon Apr 12 2021,RC Strasbourg Alsace,,,Paris Saint-Germain FC,
-33,Mon Apr 19 2021,Paris Saint-Germain FC,,,AS Saint-Étienne,
-33,Mon Apr 19 2021,Lille OSC,,,Montpellier HSC,
-33,Mon Apr 19 2021,FC Girondins de Bordeaux,,,AS Monaco FC,
-33,Mon Apr 19 2021,Olympique de Marseille,,,FC Lorient,
-33,Mon Apr 19 2021,Stade Brestois 29,,,Racing Club de Lens,
-33,Mon Apr 19 2021,Stade de Reims,,,FC Metz,
-33,Mon Apr 19 2021,Angers SCO,,,Stade Rennais FC 1901,
-33,Mon Apr 19 2021,FC Nantes,,,Olympique Lyonnais,
-33,Mon Apr 19 2021,Dijon Football Côte d'Or,,,OGC Nice,
-33,Mon Apr 19 2021,Nîmes Olympique,,,RC Strasbourg Alsace,
-34,Thu Apr 22 2021,Olympique Lyonnais,,,Lille OSC,
-34,Thu Apr 22 2021,Stade Rennais FC 1901,,,Dijon Football Côte d'Or,
-34,Thu Apr 22 2021,AS Saint-Étienne,,,Stade Brestois 29,
-34,Thu Apr 22 2021,OGC Nice,,,Montpellier HSC,
-34,Thu Apr 22 2021,FC Lorient,,,FC Girondins de Bordeaux,
-34,Thu Apr 22 2021,Stade de Reims,,,Olympique de Marseille,
-34,Thu Apr 22 2021,Angers SCO,,,AS Monaco FC,
-34,Thu Apr 22 2021,Racing Club de Lens,,,Nîmes Olympique,
-34,Thu Apr 22 2021,FC Metz,,,Paris Saint-Germain FC,
-34,Thu Apr 22 2021,RC Strasbourg Alsace,,,FC Nantes,
-35,Mon May 3 2021,Montpellier HSC,,,AS Saint-Étienne,
-35,Mon May 3 2021,Paris Saint-Germain FC,,,Racing Club de Lens,
-35,Mon May 3 2021,Lille OSC,,,OGC Nice,
-35,Mon May 3 2021,FC Girondins de Bordeaux,,,Stade Rennais FC 1901,
-35,Mon May 3 2021,Olympique de Marseille,,,RC Strasbourg Alsace,
-35,Mon May 3 2021,Stade Brestois 29,,,FC Nantes,
-35,Mon May 3 2021,FC Lorient,,,Angers SCO,
-35,Mon May 3 2021,AS Monaco FC,,,Olympique Lyonnais,
-35,Mon May 3 2021,Dijon Football Côte d'Or,,,FC Metz,
-35,Mon May 3 2021,Nîmes Olympique,,,Stade de Reims,
-36,Mon May 10 2021,Olympique Lyonnais,,,FC Lorient,
-36,Mon May 10 2021,Stade Rennais FC 1901,,,Paris Saint-Germain FC,
-36,Mon May 10 2021,AS Saint-Étienne,,,Olympique de Marseille,
-36,Mon May 10 2021,OGC Nice,,,Stade Brestois 29,
-36,Mon May 10 2021,Stade de Reims,,,AS Monaco FC,
-36,Mon May 10 2021,Angers SCO,,,Dijon Football Côte d'Or,
-36,Mon May 10 2021,FC Nantes,,,FC Girondins de Bordeaux,
-36,Mon May 10 2021,Racing Club de Lens,,,Lille OSC,
-36,Mon May 10 2021,FC Metz,,,Nîmes Olympique,
-36,Mon May 10 2021,RC Strasbourg Alsace,,,Montpellier HSC,
-37,Mon May 17 2021,OGC Nice,,,RC Strasbourg Alsace,
-37,Mon May 17 2021,FC Lorient,,,FC Metz,
-37,Mon May 17 2021,AS Monaco FC,,,Stade Rennais FC 1901,
-37,Mon May 17 2021,Dijon Football Côte d'Or,,,FC Nantes,
-37,Mon May 17 2021,Nîmes Olympique,,,Olympique Lyonnais,
-37,Mon May 17 2021,Montpellier HSC,,,Stade Brestois 29,
-37,Mon May 17 2021,Paris Saint-Germain FC,,,Stade de Reims,
-37,Mon May 17 2021,Lille OSC,,,AS Saint-Étienne,
-37,Mon May 17 2021,FC Girondins de Bordeaux,,,Racing Club de Lens,
-37,Mon May 17 2021,Olympique de Marseille,,,Angers SCO,
-38,Mon May 24 2021,Olympique Lyonnais,,,OGC Nice,
-38,Mon May 24 2021,Stade Rennais FC 1901,,,Nîmes Olympique,
-38,Mon May 24 2021,AS Saint-Étienne,,,Dijon Football Côte d'Or,
-38,Mon May 24 2021,Stade Brestois 29,,,Paris Saint-Germain FC,
-38,Mon May 24 2021,Stade de Reims,,,FC Girondins de Bordeaux,
-38,Mon May 24 2021,Angers SCO,,,Lille OSC,
-38,Mon May 24 2021,FC Nantes,,,Montpellier HSC,
-38,Mon May 24 2021,Racing Club de Lens,,,AS Monaco FC,
-38,Mon May 24 2021,FC Metz,,,Olympique de Marseille,
-38,Mon May 24 2021,RC Strasbourg Alsace,,,FC Lorient,
+Matchday,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,Status,UTC
+1,Fri Aug 21 2020,19:00,CEST / UTC+0200,FC Girondins de Bordeaux,0-0,0-0,FC Nantes,,FINISHED,2020-08-21T17:00:00Z
+1,Sat Aug 22 2020,17:00,CEST / UTC+0200,Dijon Football Côte d'Or,0-1,0-1,Angers SCO,,FINISHED,2020-08-22T15:00:00Z
+1,Sat Aug 22 2020,21:00,CEST / UTC+0200,Lille OSC,1-1,1-0,Stade Rennais FC 1901,,FINISHED,2020-08-22T19:00:00Z
+1,Sun Aug 23 2020,13:00,CEST / UTC+0200,AS Monaco FC,2-2,1-2,Stade de Reims,,FINISHED,2020-08-23T11:00:00Z
+1,Sun Aug 23 2020,15:00,CEST / UTC+0200,FC Lorient,3-1,0-1,RC Strasbourg Alsace,,FINISHED,2020-08-23T13:00:00Z
+1,Sun Aug 23 2020,15:00,CEST / UTC+0200,Nîmes Olympique,4-0,2-0,Stade Brestois 29,,FINISHED,2020-08-23T13:00:00Z
+1,Sun Aug 23 2020,17:00,CEST / UTC+0200,OGC Nice,2-1,1-1,Racing Club de Lens,,FINISHED,2020-08-23T15:00:00Z
+2,Fri Aug 28 2020,21:00,CEST / UTC+0200,Olympique Lyonnais,4-1,3-1,Dijon Football Côte d'Or,,FINISHED,2020-08-28T19:00:00Z
+2,Sat Aug 29 2020,17:00,CEST / UTC+0200,Stade Rennais FC 1901,2-1,1-0,Montpellier HSC,,FINISHED,2020-08-29T15:00:00Z
+2,Sat Aug 29 2020,21:00,CEST / UTC+0200,RC Strasbourg Alsace,0-2,0-1,OGC Nice,,FINISHED,2020-08-29T19:00:00Z
+2,Sun Aug 30 2020,13:00,CEST / UTC+0200,Stade de Reims,0-1,0-1,Lille OSC,,FINISHED,2020-08-30T11:00:00Z
+2,Sun Aug 30 2020,15:00,CEST / UTC+0200,AS Saint-Étienne,2-0,1-0,FC Lorient,,FINISHED,2020-08-30T13:00:00Z
+2,Sun Aug 30 2020,15:00,CEST / UTC+0200,Angers SCO,0-2,0-2,FC Girondins de Bordeaux,,FINISHED,2020-08-30T13:00:00Z
+2,Sun Aug 30 2020,15:00,CEST / UTC+0200,FC Nantes,2-1,2-0,Nîmes Olympique,,FINISHED,2020-08-30T13:00:00Z
+2,Sun Aug 30 2020,15:00,CEST / UTC+0200,FC Metz,0-1,0-1,AS Monaco FC,,FINISHED,2020-08-30T13:00:00Z
+2,Sun Aug 30 2020,21:00,CEST / UTC+0200,Stade Brestois 29,2-3,1-2,Olympique de Marseille,,FINISHED,2020-08-30T19:00:00Z
+2,Thu Sep 10 2020,21:00,CEST / UTC+0200,Racing Club de Lens,1-0,0-0,Paris Saint-Germain FC,,FINISHED,2020-09-10T19:00:00Z
+3,Fri Sep 11 2020,21:00,CEST / UTC+0200,FC Girondins de Bordeaux,0-0,0-0,Olympique Lyonnais,,FINISHED,2020-09-11T19:00:00Z
+3,Sat Sep 12 2020,17:00,CEST / UTC+0200,Montpellier HSC,3-1,1-0,OGC Nice,,FINISHED,2020-09-12T15:00:00Z
+3,Sat Sep 12 2020,21:00,CEST / UTC+0200,AS Saint-Étienne,2-0,0-0,RC Strasbourg Alsace,,FINISHED,2020-09-12T19:00:00Z
+3,Sun Sep 13 2020,13:00,CEST / UTC+0200,Lille OSC,1-0,0-0,FC Metz,,FINISHED,2020-09-13T11:00:00Z
+3,Sun Sep 13 2020,15:00,CEST / UTC+0200,FC Lorient,2-3,1-2,Racing Club de Lens,,FINISHED,2020-09-13T13:00:00Z
+3,Sun Sep 13 2020,15:00,CEST / UTC+0200,Angers SCO,1-0,0-0,Stade de Reims,,FINISHED,2020-09-13T13:00:00Z
+3,Sun Sep 13 2020,15:00,CEST / UTC+0200,Dijon Football Côte d'Or,0-2,0-1,Stade Brestois 29,,FINISHED,2020-09-13T13:00:00Z
+3,Sun Sep 13 2020,15:00,CEST / UTC+0200,Nîmes Olympique,2-4,1-2,Stade Rennais FC 1901,,FINISHED,2020-09-13T13:00:00Z
+3,Sun Sep 13 2020,17:00,CEST / UTC+0200,AS Monaco FC,2-1,1-0,FC Nantes,,FINISHED,2020-09-13T15:00:00Z
+3,Sun Sep 13 2020,21:00,CEST / UTC+0200,Paris Saint-Germain FC,0-1,0-1,Olympique de Marseille,,FINISHED,2020-09-13T19:00:00Z
+1,Tue Sep 15 2020,21:00,CEST / UTC+0200,Montpellier HSC,2-1,1-0,Olympique Lyonnais,,FINISHED,2020-09-15T19:00:00Z
+1,Wed Sep 16 2020,21:00,CEST / UTC+0200,Paris Saint-Germain FC,1-0,0-0,FC Metz,,FINISHED,2020-09-16T19:00:00Z
+1,Thu Sep 17 2020,21:00,CEST / UTC+0200,Olympique de Marseille,0-2,0-1,AS Saint-Étienne,,FINISHED,2020-09-17T19:00:00Z
+4,Fri Sep 18 2020,21:00,CEST / UTC+0200,Olympique Lyonnais,0-0,0-0,Nîmes Olympique,,FINISHED,2020-09-18T19:00:00Z
+4,Sat Sep 19 2020,17:00,CEST / UTC+0200,Racing Club de Lens,2-1,0-0,FC Girondins de Bordeaux,,FINISHED,2020-09-19T15:00:00Z
+4,Sat Sep 19 2020,21:00,CEST / UTC+0200,Stade Rennais FC 1901,2-1,0-1,AS Monaco FC,,FINISHED,2020-09-19T19:00:00Z
+4,Sun Sep 20 2020,13:00,CEST / UTC+0200,OGC Nice,0-3,0-2,Paris Saint-Germain FC,,FINISHED,2020-09-20T11:00:00Z
+4,Sun Sep 20 2020,15:00,CEST / UTC+0200,Montpellier HSC,4-1,2-1,Angers SCO,,FINISHED,2020-09-20T13:00:00Z
+4,Sun Sep 20 2020,15:00,CEST / UTC+0200,Stade Brestois 29,3-2,2-1,FC Lorient,,FINISHED,2020-09-20T13:00:00Z
+4,Sun Sep 20 2020,15:00,CEST / UTC+0200,FC Metz,2-1,1-1,Stade de Reims,,FINISHED,2020-09-20T13:00:00Z
+4,Sun Sep 20 2020,15:00,CEST / UTC+0200,RC Strasbourg Alsace,1-0,0-0,Dijon Football Côte d'Or,,FINISHED,2020-09-20T13:00:00Z
+4,Sun Sep 20 2020,17:00,CEST / UTC+0200,FC Nantes,2-2,0-1,AS Saint-Étienne,,FINISHED,2020-09-20T15:00:00Z
+4,Sun Sep 20 2020,21:00,CEST / UTC+0200,Olympique de Marseille,1-1,0-0,Lille OSC,,FINISHED,2020-09-20T19:00:00Z
+5,Fri Sep 25 2020,21:00,CEST / UTC+0200,Lille OSC,2-0,1-0,FC Nantes,,FINISHED,2020-09-25T19:00:00Z
+5,Sat Sep 26 2020,17:00,CEST / UTC+0200,AS Saint-Étienne,0-3,0-1,Stade Rennais FC 1901,,FINISHED,2020-09-26T15:00:00Z
+5,Sat Sep 26 2020,21:00,CEST / UTC+0200,Olympique de Marseille,1-1,0-0,FC Metz,,FINISHED,2020-09-26T19:00:00Z
+5,Sun Sep 27 2020,13:00,CEST / UTC+0200,FC Girondins de Bordeaux,0-0,0-0,OGC Nice,,FINISHED,2020-09-27T11:00:00Z
+5,Sun Sep 27 2020,15:00,CEST / UTC+0200,Angers SCO,3-2,1-2,Stade Brestois 29,,FINISHED,2020-09-27T13:00:00Z
+5,Sun Sep 27 2020,15:00,CEST / UTC+0200,AS Monaco FC,3-2,2-0,RC Strasbourg Alsace,,FINISHED,2020-09-27T13:00:00Z
+5,Sun Sep 27 2020,15:00,CEST / UTC+0200,Dijon Football Côte d'Or,2-2,1-0,Montpellier HSC,,FINISHED,2020-09-27T13:00:00Z
+5,Sun Sep 27 2020,15:00,CEST / UTC+0200,Nîmes Olympique,1-1,0-1,Racing Club de Lens,,FINISHED,2020-09-27T13:00:00Z
+5,Sun Sep 27 2020,17:00,CEST / UTC+0200,FC Lorient,1-1,0-0,Olympique Lyonnais,,FINISHED,2020-09-27T15:00:00Z
+5,Sun Sep 27 2020,21:00,CEST / UTC+0200,Stade de Reims,0-2,0-1,Paris Saint-Germain FC,,FINISHED,2020-09-27T19:00:00Z
+6,Fri Oct 2 2020,21:00,CEST / UTC+0200,Paris Saint-Germain FC,6-1,2-0,Angers SCO,,FINISHED,2020-10-02T19:00:00Z
+6,Sat Oct 3 2020,17:00,CEST / UTC+0200,Racing Club de Lens,2-0,1-0,AS Saint-Étienne,,FINISHED,2020-10-03T15:00:00Z
+6,Sat Oct 3 2020,21:00,CEST / UTC+0200,OGC Nice,2-1,1-1,FC Nantes,,FINISHED,2020-10-03T19:00:00Z
+6,Sun Oct 4 2020,13:00,CEST / UTC+0200,Montpellier HSC,0-1,0-0,Nîmes Olympique,,FINISHED,2020-10-04T11:00:00Z
+6,Sun Oct 4 2020,15:00,CEST / UTC+0200,FC Girondins de Bordeaux,3-0,2-0,Dijon Football Côte d'Or,,FINISHED,2020-10-04T13:00:00Z
+6,Sun Oct 4 2020,15:00,CEST / UTC+0200,Stade Brestois 29,1-0,1-0,AS Monaco FC,,FINISHED,2020-10-04T13:00:00Z
+6,Sun Oct 4 2020,15:00,CEST / UTC+0200,FC Metz,3-1,1-1,FC Lorient,,FINISHED,2020-10-04T13:00:00Z
+6,Sun Oct 4 2020,15:00,CEST / UTC+0200,RC Strasbourg Alsace,0-3,0-1,Lille OSC,,FINISHED,2020-10-04T13:00:00Z
+6,Sun Oct 4 2020,17:00,CEST / UTC+0200,Stade Rennais FC 1901,2-2,2-1,Stade de Reims,,FINISHED,2020-10-04T15:00:00Z
+6,Sun Oct 4 2020,21:00,CEST / UTC+0200,Olympique Lyonnais,1-1,1-1,Olympique de Marseille,,FINISHED,2020-10-04T19:00:00Z
+7,Fri Oct 16 2020,19:00,CEST / UTC+0200,Dijon Football Côte d'Or,1-1,0-1,Stade Rennais FC 1901,,FINISHED,2020-10-16T17:00:00Z
+7,Fri Oct 16 2020,21:00,CEST / UTC+0200,Nîmes Olympique,0-4,0-1,Paris Saint-Germain FC,,FINISHED,2020-10-16T19:00:00Z
+7,Sat Oct 17 2020,17:00,CEST / UTC+0200,Stade de Reims,1-3,1-0,FC Lorient,,FINISHED,2020-10-17T15:00:00Z
+7,Sat Oct 17 2020,21:00,CEST / UTC+0200,Olympique de Marseille,3-1,1-0,FC Girondins de Bordeaux,,FINISHED,2020-10-17T19:00:00Z
+7,Sun Oct 18 2020,13:00,CEST / UTC+0200,RC Strasbourg Alsace,2-3,1-3,Olympique Lyonnais,,FINISHED,2020-10-18T11:00:00Z
+7,Sun Oct 18 2020,15:00,CEST / UTC+0200,Angers SCO,1-1,1-1,FC Metz,,FINISHED,2020-10-18T13:00:00Z
+7,Sun Oct 18 2020,15:00,CEST / UTC+0200,FC Nantes,3-1,2-0,Stade Brestois 29,,FINISHED,2020-10-18T13:00:00Z
+7,Sun Oct 18 2020,15:00,CEST / UTC+0200,AS Monaco FC,1-1,0-0,Montpellier HSC,,FINISHED,2020-10-18T13:00:00Z
+7,Sun Oct 18 2020,17:00,CEST / UTC+0200,AS Saint-Étienne,1-3,0-2,OGC Nice,,FINISHED,2020-10-18T15:00:00Z
+7,Sun Oct 18 2020,21:00,CEST / UTC+0200,Lille OSC,4-0,1-0,Racing Club de Lens,,FINISHED,2020-10-18T19:00:00Z
+8,Fri Oct 23 2020,21:00,CEST / UTC+0200,Stade Rennais FC 1901,1-2,1-1,Angers SCO,,FINISHED,2020-10-23T19:00:00Z
+8,Sat Oct 24 2020,17:00,CEST / UTC+0200,FC Lorient,0-1,0-0,Olympique de Marseille,,FINISHED,2020-10-24T15:00:00Z
+8,Sat Oct 24 2020,21:00,CEST / UTC+0200,Paris Saint-Germain FC,4-0,2-0,Dijon Football Côte d'Or,,FINISHED,2020-10-24T19:00:00Z
+8,Sun Oct 25 2020,15:00,CET / UTC+0100,Montpellier HSC,0-4,0-3,Stade de Reims,,FINISHED,2020-10-25T14:00:00Z
+8,Sun Oct 25 2020,15:00,CET / UTC+0100,FC Girondins de Bordeaux,2-0,0-0,Nîmes Olympique,,FINISHED,2020-10-25T14:00:00Z
+8,Sun Oct 25 2020,15:00,CET / UTC+0100,Stade Brestois 29,0-3,0-2,RC Strasbourg Alsace,,FINISHED,2020-10-25T14:00:00Z
+8,Sun Oct 25 2020,15:00,CET / UTC+0100,FC Metz,2-0,1-0,AS Saint-Étienne,,FINISHED,2020-10-25T14:00:00Z
+8,Sun Oct 25 2020,17:00,CET / UTC+0100,OGC Nice,1-1,0-0,Lille OSC,,FINISHED,2020-10-25T16:00:00Z
+8,Sun Oct 25 2020,21:00,CET / UTC+0100,Olympique Lyonnais,4-1,4-0,AS Monaco FC,,FINISHED,2020-10-25T20:00:00Z
+9,Sat Oct 31 2020,17:00,CET / UTC+0100,Stade Rennais FC 1901,2-1,0-0,Stade Brestois 29,,FINISHED,2020-10-31T16:00:00Z
+9,Sat Oct 31 2020,21:00,CET / UTC+0100,FC Nantes,0-3,0-0,Paris Saint-Germain FC,,FINISHED,2020-10-31T20:00:00Z
+9,Sun Nov 1 2020,13:00,CET / UTC+0100,AS Saint-Étienne,0-1,0-1,Montpellier HSC,,FINISHED,2020-11-01T12:00:00Z
+9,Sun Nov 1 2020,15:00,CET / UTC+0100,Stade de Reims,2-1,2-1,RC Strasbourg Alsace,,FINISHED,2020-11-01T14:00:00Z
+9,Sun Nov 1 2020,15:00,CET / UTC+0100,Angers SCO,0-3,0-2,OGC Nice,,FINISHED,2020-11-01T14:00:00Z
+9,Sun Nov 1 2020,15:00,CET / UTC+0100,Dijon Football Côte d'Or,0-0,0-0,FC Lorient,,FINISHED,2020-11-01T14:00:00Z
+9,Sun Nov 1 2020,15:00,CET / UTC+0100,Nîmes Olympique,0-1,0-1,FC Metz,,FINISHED,2020-11-01T14:00:00Z
+9,Sun Nov 1 2020,17:00,CET / UTC+0100,AS Monaco FC,4-0,3-0,FC Girondins de Bordeaux,,FINISHED,2020-11-01T16:00:00Z
+9,Sun Nov 1 2020,21:00,CET / UTC+0100,Lille OSC,1-1,1-1,Olympique Lyonnais,,FINISHED,2020-11-01T20:00:00Z
+10,Fri Nov 6 2020,21:00,CET / UTC+0100,RC Strasbourg Alsace,0-1,0-0,Olympique de Marseille,,FINISHED,2020-11-06T20:00:00Z
+10,Sat Nov 7 2020,17:00,CET / UTC+0100,FC Girondins de Bordeaux,0-2,0-0,Montpellier HSC,,FINISHED,2020-11-07T16:00:00Z
+10,Sat Nov 7 2020,21:00,CET / UTC+0100,Paris Saint-Germain FC,3-0,2-0,Stade Rennais FC 1901,,FINISHED,2020-11-07T20:00:00Z
+10,Sun Nov 8 2020,13:00,CET / UTC+0100,Stade Brestois 29,3-2,3-1,Lille OSC,,FINISHED,2020-11-08T12:00:00Z
+10,Sun Nov 8 2020,15:00,CET / UTC+0100,FC Lorient,0-2,0-0,FC Nantes,,FINISHED,2020-11-08T14:00:00Z
+10,Sun Nov 8 2020,15:00,CET / UTC+0100,Racing Club de Lens,4-4,1-0,Stade de Reims,,FINISHED,2020-11-08T14:00:00Z
+10,Sun Nov 8 2020,15:00,CET / UTC+0100,Nîmes Olympique,1-5,0-2,Angers SCO,,FINISHED,2020-11-08T14:00:00Z
+10,Sun Nov 8 2020,15:00,CET / UTC+0100,FC Metz,1-1,1-1,Dijon Football Côte d'Or,,FINISHED,2020-11-08T14:00:00Z
+10,Sun Nov 8 2020,17:00,CET / UTC+0100,OGC Nice,1-2,0-1,AS Monaco FC,,FINISHED,2020-11-08T16:00:00Z
+10,Sun Nov 8 2020,21:00,CET / UTC+0100,Olympique Lyonnais,2-1,0-1,AS Saint-Étienne,,FINISHED,2020-11-08T20:00:00Z
+11,Fri Nov 20 2020,19:00,CET / UTC+0100,Stade Rennais FC 1901,0-1,0-1,FC Girondins de Bordeaux,,FINISHED,2020-11-20T18:00:00Z
+11,Fri Nov 20 2020,21:00,CET / UTC+0100,AS Monaco FC,3-2,0-2,Paris Saint-Germain FC,,FINISHED,2020-11-20T20:00:00Z
+11,Sat Nov 21 2020,17:00,CET / UTC+0100,Stade Brestois 29,4-1,4-1,AS Saint-Étienne,,FINISHED,2020-11-21T16:00:00Z
+11,Sun Nov 22 2020,13:00,CET / UTC+0100,FC Nantes,1-1,1-1,FC Metz,,FINISHED,2020-11-22T12:00:00Z
+11,Sun Nov 22 2020,15:00,CET / UTC+0100,Dijon Football Côte d'Or,0-1,0-1,Racing Club de Lens,,FINISHED,2020-11-22T14:00:00Z
+11,Sun Nov 22 2020,15:00,CET / UTC+0100,Montpellier HSC,4-3,3-3,RC Strasbourg Alsace,,FINISHED,2020-11-22T14:00:00Z
+11,Sun Nov 22 2020,15:00,CET / UTC+0100,Stade de Reims,0-1,0-0,Nîmes Olympique,,FINISHED,2020-11-22T14:00:00Z
+11,Sun Nov 22 2020,17:00,CET / UTC+0100,Angers SCO,0-1,0-0,Olympique Lyonnais,,FINISHED,2020-11-22T16:00:00Z
+11,Sun Nov 22 2020,21:00,CET / UTC+0100,Lille OSC,4-0,1-0,FC Lorient,,FINISHED,2020-11-22T20:00:00Z
+8,Wed Nov 25 2020,19:00,CET / UTC+0100,Racing Club de Lens,1-1,1-0,FC Nantes,,FINISHED,2020-11-25T18:00:00Z
+12,Fri Nov 27 2020,21:00,CET / UTC+0100,RC Strasbourg Alsace,1-1,1-0,Stade Rennais FC 1901,,FINISHED,2020-11-27T20:00:00Z
+12,Sat Nov 28 2020,17:00,CET / UTC+0100,Olympique de Marseille,3-1,2-0,FC Nantes,,FINISHED,2020-11-28T16:00:00Z
+12,Sat Nov 28 2020,21:00,CET / UTC+0100,Paris Saint-Germain FC,2-2,2-1,FC Girondins de Bordeaux,,FINISHED,2020-11-28T20:00:00Z
+12,Sun Nov 29 2020,13:00,CET / UTC+0100,Olympique Lyonnais,3-0,1-0,Stade de Reims,,FINISHED,2020-11-29T12:00:00Z
+12,Sun Nov 29 2020,15:00,CET / UTC+0100,FC Lorient,0-1,0-0,Montpellier HSC,,FINISHED,2020-11-29T14:00:00Z
+12,Sun Nov 29 2020,15:00,CET / UTC+0100,AS Monaco FC,3-0,1-0,Nîmes Olympique,,FINISHED,2020-11-29T14:00:00Z
+12,Sun Nov 29 2020,15:00,CET / UTC+0100,Racing Club de Lens,1-3,1-1,Angers SCO,,FINISHED,2020-11-29T14:00:00Z
+12,Sun Nov 29 2020,15:00,CET / UTC+0100,FC Metz,0-2,0-1,Stade Brestois 29,,FINISHED,2020-11-29T14:00:00Z
+12,Sun Nov 29 2020,17:00,CET / UTC+0100,OGC Nice,1-3,0-2,Dijon Football Côte d'Or,,FINISHED,2020-11-29T16:00:00Z
+12,Sun Nov 29 2020,21:00,CET / UTC+0100,AS Saint-Étienne,1-1,1-0,Lille OSC,,FINISHED,2020-11-29T20:00:00Z
+13,Fri Dec 4 2020,21:00,CET / UTC+0100,Nîmes Olympique,0-2,0-0,Olympique de Marseille,,FINISHED,2020-12-04T20:00:00Z
+13,Sat Dec 5 2020,17:00,CET / UTC+0100,Stade Rennais FC 1901,0-2,0-1,Racing Club de Lens,,FINISHED,2020-12-05T16:00:00Z
+13,Sat Dec 5 2020,21:00,CET / UTC+0100,Montpellier HSC,1-3,1-1,Paris Saint-Germain FC,,FINISHED,2020-12-05T20:00:00Z
+13,Sun Dec 6 2020,13:00,CET / UTC+0100,Lille OSC,2-1,0-0,AS Monaco FC,,FINISHED,2020-12-06T12:00:00Z
+13,Sun Dec 6 2020,15:00,CET / UTC+0100,FC Girondins de Bordeaux,1-0,0-0,Stade Brestois 29,,FINISHED,2020-12-06T14:00:00Z
+13,Sun Dec 6 2020,15:00,CET / UTC+0100,Angers SCO,2-0,1-0,FC Lorient,,FINISHED,2020-12-06T14:00:00Z
+13,Sun Dec 6 2020,15:00,CET / UTC+0100,FC Nantes,0-4,0-2,RC Strasbourg Alsace,,FINISHED,2020-12-06T14:00:00Z
+13,Sun Dec 6 2020,15:00,CET / UTC+0100,Dijon Football Côte d'Or,0-0,0-0,AS Saint-Étienne,,FINISHED,2020-12-06T14:00:00Z
+13,Sun Dec 6 2020,17:00,CET / UTC+0100,Stade de Reims,0-0,0-0,OGC Nice,,FINISHED,2020-12-06T16:00:00Z
+13,Sun Dec 6 2020,21:00,CET / UTC+0100,FC Metz,1-3,0-1,Olympique Lyonnais,,FINISHED,2020-12-06T20:00:00Z
+14,Fri Dec 11 2020,21:00,CET / UTC+0100,AS Saint-Étienne,0-0,0-0,Angers SCO,,FINISHED,2020-12-11T20:00:00Z
+14,Sat Dec 12 2020,17:00,CET / UTC+0100,Olympique de Marseille,2-1,2-0,AS Monaco FC,,FINISHED,2020-12-12T16:00:00Z
+14,Sat Dec 12 2020,21:00,CET / UTC+0100,Racing Club de Lens,2-3,1-2,Montpellier HSC,,FINISHED,2020-12-12T20:00:00Z
+14,Sun Dec 13 2020,13:00,CET / UTC+0100,OGC Nice,0-1,0-1,Stade Rennais FC 1901,,FINISHED,2020-12-13T12:00:00Z
+14,Sun Dec 13 2020,15:00,CET / UTC+0100,Stade Brestois 29,2-1,1-0,Stade de Reims,,FINISHED,2020-12-13T14:00:00Z
+14,Sun Dec 13 2020,15:00,CET / UTC+0100,FC Lorient,3-0,2-0,Nîmes Olympique,,FINISHED,2020-12-13T14:00:00Z
+14,Sun Dec 13 2020,15:00,CET / UTC+0100,FC Nantes,1-1,1-0,Dijon Football Côte d'Or,,FINISHED,2020-12-13T14:00:00Z
+14,Sun Dec 13 2020,15:00,CET / UTC+0100,RC Strasbourg Alsace,2-2,0-1,FC Metz,,FINISHED,2020-12-13T14:00:00Z
+14,Sun Dec 13 2020,17:00,CET / UTC+0100,Lille OSC,2-1,2-1,FC Girondins de Bordeaux,,FINISHED,2020-12-13T16:00:00Z
+14,Sun Dec 13 2020,21:00,CET / UTC+0100,Paris Saint-Germain FC,0-1,0-1,Olympique Lyonnais,,FINISHED,2020-12-13T20:00:00Z
+15,Wed Dec 16 2020,19:00,CET / UTC+0100,Montpellier HSC,0-2,0-0,FC Metz,,FINISHED,2020-12-16T18:00:00Z
+15,Wed Dec 16 2020,19:00,CET / UTC+0100,Stade de Reims,3-2,0-1,FC Nantes,,FINISHED,2020-12-16T18:00:00Z
+15,Wed Dec 16 2020,19:00,CET / UTC+0100,Angers SCO,0-2,0-0,RC Strasbourg Alsace,,FINISHED,2020-12-16T18:00:00Z
+15,Wed Dec 16 2020,19:00,CET / UTC+0100,Dijon Football Côte d'Or,0-2,0-1,Lille OSC,,FINISHED,2020-12-16T18:00:00Z
+15,Wed Dec 16 2020,19:00,CET / UTC+0100,Nîmes Olympique,0-2,0-0,OGC Nice,,FINISHED,2020-12-16T18:00:00Z
+15,Wed Dec 16 2020,21:00,CET / UTC+0100,Paris Saint-Germain FC,2-0,0-0,FC Lorient,,FINISHED,2020-12-16T20:00:00Z
+15,Wed Dec 16 2020,21:00,CET / UTC+0100,Olympique Lyonnais,2-2,0-1,Stade Brestois 29,,FINISHED,2020-12-16T20:00:00Z
+15,Wed Dec 16 2020,21:00,CET / UTC+0100,FC Girondins de Bordeaux,1-2,1-1,AS Saint-Étienne,,FINISHED,2020-12-16T20:00:00Z
+15,Wed Dec 16 2020,21:00,CET / UTC+0100,Stade Rennais FC 1901,2-1,0-1,Olympique de Marseille,,FINISHED,2020-12-16T20:00:00Z
+15,Wed Dec 16 2020,21:00,CET / UTC+0100,AS Monaco FC,0-3,0-3,Racing Club de Lens,,FINISHED,2020-12-16T20:00:00Z
+16,Sat Dec 19 2020,17:00,CET / UTC+0100,FC Metz,2-0,1-0,Racing Club de Lens,,FINISHED,2020-12-19T16:00:00Z
+16,Sat Dec 19 2020,19:00,CET / UTC+0100,Olympique de Marseille,1-1,1-1,Stade de Reims,,FINISHED,2020-12-19T18:00:00Z
+16,Sat Dec 19 2020,21:00,CET / UTC+0100,OGC Nice,1-4,1-2,Olympique Lyonnais,,FINISHED,2020-12-19T20:00:00Z
+16,Sun Dec 20 2020,13:00,CET / UTC+0100,Stade Brestois 29,2-2,0-1,Montpellier HSC,,FINISHED,2020-12-20T12:00:00Z
+16,Sun Dec 20 2020,15:00,CET / UTC+0100,AS Saint-Étienne,2-2,1-1,Nîmes Olympique,,FINISHED,2020-12-20T14:00:00Z
+16,Sun Dec 20 2020,15:00,CET / UTC+0100,FC Nantes,1-1,0-1,Angers SCO,,FINISHED,2020-12-20T14:00:00Z
+16,Sun Dec 20 2020,15:00,CET / UTC+0100,Dijon Football Côte d'Or,0-1,0-1,AS Monaco FC,,FINISHED,2020-12-20T14:00:00Z
+16,Sun Dec 20 2020,15:00,CET / UTC+0100,RC Strasbourg Alsace,0-2,0-1,FC Girondins de Bordeaux,,FINISHED,2020-12-20T14:00:00Z
+16,Sun Dec 20 2020,17:00,CET / UTC+0100,FC Lorient,0-3,0-1,Stade Rennais FC 1901,,FINISHED,2020-12-20T16:00:00Z
+16,Sun Dec 20 2020,21:00,CET / UTC+0100,Lille OSC,0-0,0-0,Paris Saint-Germain FC,,FINISHED,2020-12-20T20:00:00Z
+17,Wed Dec 23 2020,19:00,CET / UTC+0100,FC Girondins de Bordeaux,1-3,0-2,Stade de Reims,,FINISHED,2020-12-23T18:00:00Z
+17,Wed Dec 23 2020,19:00,CET / UTC+0100,Stade Rennais FC 1901,1-0,0-0,FC Metz,,FINISHED,2020-12-23T18:00:00Z
+17,Wed Dec 23 2020,19:00,CET / UTC+0100,OGC Nice,2-2,2-0,FC Lorient,,FINISHED,2020-12-23T18:00:00Z
+17,Wed Dec 23 2020,19:00,CET / UTC+0100,Racing Club de Lens,2-1,2-0,Stade Brestois 29,,FINISHED,2020-12-23T18:00:00Z
+17,Wed Dec 23 2020,19:00,CET / UTC+0100,Nîmes Olympique,1-3,1-0,Dijon Football Côte d'Or,,FINISHED,2020-12-23T18:00:00Z
+17,Wed Dec 23 2020,21:00,CET / UTC+0100,Montpellier HSC,2-3,0-1,Lille OSC,,FINISHED,2020-12-23T20:00:00Z
+17,Wed Dec 23 2020,21:00,CET / UTC+0100,Paris Saint-Germain FC,4-0,1-0,RC Strasbourg Alsace,,FINISHED,2020-12-23T20:00:00Z
+17,Wed Dec 23 2020,21:00,CET / UTC+0100,Olympique Lyonnais,3-0,3-0,FC Nantes,,FINISHED,2020-12-23T20:00:00Z
+17,Wed Dec 23 2020,21:00,CET / UTC+0100,Angers SCO,2-1,2-0,Olympique de Marseille,,FINISHED,2020-12-23T20:00:00Z
+17,Wed Dec 23 2020,21:00,CET / UTC+0100,AS Monaco FC,2-2,1-2,AS Saint-Étienne,,FINISHED,2020-12-23T20:00:00Z
+18,Wed Jan 6 2021,19:00,CET / UTC+0100,Stade Brestois 29,2-0,2-0,OGC Nice,,FINISHED,2021-01-06T18:00:00Z
+18,Wed Jan 6 2021,19:00,CET / UTC+0100,FC Lorient,2-5,1-1,AS Monaco FC,,FINISHED,2021-01-06T18:00:00Z
+18,Wed Jan 6 2021,19:00,CET / UTC+0100,FC Nantes,0-0,0-0,Stade Rennais FC 1901,,FINISHED,2021-01-06T18:00:00Z
+18,Wed Jan 6 2021,19:00,CET / UTC+0100,FC Metz,0-0,0-0,FC Girondins de Bordeaux,,FINISHED,2021-01-06T18:00:00Z
+18,Wed Jan 6 2021,19:00,CET / UTC+0100,RC Strasbourg Alsace,5-0,3-0,Nîmes Olympique,,FINISHED,2021-01-06T18:00:00Z
+18,Wed Jan 6 2021,21:00,CET / UTC+0100,Lille OSC,1-2,1-2,Angers SCO,,FINISHED,2021-01-06T20:00:00Z
+18,Wed Jan 6 2021,21:00,CET / UTC+0100,Olympique Lyonnais,3-2,1-0,Racing Club de Lens,,FINISHED,2021-01-06T20:00:00Z
+18,Wed Jan 6 2021,21:00,CET / UTC+0100,AS Saint-Étienne,1-1,1-1,Paris Saint-Germain FC,,FINISHED,2021-01-06T20:00:00Z
+18,Wed Jan 6 2021,21:00,CET / UTC+0100,Olympique de Marseille,3-1,1-0,Montpellier HSC,,FINISHED,2021-01-06T20:00:00Z
+18,Wed Jan 6 2021,21:00,CET / UTC+0100,Stade de Reims,0-0,0-0,Dijon Football Côte d'Or,,FINISHED,2021-01-06T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Montpellier HSC,1-1,1-0,FC Nantes,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Paris Saint-Germain FC,3-0,1-0,Stade Brestois 29,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,FC Girondins de Bordeaux,2-1,2-1,FC Lorient,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Stade Rennais FC 1901,2-2,1-0,Olympique Lyonnais,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Stade de Reims,3-1,2-0,AS Saint-Étienne,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,AS Monaco FC,3-0,1-0,Angers SCO,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Dijon Football Côte d'Or,0-0,0-0,Olympique de Marseille,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Racing Club de Lens,0-1,0-1,RC Strasbourg Alsace,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,Nîmes Olympique,0-1,0-1,Lille OSC,,FINISHED,2021-01-09T20:00:00Z
+19,Sat Jan 9 2021,21:00,CET / UTC+0100,FC Metz,1-1,0-1,OGC Nice,,FINISHED,2021-01-09T20:00:00Z
+20,Fri Jan 15 2021,21:00,CET / UTC+0100,Montpellier HSC,2-3,0-2,AS Monaco FC,,FINISHED,2021-01-15T20:00:00Z
+20,Sat Jan 16 2021,17:00,CET / UTC+0100,Olympique de Marseille,1-2,0-0,Nîmes Olympique,,FINISHED,2021-01-16T16:00:00Z
+20,Sat Jan 16 2021,21:00,CET / UTC+0100,Angers SCO,0-1,0-0,Paris Saint-Germain FC,,FINISHED,2021-01-16T20:00:00Z
+20,Sun Jan 17 2021,13:00,CET / UTC+0100,Stade Brestois 29,1-2,1-1,Stade Rennais FC 1901,,FINISHED,2021-01-17T12:00:00Z
+20,Sun Jan 17 2021,15:00,CET / UTC+0100,OGC Nice,0-3,0-0,FC Girondins de Bordeaux,,FINISHED,2021-01-17T14:00:00Z
+20,Sun Jan 17 2021,15:00,CET / UTC+0100,FC Nantes,1-1,1-0,Racing Club de Lens,,FINISHED,2021-01-17T14:00:00Z
+20,Sun Jan 17 2021,15:00,CET / UTC+0100,RC Strasbourg Alsace,1-0,1-0,AS Saint-Étienne,,FINISHED,2021-01-17T14:00:00Z
+20,Sun Jan 17 2021,17:00,CET / UTC+0100,Lille OSC,2-1,0-1,Stade de Reims,,FINISHED,2021-01-17T16:00:00Z
+20,Sun Jan 17 2021,21:00,CET / UTC+0100,Olympique Lyonnais,0-1,0-0,FC Metz,,FINISHED,2021-01-17T20:00:00Z
+9,Wed Jan 20 2021,21:00,CET / UTC+0100,Olympique de Marseille,0-1,0-0,Racing Club de Lens,,FINISHED,2021-01-20T20:00:00Z
+21,Fri Jan 22 2021,21:00,CET / UTC+0100,Paris Saint-Germain FC,4-0,1-0,Montpellier HSC,,FINISHED,2021-01-22T20:00:00Z
+21,Sat Jan 23 2021,17:00,CET / UTC+0100,Racing Club de Lens,0-1,0-0,OGC Nice,,FINISHED,2021-01-23T16:00:00Z
+21,Sat Jan 23 2021,21:00,CET / UTC+0100,AS Monaco FC,3-1,0-1,Olympique de Marseille,,FINISHED,2021-01-23T20:00:00Z
+21,Sun Jan 24 2021,13:00,CET / UTC+0100,FC Girondins de Bordeaux,2-1,2-1,Angers SCO,,FINISHED,2021-01-24T12:00:00Z
+21,Sun Jan 24 2021,15:00,CET / UTC+0100,Stade de Reims,1-0,1-0,Stade Brestois 29,,FINISHED,2021-01-24T14:00:00Z
+21,Sun Jan 24 2021,15:00,CET / UTC+0100,Dijon Football Côte d'Or,1-1,0-0,RC Strasbourg Alsace,,FINISHED,2021-01-24T14:00:00Z
+21,Sun Jan 24 2021,15:00,CET / UTC+0100,FC Metz,2-0,1-0,FC Nantes,,FINISHED,2021-01-24T14:00:00Z
+21,Sun Jan 24 2021,17:00,CET / UTC+0100,Stade Rennais FC 1901,0-1,0-1,Lille OSC,,FINISHED,2021-01-24T16:00:00Z
+21,Sun Jan 24 2021,21:00,CET / UTC+0100,AS Saint-Étienne,0-5,0-2,Olympique Lyonnais,,FINISHED,2021-01-24T20:00:00Z
+20,Wed Jan 27 2021,21:00,CET / UTC+0100,FC Lorient,3-2,1-2,Dijon Football Côte d'Or,,FINISHED,2021-01-27T20:00:00Z
+22,Fri Jan 29 2021,21:00,CET / UTC+0100,Olympique Lyonnais,2-1,1-0,FC Girondins de Bordeaux,,FINISHED,2021-01-29T20:00:00Z
+22,Sat Jan 30 2021,17:00,CET / UTC+0100,Montpellier HSC,1-2,0-1,Racing Club de Lens,,FINISHED,2021-01-30T16:00:00Z
+22,Sun Jan 31 2021,13:00,CET / UTC+0100,OGC Nice,0-1,0-0,AS Saint-Étienne,,FINISHED,2021-01-31T12:00:00Z
+22,Sun Jan 31 2021,15:00,CET / UTC+0100,Stade Brestois 29,2-4,1-1,FC Metz,,FINISHED,2021-01-31T14:00:00Z
+22,Sun Jan 31 2021,15:00,CET / UTC+0100,FC Lorient,3-2,1-1,Paris Saint-Germain FC,,FINISHED,2021-01-31T14:00:00Z
+22,Sun Jan 31 2021,15:00,CET / UTC+0100,Angers SCO,3-1,2-1,Nîmes Olympique,,FINISHED,2021-01-31T14:00:00Z
+22,Sun Jan 31 2021,15:00,CET / UTC+0100,RC Strasbourg Alsace,0-1,0-0,Stade de Reims,,FINISHED,2021-01-31T14:00:00Z
+22,Sun Jan 31 2021,17:00,CET / UTC+0100,Lille OSC,1-0,1-0,Dijon Football Côte d'Or,,FINISHED,2021-01-31T16:00:00Z
+22,Sun Jan 31 2021,21:00,CET / UTC+0100,FC Nantes,1-2,0-1,AS Monaco FC,,FINISHED,2021-01-31T20:00:00Z
+23,Wed Feb 3 2021,19:00,CET / UTC+0100,FC Girondins de Bordeaux,0-3,0-0,Lille OSC,,FINISHED,2021-02-03T18:00:00Z
+23,Wed Feb 3 2021,19:00,CET / UTC+0100,Stade Rennais FC 1901,1-1,1-0,FC Lorient,,FINISHED,2021-02-03T18:00:00Z
+23,Wed Feb 3 2021,19:00,CET / UTC+0100,Stade de Reims,0-0,0-0,Angers SCO,,FINISHED,2021-02-03T18:00:00Z
+23,Wed Feb 3 2021,19:00,CET / UTC+0100,FC Metz,1-1,0-0,Montpellier HSC,,FINISHED,2021-02-03T18:00:00Z
+23,Wed Feb 3 2021,19:00,CET / UTC+0100,RC Strasbourg Alsace,2-2,1-0,Stade Brestois 29,,FINISHED,2021-02-03T18:00:00Z
+23,Wed Feb 3 2021,21:00,CET / UTC+0100,Paris Saint-Germain FC,3-0,2-0,Nîmes Olympique,,FINISHED,2021-02-03T20:00:00Z
+23,Wed Feb 3 2021,21:00,CET / UTC+0100,AS Saint-Étienne,1-1,0-1,FC Nantes,,FINISHED,2021-02-03T20:00:00Z
+23,Wed Feb 3 2021,21:00,CET / UTC+0100,AS Monaco FC,2-1,1-0,OGC Nice,,FINISHED,2021-02-03T20:00:00Z
+23,Wed Feb 3 2021,21:00,CET / UTC+0100,Dijon Football Côte d'Or,0-1,0-1,Olympique Lyonnais,,FINISHED,2021-02-03T20:00:00Z
+23,Wed Feb 3 2021,21:00,CET / UTC+0100,Racing Club de Lens,2-2,0-2,Olympique de Marseille,,FINISHED,2021-02-03T20:00:00Z
+24,Sat Feb 6 2021,17:00,CET / UTC+0100,FC Lorient,1-0,0-0,Stade de Reims,,FINISHED,2021-02-06T16:00:00Z
+24,Sat Feb 6 2021,19:00,CET / UTC+0100,Olympique Lyonnais,3-0,2-0,RC Strasbourg Alsace,,FINISHED,2021-02-06T18:00:00Z
+24,Sat Feb 6 2021,21:00,CET / UTC+0100,Racing Club de Lens,0-0,0-0,Stade Rennais FC 1901,,FINISHED,2021-02-06T20:00:00Z
+24,Sun Feb 7 2021,13:00,CET / UTC+0100,Stade Brestois 29,2-1,0-0,FC Girondins de Bordeaux,,FINISHED,2021-02-07T12:00:00Z
+24,Sun Feb 7 2021,15:00,CET / UTC+0100,Montpellier HSC,4-2,0-1,Dijon Football Côte d'Or,,FINISHED,2021-02-07T14:00:00Z
+24,Sun Feb 7 2021,15:00,CET / UTC+0100,AS Saint-Étienne,1-0,1-0,FC Metz,,FINISHED,2021-02-07T14:00:00Z
+24,Sun Feb 7 2021,15:00,CET / UTC+0100,OGC Nice,3-0,2-0,Angers SCO,,FINISHED,2021-02-07T14:00:00Z
+24,Sun Feb 7 2021,15:00,CET / UTC+0100,Nîmes Olympique,3-4,2-2,AS Monaco FC,,FINISHED,2021-02-07T14:00:00Z
+24,Sun Feb 7 2021,17:00,CET / UTC+0100,FC Nantes,0-2,0-1,Lille OSC,,FINISHED,2021-02-07T16:00:00Z
+24,Sun Feb 7 2021,21:00,CET / UTC+0100,Olympique de Marseille,0-2,0-2,Paris Saint-Germain FC,,FINISHED,2021-02-07T20:00:00Z
+25,Sat Feb 13 2021,17:00,CET / UTC+0100,Paris Saint-Germain FC,2-1,1-0,OGC Nice,,FINISHED,2021-02-13T16:00:00Z
+25,Sat Feb 13 2021,19:00,CET / UTC+0100,Stade de Reims,1-1,1-0,Racing Club de Lens,,FINISHED,2021-02-13T18:00:00Z
+25,Sat Feb 13 2021,21:00,CET / UTC+0100,Olympique Lyonnais,1-2,1-1,Montpellier HSC,,FINISHED,2021-02-13T20:00:00Z
+25,Sun Feb 14 2021,13:00,CET / UTC+0100,AS Monaco FC,2-2,0-1,FC Lorient,,FINISHED,2021-02-14T12:00:00Z
+25,Sun Feb 14 2021,15:00,CET / UTC+0100,Stade Rennais FC 1901,0-2,0-1,AS Saint-Étienne,,FINISHED,2021-02-14T14:00:00Z
+25,Sun Feb 14 2021,15:00,CET / UTC+0100,Angers SCO,1-3,1-2,FC Nantes,,FINISHED,2021-02-14T14:00:00Z
+25,Sun Feb 14 2021,15:00,CET / UTC+0100,Dijon Football Côte d'Or,0-2,0-0,Nîmes Olympique,,FINISHED,2021-02-14T14:00:00Z
+25,Sun Feb 14 2021,15:00,CET / UTC+0100,FC Metz,1-2,1-1,RC Strasbourg Alsace,,FINISHED,2021-02-14T14:00:00Z
+25,Sun Feb 14 2021,17:00,CET / UTC+0100,Lille OSC,0-0,0-0,Stade Brestois 29,,FINISHED,2021-02-14T16:00:00Z
+25,Sun Feb 14 2021,21:00,CET / UTC+0100,FC Girondins de Bordeaux,0-0,0-0,Olympique de Marseille,,FINISHED,2021-02-14T20:00:00Z
+11,Wed Feb 17 2021,21:00,CET / UTC+0100,Olympique de Marseille,3-2,2-0,OGC Nice,,FINISHED,2021-02-17T20:00:00Z
+26,Fri Feb 19 2021,21:00,CET / UTC+0100,Stade Brestois 29,2-3,0-3,Olympique Lyonnais,,FINISHED,2021-02-19T20:00:00Z
+26,Sat Feb 20 2021,13:00,CET / UTC+0100,AS Saint-Étienne,1-1,0-0,Stade de Reims,,FINISHED,2021-02-20T12:00:00Z
+26,Sat Feb 20 2021,17:00,CET / UTC+0100,FC Nantes,1-1,0-0,Olympique de Marseille,,FINISHED,2021-02-20T16:00:00Z
+26,Sun Feb 21 2021,13:00,CET / UTC+0100,Montpellier HSC,2-1,2-0,Stade Rennais FC 1901,,FINISHED,2021-02-21T12:00:00Z
+26,Sun Feb 21 2021,15:00,CET / UTC+0100,OGC Nice,1-2,0-2,FC Metz,,FINISHED,2021-02-21T14:00:00Z
+26,Sun Feb 21 2021,15:00,CET / UTC+0100,Racing Club de Lens,2-1,1-0,Dijon Football Côte d'Or,,FINISHED,2021-02-21T14:00:00Z
+26,Sun Feb 21 2021,15:00,CET / UTC+0100,Nîmes Olympique,2-0,1-0,FC Girondins de Bordeaux,,FINISHED,2021-02-21T14:00:00Z
+26,Sun Feb 21 2021,15:00,CET / UTC+0100,RC Strasbourg Alsace,0-0,0-0,Angers SCO,,FINISHED,2021-02-21T14:00:00Z
+26,Sun Feb 21 2021,17:05,CET / UTC+0100,FC Lorient,1-4,1-2,Lille OSC,,FINISHED,2021-02-21T16:05:00Z
+26,Sun Feb 21 2021,21:00,CET / UTC+0100,Paris Saint-Germain FC,0-2,0-1,AS Monaco FC,,FINISHED,2021-02-21T20:00:00Z
+21,Wed Feb 24 2021,19:00,CET / UTC+0100,Nîmes Olympique,1-0,0-0,FC Lorient,,FINISHED,2021-02-24T18:00:00Z
+27,Fri Feb 26 2021,21:00,CET / UTC+0100,Stade Rennais FC 1901,1-2,1-1,OGC Nice,,FINISHED,2021-02-26T20:00:00Z
+27,Sat Feb 27 2021,13:00,CET / UTC+0100,FC Girondins de Bordeaux,1-2,1-0,FC Metz,,FINISHED,2021-02-27T12:00:00Z
+27,Sat Feb 27 2021,17:00,CET / UTC+0100,Dijon Football Côte d'Or,0-4,0-2,Paris Saint-Germain FC,,FINISHED,2021-02-27T16:00:00Z
+27,Sun Feb 28 2021,13:00,CET / UTC+0100,AS Monaco FC,2-0,0-0,Stade Brestois 29,,FINISHED,2021-02-28T12:00:00Z
+27,Sun Feb 28 2021,15:00,CET / UTC+0100,FC Lorient,2-1,0-1,AS Saint-Étienne,,FINISHED,2021-02-28T14:00:00Z
+27,Sun Feb 28 2021,15:00,CET / UTC+0100,Stade de Reims,0-0,0-0,Montpellier HSC,,FINISHED,2021-02-28T14:00:00Z
+27,Sun Feb 28 2021,15:00,CET / UTC+0100,Angers SCO,2-2,2-1,Racing Club de Lens,,FINISHED,2021-02-28T14:00:00Z
+27,Sun Feb 28 2021,15:00,CET / UTC+0100,Nîmes Olympique,1-1,0-1,FC Nantes,,FINISHED,2021-02-28T14:00:00Z
+27,Sun Feb 28 2021,17:05,CET / UTC+0100,Lille OSC,1-1,0-1,RC Strasbourg Alsace,,FINISHED,2021-02-28T16:05:00Z
+27,Sun Feb 28 2021,21:00,CET / UTC+0100,Olympique de Marseille,1-1,1-1,Olympique Lyonnais,,FINISHED,2021-02-28T20:00:00Z
+28,Wed Mar 3 2021,19:00,CET / UTC+0100,Olympique Lyonnais,1-0,0-0,Stade Rennais FC 1901,,FINISHED,2021-03-03T18:00:00Z
+28,Wed Mar 3 2021,19:00,CET / UTC+0100,AS Saint-Étienne,2-3,1-2,Racing Club de Lens,,FINISHED,2021-03-03T18:00:00Z
+28,Wed Mar 3 2021,19:00,CET / UTC+0100,OGC Nice,2-1,1-0,Nîmes Olympique,,FINISHED,2021-03-03T18:00:00Z
+28,Wed Mar 3 2021,19:00,CET / UTC+0100,Stade Brestois 29,3-1,3-1,Dijon Football Côte d'Or,,FINISHED,2021-03-03T18:00:00Z
+28,Wed Mar 3 2021,19:00,CET / UTC+0100,FC Metz,0-1,0-1,Angers SCO,,FINISHED,2021-03-03T18:00:00Z
+28,Wed Mar 3 2021,21:00,CET / UTC+0100,Montpellier HSC,1-1,1-1,FC Lorient,,FINISHED,2021-03-03T20:00:00Z
+28,Wed Mar 3 2021,21:00,CET / UTC+0100,Lille OSC,2-0,0-0,Olympique de Marseille,,FINISHED,2021-03-03T20:00:00Z
+28,Wed Mar 3 2021,21:00,CET / UTC+0100,FC Girondins de Bordeaux,0-1,0-1,Paris Saint-Germain FC,,FINISHED,2021-03-03T20:00:00Z
+28,Wed Mar 3 2021,21:00,CET / UTC+0100,FC Nantes,1-2,1-1,Stade de Reims,,FINISHED,2021-03-03T20:00:00Z
+28,Wed Mar 3 2021,21:00,CET / UTC+0100,RC Strasbourg Alsace,1-0,0-0,AS Monaco FC,,FINISHED,2021-03-03T20:00:00Z
+22,Wed Mar 10 2021,19:00,CET / UTC+0100,Olympique de Marseille,1-0,0-0,Stade Rennais FC 1901,,FINISHED,2021-03-10T18:00:00Z
+29,Fri Mar 12 2021,21:00,CET / UTC+0100,Stade de Reims,1-1,1-0,Olympique Lyonnais,,FINISHED,2021-03-12T20:00:00Z
+29,Sat Mar 13 2021,13:00,CET / UTC+0100,Angers SCO,0-1,0-0,AS Saint-Étienne,,FINISHED,2021-03-13T12:00:00Z
+29,Sat Mar 13 2021,17:00,CET / UTC+0100,Olympique de Marseille,3-1,1-0,Stade Brestois 29,,FINISHED,2021-03-13T16:00:00Z
+29,Sun Mar 14 2021,13:00,CET / UTC+0100,Nîmes Olympique,1-1,0-0,Montpellier HSC,,FINISHED,2021-03-14T12:00:00Z
+29,Sun Mar 14 2021,15:00,CET / UTC+0100,Stade Rennais FC 1901,1-0,1-0,RC Strasbourg Alsace,,FINISHED,2021-03-14T14:00:00Z
+29,Sun Mar 14 2021,15:00,CET / UTC+0100,FC Lorient,1-1,0-0,OGC Nice,,FINISHED,2021-03-14T14:00:00Z
+29,Sun Mar 14 2021,15:00,CET / UTC+0100,Dijon Football Côte d'Or,1-3,0-2,FC Girondins de Bordeaux,,FINISHED,2021-03-14T14:00:00Z
+29,Sun Mar 14 2021,15:00,CET / UTC+0100,Racing Club de Lens,2-2,2-1,FC Metz,,FINISHED,2021-03-14T14:00:00Z
+29,Sun Mar 14 2021,17:05,CET / UTC+0100,AS Monaco FC,0-0,0-0,Lille OSC,,FINISHED,2021-03-14T16:05:00Z
+29,Sun Mar 14 2021,21:00,CET / UTC+0100,Paris Saint-Germain FC,1-2,1-0,FC Nantes,,FINISHED,2021-03-14T20:00:00Z
+30,Fri Mar 19 2021,21:00,CET / UTC+0100,AS Saint-Étienne,0-4,0-1,AS Monaco FC,,FINISHED,2021-03-19T20:00:00Z
+30,Sat Mar 20 2021,13:00,CET / UTC+0100,FC Metz,1-3,0-2,Stade Rennais FC 1901,,FINISHED,2021-03-20T12:00:00Z
+30,Sat Mar 20 2021,17:00,CET / UTC+0100,OGC Nice,3-0,1-0,Olympique de Marseille,,FINISHED,2021-03-20T16:00:00Z
+30,Sun Mar 21 2021,13:00,CET / UTC+0100,RC Strasbourg Alsace,1-2,1-2,Racing Club de Lens,,FINISHED,2021-03-21T12:00:00Z
+30,Sun Mar 21 2021,15:00,CET / UTC+0100,Montpellier HSC,3-1,1-1,FC Girondins de Bordeaux,,FINISHED,2021-03-21T14:00:00Z
+30,Sun Mar 21 2021,15:00,CET / UTC+0100,Stade Brestois 29,0-0,0-0,Angers SCO,,FINISHED,2021-03-21T14:00:00Z
+30,Sun Mar 21 2021,15:00,CET / UTC+0100,FC Nantes,1-1,1-0,FC Lorient,,FINISHED,2021-03-21T14:00:00Z
+30,Sun Mar 21 2021,15:00,CET / UTC+0100,Dijon Football Côte d'Or,0-1,0-0,Stade de Reims,,FINISHED,2021-03-21T14:00:00Z
+30,Sun Mar 21 2021,17:05,CET / UTC+0100,Lille OSC,1-2,1-2,Nîmes Olympique,,FINISHED,2021-03-21T16:05:00Z
+30,Sun Mar 21 2021,21:00,CET / UTC+0100,Olympique Lyonnais,2-4,0-2,Paris Saint-Germain FC,,FINISHED,2021-03-21T20:00:00Z
+31,Sat Apr 3 2021,13:00,CEST / UTC+0200,AS Monaco FC,4-0,0-0,FC Metz,,FINISHED,2021-04-03T11:00:00Z
+31,Sat Apr 3 2021,17:00,CEST / UTC+0200,Paris Saint-Germain FC,0-1,0-1,Lille OSC,,FINISHED,2021-04-03T15:00:00Z
+31,Sat Apr 3 2021,21:00,CEST / UTC+0200,Racing Club de Lens,1-1,0-0,Olympique Lyonnais,,FINISHED,2021-04-03T19:00:00Z
+31,Sun Apr 4 2021,13:00,CEST / UTC+0200,Angers SCO,1-1,0-0,Montpellier HSC,,FINISHED,2021-04-04T11:00:00Z
+31,Sun Apr 4 2021,15:00,CEST / UTC+0200,FC Girondins de Bordeaux,2-3,2-3,RC Strasbourg Alsace,,FINISHED,2021-04-04T13:00:00Z
+31,Sun Apr 4 2021,15:00,CEST / UTC+0200,FC Lorient,1-0,1-0,Stade Brestois 29,,FINISHED,2021-04-04T13:00:00Z
+31,Sun Apr 4 2021,15:00,CEST / UTC+0200,Stade de Reims,2-2,0-0,Stade Rennais FC 1901,,FINISHED,2021-04-04T13:00:00Z
+31,Sun Apr 4 2021,15:00,CEST / UTC+0200,FC Nantes,1-2,1-2,OGC Nice,,FINISHED,2021-04-04T13:00:00Z
+31,Sun Apr 4 2021,17:05,CEST / UTC+0200,Nîmes Olympique,0-2,0-1,AS Saint-Étienne,,FINISHED,2021-04-04T15:05:00Z
+31,Sun Apr 4 2021,21:00,CEST / UTC+0200,Olympique de Marseille,2-0,1-0,Dijon Football Côte d'Or,,FINISHED,2021-04-04T19:00:00Z
+32,Fri Apr 9 2021,21:00,CEST / UTC+0200,FC Metz,0-2,0-0,Lille OSC,,FINISHED,2021-04-09T19:00:00Z
+32,Sat Apr 10 2021,17:00,CEST / UTC+0200,RC Strasbourg Alsace,1-4,0-3,Paris Saint-Germain FC,,FINISHED,2021-04-10T15:00:00Z
+32,Sat Apr 10 2021,21:00,CEST / UTC+0200,Montpellier HSC,3-3,1-2,Olympique de Marseille,,FINISHED,2021-04-10T19:00:00Z
+32,Sun Apr 11 2021,13:00,CEST / UTC+0200,Stade Rennais FC 1901,1-0,0-0,FC Nantes,,FINISHED,2021-04-11T11:00:00Z
+32,Sun Apr 11 2021,15:00,CEST / UTC+0200,AS Saint-Étienne,4-1,2-1,FC Girondins de Bordeaux,,FINISHED,2021-04-11T13:00:00Z
+32,Sun Apr 11 2021,15:00,CEST / UTC+0200,OGC Nice,0-0,0-0,Stade de Reims,,FINISHED,2021-04-11T13:00:00Z
+32,Sun Apr 11 2021,15:00,CEST / UTC+0200,Stade Brestois 29,1-1,1-1,Nîmes Olympique,,FINISHED,2021-04-11T13:00:00Z
+32,Sun Apr 11 2021,15:00,CEST / UTC+0200,Racing Club de Lens,4-1,2-1,FC Lorient,,FINISHED,2021-04-11T13:00:00Z
+32,Sun Apr 11 2021,17:05,CEST / UTC+0200,AS Monaco FC,3-0,0-0,Dijon Football Côte d'Or,,FINISHED,2021-04-11T15:05:00Z
+32,Sun Apr 11 2021,21:00,CEST / UTC+0200,Olympique Lyonnais,3-0,2-0,Angers SCO,,FINISHED,2021-04-11T19:00:00Z
+33,Fri Apr 16 2021,21:00,CEST / UTC+0200,Lille OSC,1-1,0-1,Montpellier HSC,,FINISHED,2021-04-16T19:00:00Z
+33,Sat Apr 17 2021,12:45,CEST / UTC+0200,Angers SCO,0-3,0-1,Stade Rennais FC 1901,,FINISHED,2021-04-17T10:45:00Z
+33,Sat Apr 17 2021,17:00,CEST / UTC+0200,Olympique de Marseille,3-2,0-1,FC Lorient,,FINISHED,2021-04-17T15:00:00Z
+33,Sun Apr 18 2021,13:00,CEST / UTC+0200,Paris Saint-Germain FC,3-2,0-0,AS Saint-Étienne,,FINISHED,2021-04-18T11:00:00Z
+33,Sun Apr 18 2021,15:00,CEST / UTC+0200,Stade Brestois 29,1-1,1-0,Racing Club de Lens,,FINISHED,2021-04-18T13:00:00Z
+33,Sun Apr 18 2021,15:00,CEST / UTC+0200,Stade de Reims,0-0,0-0,FC Metz,,FINISHED,2021-04-18T13:00:00Z
+33,Sun Apr 18 2021,15:00,CEST / UTC+0200,Dijon Football Côte d'Or,2-0,0-0,OGC Nice,,FINISHED,2021-04-18T13:00:00Z
+33,Sun Apr 18 2021,15:00,CEST / UTC+0200,Nîmes Olympique,1-1,0-0,RC Strasbourg Alsace,,FINISHED,2021-04-18T13:00:00Z
+33,Sun Apr 18 2021,17:05,CEST / UTC+0200,FC Girondins de Bordeaux,0-3,0-1,AS Monaco FC,,FINISHED,2021-04-18T15:05:00Z
+33,Sun Apr 18 2021,21:00,CEST / UTC+0200,FC Nantes,1-2,0-2,Olympique Lyonnais,,FINISHED,2021-04-18T19:00:00Z
+34,Fri Apr 23 2021,21:00,CEST / UTC+0200,Stade de Reims,1-3,1-2,Olympique de Marseille,,FINISHED,2021-04-23T19:00:00Z
+34,Sat Apr 24 2021,13:00,CEST / UTC+0200,AS Saint-Étienne,1-2,1-0,Stade Brestois 29,,FINISHED,2021-04-24T11:00:00Z
+34,Sat Apr 24 2021,17:00,CEST / UTC+0200,FC Metz,1-3,0-1,Paris Saint-Germain FC,,FINISHED,2021-04-24T15:00:00Z
+34,Sun Apr 25 2021,13:00,CEST / UTC+0200,OGC Nice,3-1,3-1,Montpellier HSC,,FINISHED,2021-04-25T11:00:00Z
+34,Sun Apr 25 2021,15:00,CEST / UTC+0200,Stade Rennais FC 1901,5-1,1-1,Dijon Football Côte d'Or,,FINISHED,2021-04-25T13:00:00Z
+34,Sun Apr 25 2021,15:00,CEST / UTC+0200,FC Lorient,4-1,3-0,FC Girondins de Bordeaux,,FINISHED,2021-04-25T13:00:00Z
+34,Sun Apr 25 2021,15:00,CEST / UTC+0200,Racing Club de Lens,2-1,1-0,Nîmes Olympique,,FINISHED,2021-04-25T13:00:00Z
+34,Sun Apr 25 2021,15:00,CEST / UTC+0200,RC Strasbourg Alsace,1-2,1-0,FC Nantes,,FINISHED,2021-04-25T13:00:00Z
+34,Sun Apr 25 2021,17:05,CEST / UTC+0200,Angers SCO,0-1,0-0,AS Monaco FC,,FINISHED,2021-04-25T15:05:00Z
+34,Sun Apr 25 2021,21:00,CEST / UTC+0200,Olympique Lyonnais,2-3,2-1,Lille OSC,,FINISHED,2021-04-25T19:00:00Z
+35,Fri Apr 30 2021,21:05,CEST / UTC+0200,Olympique de Marseille,1-1,0-0,RC Strasbourg Alsace,,FINISHED,2021-04-30T19:05:00Z
+35,Sat May 1 2021,17:00,CEST / UTC+0200,Paris Saint-Germain FC,2-1,1-0,Racing Club de Lens,,FINISHED,2021-05-01T15:00:00Z
+35,Sat May 1 2021,21:00,CEST / UTC+0200,Lille OSC,2-0,1-0,OGC Nice,,FINISHED,2021-05-01T19:00:00Z
+35,Sun May 2 2021,13:00,CEST / UTC+0200,FC Girondins de Bordeaux,1-0,1-0,Stade Rennais FC 1901,,FINISHED,2021-05-02T11:00:00Z
+35,Sun May 2 2021,15:00,CEST / UTC+0200,Stade Brestois 29,1-4,0-2,FC Nantes,,FINISHED,2021-05-02T13:00:00Z
+35,Sun May 2 2021,15:00,CEST / UTC+0200,FC Lorient,2-0,1-0,Angers SCO,,FINISHED,2021-05-02T13:00:00Z
+35,Sun May 2 2021,15:00,CEST / UTC+0200,Dijon Football Côte d'Or,1-5,0-2,FC Metz,,FINISHED,2021-05-02T13:00:00Z
+35,Sun May 2 2021,15:00,CEST / UTC+0200,Nîmes Olympique,2-2,0-1,Stade de Reims,,FINISHED,2021-05-02T13:00:00Z
+35,Sun May 2 2021,17:05,CEST / UTC+0200,Montpellier HSC,1-2,1-1,AS Saint-Étienne,,FINISHED,2021-05-02T15:05:00Z
+35,Sun May 2 2021,21:00,CEST / UTC+0200,AS Monaco FC,2-3,1-0,Olympique Lyonnais,,FINISHED,2021-05-02T19:00:00Z
+36,Fri May 7 2021,21:00,CEST / UTC+0200,Racing Club de Lens,0-3,0-2,Lille OSC,,FINISHED,2021-05-07T19:00:00Z
+36,Sat May 8 2021,13:05,CEST / UTC+0200,FC Nantes,3-0,1-0,FC Girondins de Bordeaux,,FINISHED,2021-05-08T11:05:00Z
+36,Sat May 8 2021,17:00,CEST / UTC+0200,Olympique Lyonnais,4-1,0-0,FC Lorient,,FINISHED,2021-05-08T15:00:00Z
+36,Sun May 9 2021,13:00,CEST / UTC+0200,AS Saint-Étienne,1-0,1-0,Olympique de Marseille,,FINISHED,2021-05-09T11:00:00Z
+36,Sun May 9 2021,15:00,CEST / UTC+0200,OGC Nice,3-2,1-2,Stade Brestois 29,,FINISHED,2021-05-09T13:00:00Z
+36,Sun May 9 2021,15:00,CEST / UTC+0200,Angers SCO,3-0,1-0,Dijon Football Côte d'Or,,FINISHED,2021-05-09T13:00:00Z
+36,Sun May 9 2021,15:00,CEST / UTC+0200,FC Metz,0-3,0-0,Nîmes Olympique,,FINISHED,2021-05-09T13:00:00Z
+36,Sun May 9 2021,15:00,CEST / UTC+0200,RC Strasbourg Alsace,2-3,0-1,Montpellier HSC,,FINISHED,2021-05-09T13:00:00Z
+36,Sun May 9 2021,17:05,CEST / UTC+0200,Stade de Reims,0-1,0-1,AS Monaco FC,,FINISHED,2021-05-09T15:05:00Z
+36,Sun May 9 2021,21:05,CEST / UTC+0200,Stade Rennais FC 1901,1-1,0-1,Paris Saint-Germain FC,,FINISHED,2021-05-09T19:05:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,OGC Nice,0-2,0-1,RC Strasbourg Alsace,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,FC Lorient,2-1,1-0,FC Metz,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,AS Monaco FC,2-1,2-0,Stade Rennais FC 1901,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,Dijon Football Côte d'Or,0-4,0-2,FC Nantes,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,Nîmes Olympique,2-5,1-3,Olympique Lyonnais,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,Montpellier HSC,0-0,0-0,Stade Brestois 29,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,Paris Saint-Germain FC,4-0,2-0,Stade de Reims,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,Lille OSC,0-0,0-0,AS Saint-Étienne,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,FC Girondins de Bordeaux,3-0,1-0,Racing Club de Lens,,FINISHED,2021-05-16T19:00:00Z
+37,Sun May 16 2021,21:00,CEST / UTC+0200,Olympique de Marseille,3-2,1-0,Angers SCO,,FINISHED,2021-05-16T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,Olympique Lyonnais,2-3,2-1,OGC Nice,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,Stade Rennais FC 1901,2-0,1-0,Nîmes Olympique,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,AS Saint-Étienne,0-1,0-1,Dijon Football Côte d'Or,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,Stade Brestois 29,0-2,0-1,Paris Saint-Germain FC,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,Stade de Reims,1-2,1-1,FC Girondins de Bordeaux,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,Angers SCO,1-2,0-2,Lille OSC,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,FC Nantes,1-2,1-1,Montpellier HSC,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,Racing Club de Lens,0-0,0-0,AS Monaco FC,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,FC Metz,1-1,0-0,Olympique de Marseille,,FINISHED,2021-05-23T19:00:00Z
+38,Sun May 23 2021,21:00,CEST / UTC+0200,RC Strasbourg Alsace,1-1,1-0,FC Lorient,,FINISHED,2021-05-23T19:00:00Z
