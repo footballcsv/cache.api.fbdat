@@ -1,167 +1,191 @@
 # Summary
 
-38 datafiles
+56 datafiles
 
 
 
 ## Brazil (br)
 
-28 club names:
+31 club names:
 
 ```
-    CA Mineiro (190)             => Atlético MG               | Belo Horizonte
-    CA Paranaense (190)          => Atlético PR               | Curitiba
-    CR Flamengo (190)            => Flamengo RJ               | Rio de Janeiro
-    Fluminense FC (190)          => Fluminense RJ             | Rio de Janeiro
-    Fortaleza EC (190)                                        | Fortaleza
+    CA Mineiro (266)             => Atlético MG               | Belo Horizonte
+    CA Paranaense (266)          => Atlético PR               | Curitiba
+    CR Flamengo (266)            => Flamengo RJ               | Rio de Janeiro
+    Fluminense FC (266)          => Fluminense RJ             | Rio de Janeiro
+    SC Corinthians Paulista (266) => Corinthians SP            | São Paulo
+    SC Internacional (266)       => Internacional Porto Alegre | Porto Alegre
+    SE Palmeiras (266)           => Palmeiras SP              | São Paulo
+    São Paulo FC (266)                                        | São Paulo
+    Botafogo FR (228)            => Botafogo RJ               | Rio de Janeiro
+    EC Bahia (228)                                            | Salvador
+    Fortaleza EC (228)                                        | Fortaleza
+    Grêmio FBPA (228)            => Grêmio RS                 | Porto Alegre
+    Santos FC (228)              => Santos SP                 | Santos
+    CR Vasco da Gama (190)                                    | Rio de Janeiro
+    Ceará SC (190)               => Ceára SC                  | Fortaleza
     RB Bragantino (190)                                       | Bragança Paulista
-    SC Corinthians Paulista (190) => Corinthians SP            | São Paulo
-    SC Internacional (190)       => Internacional Porto Alegre | Porto Alegre
-    SE Palmeiras (190)           => Palmeiras SP              | São Paulo
-    São Paulo FC (190)                                        | São Paulo
     AC Goianiense (152)          => Atlético GO               | Goiânia
-    Botafogo FR (152)            => Botafogo RJ               | Rio de Janeiro
+    Cruzeiro EC (152)            => Cruzeiro MG               | Belo Horizonte
     Cuiabá EC (152)              => Cuiabá                    | Cuiabá
-    EC Bahia (152)                                            | Salvador
-    Grêmio FBPA (152)            => Grêmio RS                 | Porto Alegre
-    Santos FC (152)              => Santos SP                 | Santos
+    Goiás EC (152)                                            | Goiânia
     América Mineiro (114)        => América MG                | Belo Horizonte
-    CR Vasco da Gama (114)                                    | Rio de Janeiro
-    Ceará SC (114)               => Ceára SC                  | Fortaleza
+    Chapecoense AF (114)         => Chapecoense               | Chapecó
     Coritiba FBC (114)           => Coritiba PR               | Curitiba
     EC Juventude (114)           => Esporte Clube Juventude   | Caxias do Sul
-    Goiás EC (114)                                            | Goiânia
-    Cruzeiro EC (76)             => Cruzeiro MG               | Belo Horizonte
-    SC Recife (76)               => Sport Recife              | Recife
-    Avaí FC (38)                                              | Florianópolis
-    Chapecoense AF (38)          => Chapecoense               | Chapecó
+    SC Recife (114)              => Sport Recife              | Recife
+    Avaí FC (76)                                              | Florianópolis
+    EC Vitória (76)                                           | Salvador
+    América MG (38)                                           | Belo Horizonte
+    CS Alagoano (38)                                          | Maceió
     Criciúma EC (38)                                          | Criciúma
-    EC Vitória (38)                                           | Salvador
+    Paraná Clube (38)                                         | Curitiba
 ```
 
+
+
+1 duplicates:
+- **América MG** _(2)_ América Mineiro · América MG
 
 
 ## Germany (de)
 
-22 club names:
+27 club names:
 
 ```
-    1. FC Köln (136)                                          | Köln
-    1. FC Union Berlin (136)                                  | Berlin
-    1. FSV Mainz 05 (136)                                     | Mainz
-    Bayer 04 Leverkusen (136)                                 | Leverkusen
+    1. FSV Mainz 05 (204)                                     | Mainz
+    Bayer 04 Leverkusen (204)                                 | Leverkusen
+    Borussia Mönchengladbach (204) => Bor. Mönchengladbach      | Mönchengladbach
+    Eintracht Frankfurt (204)                                 | Frankfurt am Main
+    FC Augsburg (204)                                         | Augsburg
+    FC Bayern München (204)      => Bayern München            | München
+    RB Leipzig (204)                                          | Leipzig
+    SC Freiburg (204)                                         | Freiburg
+    TSG 1899 Hoffenheim (204)                                 | Sinsheim
+    VfL Wolfsburg (204)                                       | Wolfsburg
+    1. FC Köln (170)                                          | Köln
+    1. FC Union Berlin (170)                                  | Berlin
+    Hertha BSC (170)                                          | Berlin
+    SV Werder Bremen (170)       => Werder Bremen             | Bremen
+    VfB Stuttgart (170)                                       | Stuttgart
     Borussia Dortmund (136)                                   | Dortmund
-    Borussia Mönchengladbach (136) => Bor. Mönchengladbach      | Mönchengladbach
-    Eintracht Frankfurt (136)                                 | Frankfurt am Main
-    FC Augsburg (136)                                         | Augsburg
-    FC Bayern München (136)      => Bayern München            | München
-    RB Leipzig (136)                                          | Leipzig
-    SC Freiburg (136)                                         | Freiburg
-    TSG 1899 Hoffenheim (136)                                 | Sinsheim
-    VfB Stuttgart (136)                                       | Stuttgart
-    VfL Wolfsburg (136)                                       | Wolfsburg
-    Hertha BSC (102)                                          | Berlin
-    SV Werder Bremen (102)       => Werder Bremen             | Bremen
+    FC Schalke 04 (136)                                       | Gelsenkirchen
     VfL Bochum 1848 (102)        => VfL Bochum                | Bochum
     Arminia Bielefeld (68)                                    | Bielefeld
-    FC Schalke 04 (68)                                        | Gelsenkirchen
+    BV Borussia 09 Dortmund (68) => Borussia Dortmund         | Dortmund
+    TSV Fortuna 95 Düsseldorf (68) => Fortuna Düsseldorf        | Düsseldorf
     1. FC Heidenheim 1846 (34)   => 1. FC Heidenheim          | Heidenheim an der Brenz
+    1. FC Nürnberg (34)                                       | Nürnberg
+    Hannover 96 (34)                                          | Hannover
+    SC Paderborn 07 (34)                                      | Paderborn
     SV Darmstadt 98 (34)                                      | Darmstadt
     SpVgg Greuther Fürth 1903 (34) => SpVgg Greuther Fürth      | Fürth
 ```
 
 
 
+1 duplicates:
+- **Borussia Dortmund** _(2)_ Borussia Dortmund · BV Borussia 09 Dortmund
+
+
 ## England (eng)
 
-51 club names:
+54 club names:
 
 ```
-    AFC Bournemouth (206)                                     | Bournemouth
-    Nottingham Forest FC (206)                                | West Bridgford
-    Brentford FC (198)                                        | London (Brentford)
-    Fulham FC (198)                                           | London (Fulham)
-    Leicester City FC (198)                                   | Leicester
-    Southampton FC (198)                                      | Southampton
-    Arsenal FC (190)                                          | London (Highbury)
-    Aston Villa FC (190)                                      | Birmingham
-    Brighton & Hove Albion FC (190)                              | Falmer
-    Chelsea FC (190)                                          | London (Fulham)
-    Crystal Palace FC (190)                                   | London (Selhurst)
-    Everton FC (190)                                          | Liverpool (Walton)
-    Liverpool FC (190)                                        | Liverpool (Anfield)
-    Manchester City FC (190)                                  | Manchester
-    Manchester United FC (190)                                | Manchester (Old Trafford)
-    Newcastle United FC (190)                                 | Newcastle upon Tyne
-    Tottenham Hotspur FC (190)                                | London (Tottenham)
-    West Ham United FC (190)                                  | London (Upton Park)
-    Wolverhampton Wanderers FC (190)                              | Wolverhampton
-    Birmingham City FC (184)                                  | Birmingham
-    Blackburn Rovers FC (184)                                 | Blackburn
-    Bristol City FC (184)                                     | Bristol
-    Cardiff City FC (184)                                     | Cardiff
+    Nottingham Forest FC (298)                                | West Bridgford
+    Brentford FC (290)                                        | London (Brentford)
+    AFC Bournemouth (282)                                     | Bournemouth
+    Fulham FC (282)                                           | London (Fulham)
+    Birmingham City FC (276)                                  | Birmingham
+    Blackburn Rovers FC (276)                                 | Blackburn
+    Bristol City FC (276)                                     | Bristol
+    Middlesbrough FC (276)                                    | Middlesbrough
+    Millwall FC (276)                                         | London (South Bermondsey)
+    Preston North End FC (276)                                | Preston
+    Queens Park Rangers FC (276)                              | London (Shepherd's Bush)
+    Stoke City FC (276)                                       | Stoke-on-Trent
+    Swansea City AFC (276)                                    | Swansea
+    Aston Villa FC (274)                                      | Birmingham
+    Leicester City FC (274)                                   | Leicester
+    Southampton FC (274)                                      | Southampton
+    Cardiff City FC (268)                                     | Cardiff
+    Huddersfield Town AFC (268)                               | Huddersfield
+    West Bromwich Albion FC (268)                              | West Bromwich
+    Arsenal FC (266)                                          | London (Highbury)
+    Brighton & Hove Albion FC (266)                              | Falmer
+    Chelsea FC (266)                                          | London (Fulham)
+    Crystal Palace FC (266)                                   | London (Selhurst)
+    Everton FC (266)                                          | Liverpool (Walton)
+    Liverpool FC (266)                                        | Liverpool (Anfield)
+    Manchester City FC (266)                                  | Manchester
+    Manchester United FC (266)                                | Manchester (Old Trafford)
+    Newcastle United FC (266)                                 | Newcastle upon Tyne
+    Tottenham Hotspur FC (266)                                | London (Tottenham)
+    West Ham United FC (266)                                  | London (Upton Park)
+    Wolverhampton Wanderers FC (266)                              | Wolverhampton
+    Norwich City FC (260)                                     | Norwich
+    Sheffield United FC (252)                                 | Sheffield (Highfield)
+    Watford FC (252)                                          | Watford
+    Burnley FC (236)                                          | Burnley
+    Hull City AFC (230)                                       | Hull
+    Reading FC (230)                                          | Reading
+    Luton Town FC (222)                                       | Luton
     Coventry City FC (184)                                    | Coventry
-    Huddersfield Town AFC (184)                               | Huddersfield
-    Middlesbrough FC (184)                                    | Middlesbrough
-    Millwall FC (184)                                         | London (South Bermondsey)
-    Preston North End FC (184)                                | Preston
-    Queens Park Rangers FC (184)                              | London (Shepherd's Bush)
-    Stoke City FC (184)                                       | Stoke-on-Trent
-    Swansea City AFC (184)                                    | Swansea
-    Luton Town FC (176)                                       | Luton
-    Norwich City FC (176)                                     | Norwich
-    Watford FC (176)                                          | Watford
-    West Bromwich Albion FC (176)                              | West Bromwich
-    Sheffield United FC (168)                                 | Sheffield (Highfield)
-    Burnley FC (160)                                          | Burnley
+    Derby County FC (184)                                     | Derby
+    Rotherham United FC (184)                                 | Rotherham
+    Sheffield Wednesday FC (184)                              | Sheffield (Owlerton)
     Leeds United FC (160)                                     | Leeds
-    Hull City AFC (138)                                       | Hull
-    Reading FC (138)                                          | Reading
-    Rotherham United FC (138)                                 | Rotherham
-    Barnsley FC (92)                                          | Barnsley
+    Barnsley FC (138)                                         | Barnsley
+    Wigan Athletic FC (138)                                   | Wigan
+    Ipswich Town FC (130)                                     | Ipswich
     Blackpool FC (92)                                         | Blackpool
-    Derby County FC (92)                                      | Derby
-    Sheffield Wednesday FC (92)                               | Sheffield (Owlerton)
+    Leeds United AFC (92)        => Leeds United FC           | Leeds
     Sunderland AFC (92)                                       | Sunderland
-    Ipswich Town FC (84)                                      | Ipswich
+    Bolton Wanderers FC (46)                                  | Bolton
+    Charlton Athletic FC (46)                                 | London (Charlton)
     Peterborough United FC (46)                               | Peterborough
     Plymouth Argyle FC (46)                                   | Plymouth
-    Wigan Athletic FC (46)                                    | Wigan
     Wycombe Wanderers FC (46)                                 | High Wycombe
 ```
 
 
 
+1 duplicates:
+- **Leeds United FC** _(2)_ Leeds United FC · Leeds United AFC
+
+
 ## Spain (es)
 
-26 club names:
+27 club names:
 
 ```
-    Athletic Club (152)          => Athletic Club Bilbao      | Bilbao
-    CA Osasuna (152)                                          | Pamplona
-    Club Atlético de Madrid (152) => Atlético Madrid           | Madrid
+    Athletic Club (228)          => Athletic Club Bilbao      | Bilbao
+    Club Atlético de Madrid (228) => Atlético Madrid           | Madrid
+    FC Barcelona (228)                                        | Barcelona
+    Getafe CF (228)                                           | Madrid
+    RC Celta de Vigo (228)       => RC Celta Vigo             | Vigo
+    Real Betis Balompié (228)    => Real Betis                | Sevilla
+    Real Madrid CF (228)         => Real Madrid               | Madrid
+    Real Sociedad de Fútbol (228) => Real Sociedad             | San Sebastián
+    Sevilla FC (228)                                          | Sevilla
+    Valencia CF (228)                                         | Valencia
+    Villarreal CF (228)                                       | Villarreal
+    CA Osasuna (190)                                          | Pamplona
+    Deportivo Alavés (190)                                    | Vitoria
     Cádiz CF (152)                                            | Cádiz
-    FC Barcelona (152)                                        | Barcelona
-    Getafe CF (152)                                           | Madrid
-    RC Celta de Vigo (152)       => RC Celta Vigo             | Vigo
-    Real Betis Balompié (152)    => Real Betis                | Sevilla
-    Real Madrid CF (152)         => Real Madrid               | Madrid
-    Real Sociedad de Fútbol (152) => Real Sociedad             | San Sebastián
-    Sevilla FC (152)                                          | Sevilla
-    Valencia CF (152)                                         | Valencia
-    Villarreal CF (152)                                       | Villarreal
-    Deportivo Alavés (114)                                    | Vitoria
+    Granada CF (152)                                          | Granada
+    Levante UD (152)                                          | Valencia
+    RCD Espanyol de Barcelona (152) => RCD Espanyol              | Barcelona
+    RCD Mallorca (152)                                        | Palma de Mallorca
+    Rayo Vallecano de Madrid (152) => Rayo Vallecano            | Madrid
+    Real Valladolid CF (152)                                  | ?  
     Elche CF (114)                                            | Elche
-    Granada CF (114)                                          | Granada
-    RCD Mallorca (114)                                        | Palma de Mallorca
-    Rayo Vallecano de Madrid (114) => Rayo Vallecano            | Madrid
-    Girona FC (76)                                            | Gerona
-    Levante UD (76)                                           | Valencia
-    RCD Espanyol de Barcelona (76) => RCD Espanyol              | Barcelona
-    Real Valladolid CF (76)                                   | ?  
+    Girona FC (114)                                           | Gerona
+    SD Eibar (114)                                            | Eibar
+    CD Leganés (76)                                           | ?  
+    SD Huesca (76)                                            | Huesca
     UD Almería (76)                                           | Almería
-    SD Eibar (38)                                             | Eibar
-    SD Huesca (38)                                            | Huesca
     UD Las Palmas (38)                                        | Las Palmas
 ```
 
@@ -169,34 +193,37 @@
 
 ## France (fr)
 
-26 club names:
+29 club names:
 
 ```
-    Olympique de Marseille (150)                              | Marseille
-    OGC Nice (149)                                            | Nice
-    Olympique Lyonnais (149)                                  | Lyon
-    AS Monaco FC (148)           => AS Monaco                 | Monaco
+    Olympique de Marseille (226)                              | Marseille
+    OGC Nice (225)                                            | Nice
+    Olympique Lyonnais (225)                                  | Lyon
+    AS Monaco FC (224)           => AS Monaco                 | Monaco
+    FC Nantes (224)                                           | Nantes
+    Lille OSC (224)                                           | Lille
+    Montpellier HSC (224)                                     | Montpellier
+    Paris Saint-Germain FC (224) => Paris Saint-Germain       | Paris
+    RC Strasbourg Alsace (224)   => RC Strasbourg             | Strasbourg
+    Stade Rennais FC 1901 (224)  => Stade Rennais FC          | Rennes
+    Stade de Reims (224)                                      | Reims
+    Angers SCO (190)                                          | Angers
+    Stade Brestois 29 (186)                                   | Brest
+    AS Saint-Étienne (152)                                    | Saint-Étienne
+    FC Girondins de Bordeaux (152) => Girondins de Bordeaux     | Bordeaux
     FC Lorient (148)                                          | Lorient
-    FC Nantes (148)                                           | Nantes
-    Lille OSC (148)                                           | Lille
-    Montpellier HSC (148)                                     | Montpellier
-    Paris Saint-Germain FC (148) => Paris Saint-Germain       | Paris
-    RC Strasbourg Alsace (148)   => RC Strasbourg             | Strasbourg
+    FC Metz (148)                                             | Metz
     Racing Club de Lens (148)    => RC Lens                   | Lens
-    Stade Brestois 29 (148)                                   | Brest
-    Stade Rennais FC 1901 (148)  => Stade Rennais FC          | Rennes
-    Stade de Reims (148)                                      | Reims
-    Angers SCO (114)                                          | Angers
+    Toulouse FC (148)                                         | Toulouse
+    Dijon Football Côte d'Or (114) => Dijon FCO                 | Dijon
+    Nîmes Olympique (114)                                     | Nîmes
     Clermont Foot 63 (110)                                    | Clermont
-    FC Metz (110)                                             | Metz
-    AS Saint-Étienne (76)                                     | Saint-Étienne
+    Amiens SC (76)                                            | Amiens
     ES Troyes AC (76)                                         | Troyes
-    FC Girondins de Bordeaux (76) => Girondins de Bordeaux     | Bordeaux
-    Toulouse FC (72)                                          | Toulouse
     AC Ajaccio (38)                                           | Ajaccio
     AJ Auxerre (38)                                           | Auxerre
-    Dijon Football Côte d'Or (38) => Dijon FCO                 | Dijon
-    Nîmes Olympique (38)                                      | Nîmes
+    En Avant Guingamp (38)       => EA Guingamp               | Guingamp
+    SM Caen (38)                 => Stade Malherbe Caen       | Caen
     Le Havre AC (34)                                          | Le Havre
 ```
 
@@ -204,34 +231,37 @@
 
 ## Italy (it)
 
-27 club names:
+30 club names:
 
 ```
-    AC Milan (152)                                            | Milano
-    ACF Fiorentina (152)                                      | Firenze
-    AS Roma (152)                                             | Roma
-    Atalanta BC (152)            => Atalanta Bergamo          | Bergamo
-    Bologna FC 1909 (152)        => Bologna FC                | Bologna
-    FC Internazionale Milano (152)                              | Milano
-    Hellas Verona FC (152)       => Hellas Verona             | Verona
-    Juventus FC (152)            => Juventus                  | Torino
-    SS Lazio (152)                                            | Roma
-    SSC Napoli (152)                                          | Napoli
-    Torino FC (152)                                           | Torino
-    US Sassuolo Calcio (152)                                  | Sassuolo
-    Udinese Calcio (152)                                      | Udine
-    Cagliari Calcio (114)                                     | Cagliari
-    Empoli FC (114)                                           | Empoli
-    Genoa CFC (114)                                           | Genova
+    AC Milan (228)                                            | Milano
+    ACF Fiorentina (228)                                      | Firenze
+    AS Roma (228)                                             | Roma
+    Atalanta BC (228)            => Atalanta Bergamo          | Bergamo
+    Bologna FC 1909 (228)        => Bologna FC                | Bologna
+    FC Internazionale Milano (228)                              | Milano
+    Juventus FC (228)            => Juventus                  | Torino
+    SS Lazio (228)                                            | Roma
+    SSC Napoli (228)                                          | Napoli
+    Torino FC (228)                                           | Torino
+    US Sassuolo Calcio (228)                                  | Sassuolo
+    Udinese Calcio (228)                                      | Udine
+    Cagliari Calcio (190)                                     | Cagliari
+    Genoa CFC (190)                                           | Genova
+    Hellas Verona FC (190)       => Hellas Verona             | Verona
+    UC Sampdoria (190)                                        | Genova
+    Empoli FC (152)                                           | Empoli
+    Parma Calcio 1913 (114)      => Parma Calcio              | Parma
     Spezia Calcio (114)                                       | La Spezia
-    UC Sampdoria (114)                                        | Genova
+    US Lecce (114)                                            | Lecce
     US Salernitana 1919 (114)    => Salernitana               | Salerno
     AC Monza (76)                                             | Monza
-    US Lecce (76)                                             | Lecce
+    Frosinone Calcio (76)                                     | Frosinone
+    SPAL 2013 (76)               => SPAL Ferrara              | Ferrara
+    AC Chievo Verona (38)                                     | Verona
     Benevento Calcio (38)                                     | Benevento
+    Brescia Calcio (38)                                       | Brescia
     FC Crotone (38)                                           | Crotone
-    Frosinone Calcio (38)                                     | Frosinone
-    Parma Calcio 1913 (38)       => Parma Calcio              | Parma
     US Cremonese (38)                                         | Cremona
     Venezia FC (38)                                           | Venezia
 ```
@@ -240,65 +270,70 @@
 
 ## Netherlands (nl)
 
-24 club names:
+26 club names:
 
 ```
-    AFC Ajax (136)               => Ajax Amsterdam            | Amsterdam
-    AZ (136)                     => AZ Alkmaar                | Alkmaar
-    FC Twente '65 (136)          => FC Twente                 | Enschede
-    FC Utrecht (136)                                          | Utrecht
-    Feyenoord Rotterdam (136)                                 | Rotterdam
-    Fortuna Sittard (136)                                     | Sittard
-    PSV (136)                    => PSV Eindhoven             | Eindhoven
-    RKC Waalwijk (136)                                        | Waalwijk
-    SBV Vitesse (136)            => Vitesse Arnhem            | Arnhem
-    SC Heerenveen (136)                                       | Heerenveen
-    Sparta Rotterdam (136)                                    | Rotterdam
-    FC Groningen (102)                                        | Groningen
+    AFC Ajax (204)               => Ajax Amsterdam            | Amsterdam
+    AZ (204)                     => AZ Alkmaar                | Alkmaar
+    FC Utrecht (204)                                          | Utrecht
+    Feyenoord Rotterdam (204)                                 | Rotterdam
+    Fortuna Sittard (204)                                     | Sittard
+    PSV (204)                    => PSV Eindhoven             | Eindhoven
+    SBV Vitesse (204)            => Vitesse Arnhem            | Arnhem
+    SC Heerenveen (204)                                       | Heerenveen
+    FC Groningen (170)                                        | Groningen
+    FC Twente '65 (170)          => FC Twente                 | Enschede
+    Heracles Almelo (170)                                     | Almelo
+    PEC Zwolle (170)                                          | Zwolle
+    RKC Waalwijk (170)                                        | Waalwijk
+    Sparta Rotterdam (170)                                    | Rotterdam
+    FC Emmen (136)                                            | Emmen
+    Willem II Tilburg (136)                                   | Tilburg
+    ADO Den Haag (102)                                        | Den Haag
     Go Ahead Eagles (102)                                     | Deventer
-    Heracles Almelo (102)                                     | Almelo
     NEC (102)                    => NEC Nijmegen              | Nijmegen
-    PEC Zwolle (102)                                          | Zwolle
-    FC Emmen (68)                                             | Emmen
+    SBV Excelsior (102)          => SBV Excelsior Rotterdam   | Rotterdam
+    VVV Venlo (102)                                           | Venlo
     FC Volendam (68)                                          | Volendam
-    SBV Excelsior (68)           => SBV Excelsior Rotterdam   | Rotterdam
     SC Cambuur-Leeuwarden (68)   => SC Cambuur                | Leeuwarden
-    Willem II Tilburg (68)                                    | Tilburg
-    ADO Den Haag (34)                                         | Den Haag
     Almere City FC (34)                                       | Almere
-    VVV Venlo (34)                                            | Venlo
+    NAC Breda (34)                                            | Breda
+    VBV De Graafschap (34)       => BV De Graafschap          | Doetinchem
 ```
 
 
 
 ## Portugal (pt)
 
-24 club names:
+27 club names:
 
 ```
-    Boavista FC (136)                                         | Porto
-    FC Famalicão (136)                                        | Vila Nova de Famalicão
-    FC Porto (136)                                            | Porto
-    Gil Vicente FC (136)                                      | Barcelos
-    Portimonense SC (136)                                     | Portimão
-    Sport Lisboa e Benfica (136) => SL Benfica                | Lisboa
-    Sporting Clube de Braga (136) => SC Braga                  | Braga
-    Sporting Clube de Portugal (136) => Sporting CP               | Lisboa
-    Vitória Guimarães (136)      => Vitória de Guimarães      | Guimarães
-    CD Santa Clara (102)                                      | Ponta Delgada
-    CS Marítimo (102)                                         | Funchal
+    Boavista FC (204)                                         | Porto
+    FC Porto (204)                                            | Porto
+    Portimonense SC (204)                                     | Portimão
+    Sport Lisboa e Benfica (204) => SL Benfica                | Lisboa
+    Sporting Clube de Braga (204) => SC Braga                  | Braga
+    Sporting Clube de Portugal (204) => Sporting CP               | Lisboa
+    Vitória Guimarães (204)      => Vitória de Guimarães      | Guimarães
+    CD Santa Clara (170)                                      | Ponta Delgada
+    CS Marítimo (170)                                         | Funchal
+    FC Famalicão (170)                                        | Vila Nova de Famalicão
+    Gil Vicente FC (170)                                      | Barcelos
+    Moreirense FC (170)                                       | Moreira de Cónegos
+    Rio Ave FC (170)                                          | Vila do Conde
+    CD Tondela (136)                                          | Tondela
+    FC Paços de Ferreira (136)                                | Paços de Ferreira
+    Os Belenenses Futebol (136)  => Os Belenenses             | Lisboa
     FC Arouca (102)                                           | Arouca
-    FC Paços de Ferreira (102)                                | Paços de Ferreira
     FC Vizela (102)                                           | Vizela
+    GD Chaves (102)                                           | Chaves
     GD Estoril Praia (102)       => Estoril Praia             | Estoril
-    Moreirense FC (102)                                       | Moreira de Cónegos
-    Rio Ave FC (102)                                          | Vila do Conde
-    CD Tondela (68)                                           | Tondela
+    CD Aves (68)                                              | Aves
+    CD Nacional (68)             => CD Nacional Madeira       | Funchal
     Casa Pia AC (68)             => Casa Pia                  | Lisboa
-    GD Chaves (68)                                            | Chaves
-    Os Belenenses Futebol (68)   => Os Belenenses             | Lisboa
     SC Farense (68)                                           | Faro
-    CD Nacional (34)             => CD Nacional Madeira       | Funchal
+    Vitória Setúbal (68)         => Vitória de Setúbal        | Setúbal
+    CD Feirense (34)                                          | Santa Maria da Feira
     CF Estrela da Amadora (34)                                | Amadora
 ```
 
