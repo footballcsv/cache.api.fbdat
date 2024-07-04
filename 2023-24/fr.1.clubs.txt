@@ -1,0 +1,117 @@
+#  France - 17 clubs
+#  Monaco - 1 clubs
+
+= France    # 17 clubs
+
+Toulouse FC, 1937, @ Stadium Municipal
+  | Toulouse | TOU
+  address: 1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028
+  web:     http://www.tfc.info
+  colors:  Violet / White
+
+Stade Brestois 29, 1903, @ Stade Francis-Le Blé
+  | Brest | BRE
+  address: Port de Plaisance, 470 bis rue Alain Colas Brest 29200
+  web:     http://www.stade-brestois.com
+  colors:  White / Red
+
+Olympique de Marseille, 1898, @ Orange Vélodrome
+  | Marseille | MAR
+  address: La Commanderie, 33, traverse de La Martine Marseille 13012
+  web:     http://www.om.net
+  colors:  White / Blue
+
+Montpellier HSC, 1970, @ Stade de la Mosson
+  | Montpellier | MON
+  address: Domaine de Grammont CS 79041 Montpellier 34967
+  web:     http://www.mhscfoot.com
+  colors:  Blue / Orange
+
+Lille OSC, 1944, @ Stade Pierre-Mauroy
+  | Lille | LIL
+  address: Grand Rue 59, 780 Camphin-en-Pévèle Lille 
+  web:     http://www.losc.fr
+  colors:  White / Red
+
+OGC Nice, 1904, @ Stade de Nice
+  | Nice | NIC
+  address: 35, avenue du Ray Nice 06100
+  web:     http://www.ogcnice.com
+  colors:  Red / Black
+
+Olympique Lyonnais, 1896, @ Groupama Stadium
+  | Olympique Lyon | LYO
+  address: 350 avenue Jean Jaurès Lyon 69007
+  web:     http://www.olweb.fr
+  colors:  White / Red / Blue
+
+Paris Saint-Germain FC, 1904, @ Parc des Princes
+  | PSG
+  address: 24, rue de Commandant Guibaud Paris 7501
+  web:     http://www.psg.fr
+  colors:  Red / Blue / White
+
+FC Lorient, 1926, @ Stade Yves Allainmat - Le Moustoir
+  | Lorient | FCL
+  address: Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104
+  web:     http://www.fclweb.fr
+  colors:  Orange / Black
+
+Stade Rennais FC 1901, 1901, @ Roazhon Park
+  | Stade Rennais | REN
+  address: La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039
+  web:     http://www.staderennais.com
+  colors:  Red / Black
+
+Le Havre AC, 1872, @ Stade Océane
+  | Le Havre | HAC
+  address: 2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700
+  web:     http://www.hac-foot.com
+  colors:  Sky Blue / Navy Blue
+
+Clermont Foot 63, 1911, @ Stade Gabriel Montpied
+  | Clermont Foot | CLF
+  address: Rue Adrien Mabrut Clermont-Ferrand 63100
+  web:     http://www.clermontfoot.com
+  colors:  Red / Blue
+
+FC Nantes, 1943, @ Stade de la Beaujoire - Louis Fonteneau
+  | Nantes | NAN
+  address: Centre Sportif José Arribas, La Jonelière Nantes 44240
+  web:     http://www.fcnantes.com
+  colors:  Green / Yellow
+
+FC Metz, 1919, @ Stade Saint-Symphorien
+  | FCM
+  address: 3, allée Saint Symphonien, BP 40292 Metz 5700
+  web:     http://www.fcmetz.com
+  colors:  Red / Blue
+
+Racing Club de Lens, 1906, @ Stade Bollaert-Delelis
+  | RC Lens | RCL
+  address: 33 rue Arthur Lamendin Avion 62210
+  web:     http://www.rclens.fr
+  colors:  Red / Yellow
+
+Stade de Reims, 1909, @ Stade Auguste-Delaune II
+  | SDR
+  address: 26 rue Robert-Fulton Reims 51100
+  web:     http://www.stade-de-reims.com
+  colors:  Red / White / Cyan
+
+RC Strasbourg Alsace, 1906, @ Stade de la Meinau
+  | Strasbourg | RC 
+  address: 12 Rue Extenwoerth Strasbourg 67000
+  web:     http://www.rcstrasbourgalsace.fr
+  colors:  Blue / White
+
+
+= Monaco    # 1 clubs
+
+AS Monaco FC, 1919, @ Stade Louis II.
+  | Monaco | ASM
+  address: Avenue des Castellans Monaco 98000
+  web:     http://www.asmonaco.com
+  colors:  Red / White
+
+

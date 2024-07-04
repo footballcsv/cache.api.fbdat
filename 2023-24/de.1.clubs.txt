@@ -1,0 +1,111 @@
+= Germany    # 18 clubs
+
+1. FC Köln, 1948, @ RheinEnergieSTADION
+  | KOE
+  address: Franz-Kremer-Allee 1 Köln 50937
+  web:     http://www.fc-koeln.de
+  colors:  Red / White
+
+TSG 1899 Hoffenheim, 1921, @ PreZero Arena
+  | Hoffenheim | TSG
+  address: Horrenberger Straße 58 Zuzenhausen 74939
+  web:     http://www.achtzehn99.de
+  colors:  Blue / White
+
+Bayer 04 Leverkusen, 1904, @ BayArena
+  | Leverkusen | B04
+  address: Bismarckstr. 122-124 Leverkusen 51373
+  web:     http://www.bayer04.de
+  colors:  Red / White / Black
+
+Borussia Dortmund, 1909, @ Signal Iduna Park
+  | Dortmund | BVB
+  address: Rheinlanddamm 207-209 Dortmund 44137
+  web:     http://www.bvb.de
+  colors:  Black / Yellow
+
+FC Bayern München, 1900, @ Allianz Arena
+  | Bayern | FCB
+  address: Säbenerstr. 51 München 81547
+  web:     http://www.fcbayern.de
+  colors:  Red / White / Blue
+
+VfB Stuttgart, 1893, @ Mercedes-Benz Arena
+  | Stuttgart | VFB
+  address: Mercedesstraße 109 Stuttgart 70372
+  web:     http://www.vfb.de
+  colors:  White / Red
+
+VfL Wolfsburg, 1945, @ Volkswagen Arena
+  | Wolfsburg | WOB
+  address: In den Allerwiesen 1 Wolfsburg 38446
+  web:     http://www.vfl-wolfsburg.de
+  colors:  Green / White
+
+SV Werder Bremen, 1899, @ Weserstadion
+  | Bremen | SVW
+  address: Franz-Böhmert-Str. 1c Bremen 28205
+  web:     http://www.werder.de
+  colors:  Green / White
+
+1. FSV Mainz 05, 1905, @ Opel Arena
+  | Mainz | M05
+  address: Dr.-Martin-Luther-King-Weg 20 Mainz 55122
+  web:     http://www.mainz05.de
+  colors:  Red / White
+
+FC Augsburg, 1907, @ WWK Arena
+  | Augsburg | FCA
+  address: Donauwörther Straße 170 Augsburg 86154
+  web:     http://www.fcaugsburg.de
+  colors:  Red / Green / White
+
+SC Freiburg, 1912, @ Schwarzwald-Stadion
+  | Freiburg | SCF
+  address: Schwarzwaldstraße 193 Freiburg 79117
+  web:     http://www.scfreiburg.com
+  colors:  Red / White
+
+Borussia Mönchengladbach, 1900, @ Stadion im Borussia-Park
+  | M'gladbach | BMG
+  address: Hennes-Weisweiler-Allee 1 Mönchengladbach 41179
+  web:     http://www.borussia.de
+  colors:  Black / White / Green
+
+Eintracht Frankfurt, 1899, @ Deutsche Bank Park
+  | Frankfurt | SGE
+  address: Mörfelder Landstraße 362 Frankfurt am Main 60528
+  web:     http://www.eintracht.de
+  colors:  Red / Black
+
+1. FC Union Berlin, 1906, @ Stadion An der Alten Försterei
+  | Union Berlin | UNB
+  address: An der Wuhlheide 263 Berlin 12555
+  web:     http://www.fc-union-berlin.de
+  colors:  Red / White
+
+VfL Bochum 1848, 1849, @ Vonovia Ruhrstadion
+  | Bochum | BOC
+  address: Castroper Straße 145 Bochum 44791
+  web:     http://www.vfl-bochum.de
+  colors:  Blue / White
+
+1. FC Heidenheim 1846, 1846, @ Voith-Arena
+  | Heidenheim | HEI
+  address: Schloßhaustraße 162 Heidenheim 89522
+  web:     http://www.fc-heidenheim.de
+  colors:  Blue / Red / White
+
+SV Darmstadt 98, 1898, @ Merck-Stadion am Böllenfalltor
+  | Darmstadt | SVD
+  address: Nieder-Ramstädter-Straße 170 Darmstadt 64285
+  web:     http://www.sv98.de
+  colors:  Blue / White
+
+RB Leipzig, 2009, @ Red Bull Arena
+  | RBL
+  address: Neumarkt 29-33 Leipzig 04109
+  web:     http://www.dierotenbullen.com
+  colors:  White / Red
+
+

@@ -1,0 +1,108 @@
+= Netherlands    # 18 clubs
+
+FC Twente '65, 1965, @ De Grolsch Veste
+  | Twente | TWE
+  address: Colosseum 65 Enschede 7521 PP
+  web:     http://www.fctwente.nl
+  colors:  Red / White
+
+SBV Excelsior, 1902, @ Van Donge & De Roo Stadion
+  | Excelsior | EXC
+  address: Honingerdijk 110 Rotterdam 3062 NX
+  web:     http://www.sbvexcelsior.nl
+  colors:  Red / Black
+
+Heracles Almelo, 1903, @ Erve Asito
+  | Heracles | HER
+  address: Stadionlaan 1 Almelo 7606 JZ
+  web:     http://www.heracles.nl
+  colors:  Black / White
+
+SC Heerenveen, 1920, @ Abe Lenstra Stadion
+  | Heerenveen | HEE
+  address: Abe Lenstra Boulevard 19 Heerenveen 8448 JA
+  web:     http://www.sc-heerenveen.nl
+  colors:  Blue / White
+
+PSV, 1913, @ Philips Stadion
+  address: Fredriklaan 10a Eindhoven 5616 NH
+  web:     http://www.psv.nl
+  colors:  Red / White
+
+Feyenoord Rotterdam, 1908, @ Stadion Feijenoord
+  | Feyenoord | FEY
+  address: Van Zandvlietplein 3 Rotterdam 3007 AP
+  web:     http://www.feyenoord.nl
+  colors:  Red / White / Black
+
+FC Utrecht, 1970, @ Stadion Galgenwaard
+  | Utrecht | UTR
+  address: Postbus 85159 Utrecht 3508 AD
+  web:     http://www.fc-utrecht.nl
+  colors:  Red / White
+
+AFC Ajax, 1900, @ Johan Cruyff ArenA
+  | Ajax | AJA
+  address: ArenA Boulevard 29 Amsterdam 1101 AX
+  web:     http://www.ajax.nl
+  colors:  Red / White
+
+SBV Vitesse, 1892, @ GelreDome
+  | Vitesse | VIT
+  address: Batavierenweg 25 Arnhem 6841 HN
+  web:     http://www.vitesse.nl
+  colors:  Yellow / Black
+
+AZ, 1967, @ AFAS Stadion
+  address: Stadionweg 1 Alkmaar 1812 AZ
+  web:     http://www.az.nl
+  colors:  Red / White
+
+RKC Waalwijk, 1940, @ Mandemakers Stadion
+  | RKC
+  address: Akkerlaan 2 Waalwijk 5143 ND
+  web:     http://www.rkcwaalwijk.nl
+  colors:  Yellow / Blue
+
+PEC Zwolle, 1910, @ MAC³PARK Stadion
+  | Zwolle | ZWO
+  address: Stadionplein 1 Zwolle 8025 CP
+  web:     http://www.peczwolle.nl
+  colors:  Blue / White
+
+Go Ahead Eagles, 1902, @ De Adelaarshorst
+  | Go Ahead | GOA
+  address: Vetkampstraat 1 Deventer 7416 WK
+  web:     http://www.ga-eagles.nl
+  colors:  Red / Yellow
+
+Almere City FC, 1972, @ Yanmar Stadion
+  | Almere City | ALM
+  address: Competitieweg 22 Almere 1318 EA
+  web:     http://www.almerecity.nl
+  colors:  Black / Red
+
+NEC, 1900, @ Goffertstadion
+  address: Stadionplein 1 Nijmegen 6532 AJ
+  web:     http://www.nec-nijmegen.nl
+  colors:  Red / Green / Black
+
+FC Volendam, 1920, @ Kras Stadion
+  | Volendam | VOL
+  address: Sportlaan 10 Volendam 1131 BK
+  web:     http://www.fcvolendam.nl
+  colors:  Orange / Black
+
+Fortuna Sittard, 1968, @ Fortuna Sittard Stadion
+  | Sittard | SIT
+  address: Milaanstraat 120 Sittard 6135 LH
+  web:     http://www.fortuna-sittard.nl
+  colors:  Yellow / Green
+
+Sparta Rotterdam, 1888, @ Sparta-Stadion Het Kasteel
+  | Sparta | SPA
+  address: Spartapark Noord 1 Rotterdam 3027 VW
+  web:     http://www.sparta-rotterdam.nl
+  colors:  Red / White / Black
+
+

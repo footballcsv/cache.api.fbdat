@@ -1,0 +1,123 @@
+= England    # 20 clubs
+
+Arsenal FC, 1886, @ Emirates Stadium
+  | Arsenal | ARS
+  address: 75 Drayton Park London N5 1BU
+  web:     http://www.arsenal.com
+  colors:  Red / White
+
+Aston Villa FC, 1872, @ Villa Park
+  | Aston Villa | AVL
+  address: Villa Park Birmingham B6 6HE
+  web:     http://www.avfc.co.uk
+  colors:  Claret / Sky Blue
+
+Chelsea FC, 1905, @ Stamford Bridge
+  | Chelsea | CHE
+  address: Fulham Road London SW6 1HS
+  web:     http://www.chelseafc.com
+  colors:  Royal Blue / White
+
+Everton FC, 1878, @ Goodison Park
+  | Everton | EVE
+  address: Goodison Park Liverpool L4 4EL
+  web:     http://www.evertonfc.com
+  colors:  Blue / White
+
+Fulham FC, 1879, @ Craven Cottage
+  | Fulham | FUL
+  address: Craven Cottage, Stevenage Road London SW6 6HH
+  web:     http://www.fulhamfc.com
+  colors:  White / Black
+
+Liverpool FC, 1892, @ Anfield
+  | Liverpool | LIV
+  address: Anfield Road Liverpool L4 0TH
+  web:     http://www.liverpoolfc.tv
+  colors:  Red / White
+
+Manchester City FC, 1880, @ Etihad Stadium
+  | Man City | MCI
+  address: SportCity Manchester M11 3FF
+  web:     https://www.mancity.com
+  colors:  Sky Blue / White
+
+Manchester United FC, 1878, @ Old Trafford
+  | Man United | MUN
+  address: Sir Matt Busby Way Manchester M16 0RA
+  web:     http://www.manutd.com
+  colors:  Red / White
+
+Newcastle United FC, 1881, @ St. James' Park
+  | Newcastle | NEW
+  address: Sports Direct Arena Newcastle upon Tyne NE1 4ST
+  web:     http://www.nufc.co.uk
+  colors:  Black / White
+
+Tottenham Hotspur FC, 1882, @ Tottenham Hotspur Stadium
+  | Tottenham | TOT
+  address: Bill Nicholson Way, 748 High Road London N17 0AP
+  web:     http://www.tottenhamhotspur.com
+  colors:  Navy Blue / White
+
+Wolverhampton Wanderers FC, 1877, @ Molineux Stadium
+  | Wolverhampton | WOL
+  address: Waterloo Road Wolverhampton WV1 4QR
+  web:     http://www.wolves.co.uk
+  colors:  Black / Gold
+
+Burnley FC, 1881, @ Turf Moor
+  | Burnley | BUR
+  address: Harry Potts Way Burnley BB10 4BX
+  web:     http://www.burnleyfootballclub.com
+  colors:  Claret / Sky Blue
+
+Nottingham Forest FC, 1865, @ The City Ground
+  | Nottingham | NOT
+  address: Pavilion Road, West Bridgeford Nottingham NG2 5GJ
+  web:     http://www.nottinghamforest.co.uk
+  colors:  Red / White
+
+Crystal Palace FC, 1905, @ Selhurst Park
+  | Crystal Palace | CRY
+  address: Whitehorse Lane London SE25 6PU
+  web:     http://www.cpfc.co.uk
+  colors:  Red / Blue
+
+Sheffield United FC, @ Bramall Lane
+  | Sheffield Utd | SHE
+  address: Bramall Lane Sheffield, Yorkshire S2 4SU
+  web:     http://www.sufc.co.uk
+  colors:  Red / White / Black
+
+Luton Town FC, 1885, @ Kenilworth Road Stadium
+  | Luton Town | LUT
+  address: 1 Maple Road Luton LU4 8AW
+  web:     http://www.lutontown.co.uk
+  colors:  White / Navy Blue / Orange
+
+Brighton & Hove Albion FC, 1898, @ The American Express Community Stadium
+  | Brighton Hove | BHA
+  address: 44 North Road Brighton & Hove BN1 1YR
+  web:     http://www.seagulls.co.uk
+  colors:  Blue / White
+
+Brentford FC, 1889, @ Griffin Park
+  | Brentford | BRE
+  address: Braemar Road Brentford TW8 0NT
+  web:     http://www.brentfordfc.co.uk
+  colors:  Red / White / Black
+
+West Ham United FC, 1895, @ London Stadium
+  | West Ham | WHU
+  address: Queen Elizabeth Olympic Park, London London E20 2ST
+  web:     http://www.whufc.com
+  colors:  Claret / Sky Blue
+
+AFC Bournemouth, 1890, @ Vitality Stadium
+  | Bournemouth | BOU
+  address: Dean Court, Kings Park Bournemouth BH7 7AF
+  web:     http://www.afcb.co.uk
+  colors:  Red / Black
+
+

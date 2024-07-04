@@ -1,0 +1,123 @@
+= Brazil    # 20 clubs
+
+Fluminense FC, 1902, @ Estadio Jornalista Mário Filho
+  | Fluminense | FLU
+  address: Rua Álvaro Chaves 41, Bairro Laranjeiras Rio de Janeiro, RJ 22231-220
+  web:     http://www.fluminense.com.br
+  colors:  Maroon / Green / White
+
+CA Mineiro, 1908, @ Estádio Raimundo Sampaio
+  | Mineiro | CAM
+  address: Av. Olegário Maciel 1516, Lourdes Belo Horizonte, MG 30180-111
+  web:     http://www.atletico.com.br
+  colors:  Black / White
+
+Grêmio FBPA, 1903, @ Arena do Grêmio
+  | Grêmio | FBP
+  address: Avenida Padre Leopoldo Bretano, 110, Humaitá Porto Alegre, RS 90250-590
+  web:     http://www.gremio.net
+  colors:  Blue / Black / White
+
+CA Paranaense, 1924, @ Estádio Joaquim Américo Guimarães
+  | Paranaense | CAP
+  address: Estrada do Ganchinho 1451, Umbará Curitiba, PR 81930-160
+  web:     http://www.atleticoparanaense.com
+  colors:  Black / White / Red
+
+SE Palmeiras, 1914, @ Allianz Parque
+  | Palmeiras | PAL
+  address: Rua Palestra Italia nº 214, Perdizes São Paulo, SP 05005-030
+  web:     http://www.palmeiras.com.br
+  colors:  Green / White
+
+Botafogo FR, 1904, @ Estádio Nilton Santos
+  | Botafogo | BOT
+  address: Avenida Venceslau Brás 72, Bairro Botafago Rio de Janeiro, RJ 22290-140
+  web:     http://www.botafogo.com.br
+  colors:  Black / White
+
+Cruzeiro EC, 1921, @ Estádio Governador Magalhães Pinto
+  | Cruzeiro | CRU
+  address: Rua Timbiras 2903, Bairro Preto Belo Horizonte, MG 30140-062
+  web:     http://www.cruzeiro.com.br
+  colors:  Blue / White
+
+São Paulo FC, 1930, @ Estádio do Morumbi
+  | São Paulo | PAU
+  address:  São Paulo, SP 
+  web:     http://www.saopaulofc.net
+  colors:  White / Red / Black
+
+EC Bahia, 1931, @ Estádio Governador Roberto Santos
+  | Bahia | BAH
+  address: Rua Antônio Fernandes S/N, Jardim das Margaridas Salvador, BA 41502-590
+  web:     http://www.esporteclubebahia.com.br
+  colors:  Blue / White / Red
+
+SC Corinthians Paulista, 1910, @ Neo Química Arena
+  | Corinthians | COR
+  address: Rua São Jorge 777, Tatuapé São Paulo, SP 03087-000
+  web:     http://www.corinthians.com.br
+  colors:  Black / White
+
+CR Vasco da Gama, 1898, @ Estádio Club de Regatas Vasco da Gama
+  | Vasco da Gama | VAS
+  address: Rua Gen. Almério de Moura 131, Bairro Vasco da Gama Rio de Janeiro, RJ 20921-060
+  web:     http://www.vasco.com.br
+  colors:  Black / White
+
+EC Vitória, 1899, @ Estádio Manoel Barradas
+  | Vitória | VIT
+  address: Rua Artêmio Castro Valente, Nossa Senhora da Vitória Salvador, BA 41750-240
+  web:     http://www.ecvitoria.com.br
+  colors:  Red / Black
+
+CR Flamengo, 1919, @ Estadio Jornalista Mário Filho
+  | Flamengo | FLA
+  address:  Rio de Janeiro, RJ 
+  web:     https://www.flamengo.com.br/pagina-inicial-basquete
+  colors:  Red / Black / White
+
+Fortaleza EC, 1918, @ Estádio Castelão
+  | Fortaleza | FEC
+  address: Avenida Senador Fernandes Távora 200, Pici Fortaleza, CE 60510-290
+  web:     http://www.fortalezaec.net
+  colors:  Red / Blue / White
+
+AC Goianiense, 1937, @ Estádio Olímpico Pedro Ludovico Teixeira
+  | ACG
+  address: Rua Vitória Régia, Qd. 01, Lt. 20, Setor Urias Magalhães Goiânia, GO 74565-100
+  web:     http://www.atleticogoianiense.com.br
+  colors:  Red / Black / White
+
+Criciúma EC, 1947, @ Estádio Heriberto Hülse
+  | Criciúma | CRI
+  address: Rua Treze de Maio 1947, Bairro Comerciário Criciúma, SC 88802-290
+  web:     http://www.criciumaec.com.br
+  colors:  White / Black / Yellow
+
+EC Juventude, 1913, @ Estádio Alfredo Jaconi
+  | Juventude | JUV
+  address: Rua Hércules Galló 1547, Centro Caxias do Sul, RS 95090-110
+  web:     http://www.juventude.com.br
+  colors:  Green / White
+
+RB Bragantino, 1928, @ Estádio Nabi Abi Chedid
+  | Bragantino | RBB
+  address: Rua Emílio Colela S/N, Jd. Nova Bragança Bragança Paulista, SP 12914-410
+  web:     http://www.bragantino.net
+  colors:  White / Black
+
+Cuiabá EC, 2001, @ Arena Pantanal
+  | CUI
+  address: Rodovia BR 364, Bairro Distrito Industriário Cuiabá, MT 78065-230
+  web:     http://www.cuiabaesporteclube.com.br
+  colors:  Green / Yellow
+
+SC Internacional, 1909, @ Estádio José Pinheiro Borba
+  | Internacional | SCI
+  address: Avenida Padre Cacique 891, Bairro Menino Deus Porto Alegre, RS 90810-240
+  web:     http://www.internacional.com.br
+  colors:  Red / White
+
+

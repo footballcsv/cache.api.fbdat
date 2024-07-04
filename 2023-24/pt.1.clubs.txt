@@ -1,0 +1,111 @@
+= Portugal    # 18 clubs
+
+Rio Ave FC, 1939, @ Estádio do Rio Ave Futebol Clube
+  | Rio Ave | RIO
+  address: Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909
+  web:     http://www.rioave-fc.pt
+  colors:  Green / White
+
+Sporting Clube de Portugal, 1906, @ Estádio José Alvalade
+  | Sporting CP | SPO
+  address: Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801
+  web:     http://www.sporting.pt
+  colors:  Green / White
+
+FC Porto, 1893, @ Estádio Do Dragão
+  | Porto | FCP
+  address: Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451
+  web:     http://www.fcporto.pt
+  colors:  Blue / White
+
+GD Estoril Praia, 1939, @ Estádio António Coimbra da Mota
+  | Estoril Praia | EST
+  address: Estádio António Coimbra da Mota Estoril 2765
+  web:     http://www.estorilpraia.pt
+  colors:  Yellow / Blue
+
+Moreirense FC, 1938, @ P.D. Comendador Joaquim de Almeida Freitas
+  | Moreirense | MOR
+  address: Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270
+  web:     http://www.moreirensefc.pt
+  colors:  Green / White
+
+FC Arouca, 1952, @ Estádio Municipal de Arouca
+  | Arouca | FCA
+  address: Rua Doutor Ângelo Miranda Arouca 4540-140
+  web:     http://www.fcarouca.eu
+  colors:  Yellow / Blue
+
+Boavista FC, 1903, @ Estádio do Bessa Século XXI
+  | Boavista | BOA
+  address: Rua O Primeiro de Janeiro, Boavista Porto 4100-127
+  web:     http://www.boavistafc.pt
+  colors:  Black / White
+
+GD Chaves, 1949, @ Estádio Municipal Eng. Manuel Branco Teixeira
+  | Chaves | CHA
+  address: Av. do Estádio Municipal Apartado 225 Chaves 5400
+  web:     http://www.gdchaves.pt
+  colors:  Red / Blue
+
+Sport Lisboa e Benfica, 2020, @ Estádio do Sport Lisboa e Benfica
+  | SL Benfica | BEN
+  address:   
+  web:     https://www.slbenfica.pt
+  colors:  
+
+FC Famalicão, 1931, @ Estádio Municipal 22 de Junho
+  | Famalicão | FAM
+  address:  Vila Nova de Famalicão 
+  web:     http://www.fcfamalicao.pt
+  colors:  Blue / White
+
+Gil Vicente FC, 1924, @ Estádio Cidade de Barcelos
+  | Gil Vicente | GIL
+  address: Rua D. Diogo Pinheiro n.º 25, Apartado 197 Barcelos 4750-282
+  web:     http://www.gilvicentefc.pt
+  colors:  Red / Blue
+
+Vitória SC, 1922, @ Estádio Dom Afonso Henriques
+  | GUI
+  address: Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914
+  web:     http://www.vitoriasc.pt
+  colors:  White / Black
+
+FC Vizela, 1939, @ Estádio da Capital do Móvel
+  | Vizela | VIZ
+  address: Rua Fonseca e Castro, Apartado 131 Vizela 4815-902
+  web:     http://www.fcvizela.pt
+  colors:  Blue / White
+
+Portimonense SC, 1914, @ Estádio do Portimonense SC
+  | Portimonense | PSC
+  address: Praça Manuel Teixeira Gomes n.º 4 -1º Portimão 8500-542
+  web:     http://www.portimonense.pt
+  colors:  Black / White
+
+SC Farense, 1910, @ Estádio de São Lúis
+  | Farense | FAR
+  address: Praça de Tânger, Ginásio Sede Faro 8005-445
+  web:     http://www.scfarense1910.blogspot.com
+  colors:  Black / White
+
+Sporting Clube de Braga, 1921, @ Estádio Municipal de Braga
+  | Braga | SCB
+  address: Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087
+  web:     http://www.scbraga.pt
+  colors:  Red / White
+
+Casa Pia AC, 1920, @ Estádio Pina Manique
+  | Casa Pia | CAS
+  address: Estádio Pina Manique Lisboa 1500-462
+  web:     http://www.casapia-ac.pt
+  colors:  Black / White
+
+CF Estrela da Amadora, @ Estádio Nacional
+  | Amadora | AMA
+  address:   
+  web:     
+  colors:  
+
+

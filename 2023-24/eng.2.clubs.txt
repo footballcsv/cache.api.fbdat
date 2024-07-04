@@ -1,0 +1,153 @@
+#  England - 22 clubs
+#  Wales - 2 clubs
+
+= England    # 22 clubs
+
+Blackburn Rovers FC, 1874, @ Ewood Park
+  | Blackburn | BLA
+  address: Ewood Park Blackburn BB2 4JF
+  web:     http://www.rovers.co.uk
+  colors:  Blue / White
+
+Norwich City FC, 1902, @ Carrow Road
+  | Norwich | NOR
+  address: Carrow Road Norwich NR1 1JE
+  web:     http://www.canaries.co.uk
+  colors:  Yellow / Green
+
+Queens Park Rangers FC, 1882, @ Kiyan Prince Foundation Stadium
+  | QPR
+  address: South Africa Road, Shepherds Bush London W12 7PA
+  web:     http://www.qpr.co.uk
+  colors:  Blue / White
+
+Stoke City FC, 1863, @ Bet365 Stadium
+  | Stoke | STK
+  address: Stanley Matthews Way Stoke-on-Trent ST4 4EG
+  web:     http://www.stokecityfc.com
+  colors:  Red / White
+
+Sunderland AFC, 1879, @ Stadium of Light
+  | Sunderland | SUN
+  address: The Sunderland Stadium of Light Sunderland SR5 1SU
+  web:     http://www.safc.com
+  colors:  Red / White
+
+West Bromwich Albion FC, 1879, @ The Hawthorns
+  | West Brom | WBA
+  address: The Hawthorns West Bromwich B71 4LF
+  web:     http://www.wba.co.uk
+  colors:  White / Navy Blue
+
+Hull City AFC, 1904, @ Kingston Communications Stadium
+  | Hull City | HUL
+  address: Walton Street Hull HU3 6HU
+  web:     http://www.hullcitytigers.com
+  colors:  Orange / Black
+
+Birmingham City FC, 1875, @ St Andrew's Trillion Trophy Stadium
+  | Birmingham | BIR
+  address: St. Andrew's Stadium Birmingham B9 4RL
+  web:     http://www.bcfc.com
+  colors:  Blue / White
+
+Leicester City FC, 1884, @ King Power Stadium
+  | Leicester City | LEI
+  address: The Walkers Stadium, Filbert Way Leicester LE2 7FL
+  web:     http://www.lcfc.com
+  colors:  Royal Blue / White
+
+Southampton FC, 1885, @ St. Mary's Stadium
+  | Southampton | SOU
+  address: Britannia Road Southampton SO14 5FP
+  web:     http://www.saintsfc.co.uk
+  colors:  Red / White / Black
+
+Leeds United FC, 1904, @ Elland Road
+  | Leeds United | LEE
+  address: Elland Road Leeds LS11 0ES
+  web:     http://www.leedsunited.com
+  colors:  White / Blue
+
+Middlesbrough FC, 1876, @ Riverside Stadium
+  | Middlesbrough | MID
+  address: Riverside Stadium Middlesbrough TS3 6RS
+  web:     http://www.mfc.co.uk
+  colors:  Red / White
+
+Sheffield Wednesday FC, 1820, @ Hillsborough Stadium
+  | Sheffield Wed | SHE
+  address: Hillsborough Sheffield, Yorkshire S6 1SW
+  web:     http://www.swfc.co.uk
+  colors:  Blue / White / Black
+
+Watford FC, 1881, @ Vicarage Road Stadium
+  | Watford | WAT
+  address: Vicarage Road Watford WD18 0ER
+  web:     http://www.watfordfc.com
+  colors:  Yellow / Black
+
+Ipswich Town FC, 1887, @ Portman Road Stadium
+  | Ipswich Town | IPS
+  address: Portman Road Ipswich IP1 2DA
+  web:     http://www.itfc.co.uk
+  colors:  Blue / White
+
+Millwall FC, 1885, @ The Den
+  | Millwall | MIL
+  address: Zampa Road London SE16 3LN
+  web:     http://www.millwallfc.co.uk
+  colors:  Blue / White
+
+Rotherham United FC, 1870, @ New York Stadium
+  | Rotherham Utd | ROT
+  address: New York Way Rotherham S60 1AH
+  web:     http://www.themillers.co.uk
+  colors:  Red / White
+
+Bristol City FC, 1894, @ Ashton Gate Stadium
+  | Bristol City | BRI
+  address: Ashton Gate Bristol BS3 2EJ
+  web:     http://www.bcfc.co.uk
+  colors:  Red / White
+
+Huddersfield Town AFC, 1908, @ The John Smith's Stadium
+  | Huddersfield | HUD
+  address: Stadium Way Huddersfield HD1 6PX
+  web:     http://www.htafc.com
+  colors:  Blue / White
+
+Coventry City FC, 1883, @ St Andrew's Trillion Trophy Stadium
+  | Coventry City | COV
+  address: Gallagher Retail Park, Stoney Stanton Road Coventry CV6 5QE
+  web:     http://www.ccfc.co.uk
+  colors:  Sky Blue / White
+
+Preston North End FC, 1863, @ Deepdale Stadium
+  | Preston NE | PNE
+  address: Sir Tom Finney Way Preston PR1 6RU
+  web:     http://www.pnefc.net
+  colors:  White / Navy Blue
+
+Plymouth Argyle FC, 1886, @ Home Park
+  | Plymouth Arg | PLY
+  address: Home Park Plymouth PL2 3DQ
+  web:     http://www.pafc.co.uk
+  colors:  Green / White
+
+
+= Wales    # 2 clubs
+
+Swansea City AFC, 1912, @ Liberty Stadium
+  | Swansea | SWA
+  address: Liberty Stadium, Landore Swansea, Glamorgan SA1 2FA
+  web:     http://www.swanseacity.net
+  colors:  White / Black
+
+Cardiff City FC, 1899, @ Cardiff City Stadium
+  | Cardiff | CAR
+  address: Cardiff City Stadium, Leckwith Road Cardiff CF11 8AZ
+  web:     http://www.cardiffcityfc.co.uk
+  colors:  Blue / White
+
+

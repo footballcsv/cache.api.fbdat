@@ -1,0 +1,322 @@
+#  Brazil - 8 clubs
+#  Argentina - 6 clubs
+#  Bolivia - 4 clubs
+#  Peru - 4 clubs
+#  Chile - 4 clubs
+#  Colombia - 4 clubs
+#  Ecuador - 5 clubs
+#  Venezuela - 4 clubs
+#  Uruguay - 4 clubs
+#  Paraguay - 4 clubs
+
+= Brazil    # 8 clubs
+
+Fluminense FC, 1902, @ Estadio Jornalista Mário Filho
+  | Fluminense | FLU
+  address: Rua Álvaro Chaves 41, Bairro Laranjeiras Rio de Janeiro, RJ 22231-220
+  web:     http://www.fluminense.com.br
+  colors:  Maroon / Green / White
+
+CA Mineiro, 1908, @ Estádio Raimundo Sampaio
+  | Mineiro | CAM
+  address: Av. Olegário Maciel 1516, Lourdes Belo Horizonte, MG 30180-111
+  web:     http://www.atletico.com.br
+  colors:  Black / White
+
+Grêmio FBPA, 1903, @ Arena do Grêmio
+  | Grêmio | FBP
+  address: Avenida Padre Leopoldo Bretano, 110, Humaitá Porto Alegre, RS 90250-590
+  web:     http://www.gremio.net
+  colors:  Blue / Black / White
+
+SE Palmeiras, 1914, @ Allianz Parque
+  | Palmeiras | PAL
+  address: Rua Palestra Italia nº 214, Perdizes São Paulo, SP 05005-030
+  web:     http://www.palmeiras.com.br
+  colors:  Green / White
+
+Botafogo FR, 1904, @ Estádio Nilton Santos
+  | Botafogo | BOT
+  address: Avenida Venceslau Brás 72, Bairro Botafago Rio de Janeiro, RJ 22290-140
+  web:     http://www.botafogo.com.br
+  colors:  Black / White
+
+São Paulo FC, 1930, @ Estádio do Morumbi
+  | São Paulo | PAU
+  address:  São Paulo, SP 
+  web:     http://www.saopaulofc.net
+  colors:  White / Red / Black
+
+CR Flamengo, 1919, @ Estadio Jornalista Mário Filho
+  | Flamengo | FLA
+  address:  Rio de Janeiro, RJ 
+  web:     https://www.flamengo.com.br/pagina-inicial-basquete
+  colors:  Red / Black / White
+
+RB Bragantino, 1928, @ Estádio Nabi Abi Chedid
+  | Bragantino | RBB
+  address: Rua Emílio Colela S/N, Jd. Nova Bragança Bragança Paulista, SP 12914-410
+  web:     http://www.bragantino.net
+  colors:  White / Black
+
+
+= Argentina    # 6 clubs
+
+Estudiantes de La Plata, 1905, @ Estadio Jorge Luis Hirschi
+  | Estudiantes LP | EST
+  address: Calle 53 N° 620 La Plata, Buenos Aires 1900
+  web:     http://www.estudiantesdelaplata.com
+  colors:  Red / White / Black
+
+CA Rosario Central, 1889, @ Estadio Dr. Lisandro de la Torre
+  | Rosario | ROS
+  address: Calle General Mitre 853 Rosario, Santa Fe 2000
+  web:     http://www.rosariocentral.com
+  colors:  Dark Blue / Yellow
+
+CA San Lorenzo de Almagro, 1935, @ Estadio Pedro Bidegaín
+  | San Lorenzo | SLO
+  address:  San Lorenzo 
+  web:     https://www.sanlorenzo.com.ar/basquet/
+  colors:  Blue / Red
+
+CA Talleres, 1913, @ Estadio Mario Alberto Kempes
+  | Talleres | TAL
+  address: Avenida Rosario de Santa Fe, 15 Córdoba, Córdoba 5000
+  web:     http://www.talleresdecordoba.com.ar
+  colors:  Blue / White
+
+CD Godoy Cruz Antonio Tomba, 1921
+  | Godoy Cruz | GOD
+  address: Calle Balcarce 477 Godoy Cruz, Mendoza 5501
+  web:     http://www.clubgodoycruz.com.ar
+  colors:  Blue / White
+
+CA River Plate, 1901, @ Estadio Monumental Antonio Vespucio Liberti
+  | River Plate | RIV
+  address: Avenida Pres. Figueroa Alcorta 7597 Buenos Aires, Buenos Aires 1424
+  web:     http://www.cariverplate.com.ar
+  colors:  Red / White
+
+
+= Bolivia    # 4 clubs
+
+Club Aurora, 1935, @ Estadio Félix Capriles
+  | AUR
+  address: Avenida Aroma Nº 562 Cochabamba 
+  web:     http://www.clubaurora.com.bo
+  colors:  Sky Blue / White
+
+Club Bolívar, 1925, @ Estadio Hernando Siles
+  | BOL
+  address: Calle 17, Obrajes La Paz 
+  web:     http://www.clubbolivar.com
+  colors:  Light Blue
+
+Club The Strongest, 1908
+  | The Strongest | STR
+  address: Calle Colón Nº 512 La Paz 
+  web:     http://www.club-thestrongest.com
+  colors:  Black / Yellow
+
+Club Always Ready, 1933, @ Estadio Municipal El Alto
+  | Always Ready | CAR
+  address:  La Paz 
+  web:     
+  colors:  Red / White
+
+
+= Peru    # 4 clubs
+
+Club Universitario de Deportes, 1924, @ Estadio Monumental
+  | Universitario | CUD
+  address: Av. Prolongación Javier Prado Este Cuadra 77 Lima 
+  web:     http://www.clubuniversitario.pe
+  colors:  White / Claret
+
+CS Cristal, 1926, @ Estadio Alberto Gallardo
+  | Cristal | SPO
+  address: Calle 18 s/n La Florida, Rímac Lima 
+  web:     http://www.clubsportingcristal.pe
+  colors:  Sky Blue / White
+
+Club Alianza Lima, 1901, @ Estadio Alejandro Villanueva
+  | Alianza Lima | ALI
+  address:  Lima 
+  web:     http://www.clubalianzalima.com
+  colors:  
+
+FBC Melgar, 1915, @ Estadio de la Universidad Nacional San Agustín
+  address: Calle Consuelo N° 408 Cercado 
+  web:     http://www.fbcmelgar.com.pe
+  colors:  Red / Black
+
+
+= Chile    # 4 clubs
+
+CSD Colo-Colo, 1925, @ Estadio Monumental David Arellano
+  | Colo-Colo | COL
+  address:  Santiago 
+  web:     http://www.colocolo.cl
+  colors:  White / Black
+
+CD Huachipato, 1947, @ Estadio CAP
+  | Huachipato | HUA
+  address:  Talcahuano 
+  web:     http://www.cdhuachipato.cl
+  colors:  
+
+CD Palestino, 1920, @ Estadio Municipal de La Cisterna
+  | Palestino | PAL
+  address:  Santiago 
+  web:     http://www.palestino.cl
+  colors:  
+
+CD Cobresal, 1979, @ Estadio El Cobre
+  | Cobresal | CBS
+  address: Avenida Arqueros 2500 El Salvador 
+  web:     http://www.cdcobresal.cl
+  colors:  White / Orange
+
+
+= Colombia    # 4 clubs
+
+CDC Atlético Nacional, 1947, @ Estadio Atanasio Girardot
+  | CDC Atlético | NAC
+  address: Calle 62 No. 44 - 103 Itagüí, Antioquia 
+  web:     http://www.atlnacional.com.co
+  colors:  Green / White
+
+CDP Junior FC, 1924, @ Estadio Metropolitano Roberto Meléndez
+  | Junior
+  address: Carrera 57 No 72 - 56 Barranquilla 
+  web:     http://www.juniorfc.co
+  colors:  Red / White / Blue
+
+Millonarios FC, 1946, @ Estadio Nemesio Camacho El Campín
+  | Millonarios | MIL
+  address: Calle 104 No. 13a - 32 Bogotá 
+  web:     http://www.millonarios.com.co
+  colors:  Blue / White
+
+Rionegro Águilas, 2004, @ Estadio Alberto Grisales
+  | Rionegro | AGU
+  address:  Rionegro 
+  web:     http://www.aguilasdoradasoficial.com
+  colors:  Gold / Black
+
+
+= Ecuador    # 5 clubs
+
+Barcelona SC, 1925, @ Estadio Monumental Isidro Romero Carbo
+  | BAR
+  address: Ciudadela Bellavista Guayaquil 
+  web:     http://www.barcelonasc.com.ec
+  colors:  Yellow / Black
+
+CSCyD El Nacional, 1964, @ Estadio Olímpico Atahualpa
+  | El Nacional | ELN
+  address: Yasuní e Isla San Cristóbal, Ciudadela Jipijapa Quito 
+  web:     http://www.elnacional.ec
+  colors:  Red / Yellow / Blue
+
+LDU de Quito, 1930, @ Estadio de Liga Deportiva Universitaria
+  | LDU
+  address: Calle Robles 653 y Avenida Amazonas 41-01 Quito 
+  web:     http://www.ldu.com.ec
+  colors:  White / Navy Blue
+
+SD Aucas, 1945, @ Estadio Gonzalo Pozo Ripalda
+  | SDA
+  address: Villalengua e Iñaquito Quito 207637
+  web:     http://www.aucas.com.ec
+  colors:  Yellow / Red
+
+CAR Independiente del Valle, 1958, @ Estadio Olímpico Atahualpa
+  | Independiente | IDL
+  address: Calle F S/N y Calle I - La Balvina Sangolqui 
+  web:     http://independientedelvalle.com
+  colors:  Black / Blue
+
+
+= Venezuela    # 4 clubs
+
+Academia Puerto Cabello, 2014, @ Complejo Deportivo Socialista
+  | AP Cabello | APC
+  address:  Puerto Cabello 2050
+  web:     https://www.academiapuertocabello.com/
+  colors:  
+
+Caracas FC, 1967, @ Estadio Olímpico
+  | CAR
+  address: Avenida Antonio Guzmán Blanco Cota 905, El Paraíso Caracas 1010-A
+  web:     http://www.caracasfutbolclub.com
+  colors:  Red / White / Black
+
+Deportivo Táchira FC, 1974, @ Estadio Rafael Agustín Tovar
+  | Táchira | TÁC
+  address: Urbanización Mérida, Calle 3, Nº 3-55 San Cristóbal 
+  web:     http://www.deportivotachira.com
+  colors:  Yellow / Black
+
+Portuguesa FC, 1972, @ Estadio General José Antonio Páez
+  | POR
+  address:  Acarigua, Portuguesa 
+  web:     http://www.portuguesafutbolclub.com
+  colors:  Red / Black
+
+
+= Uruguay    # 4 clubs
+
+CA Peñarol, 1891, @ Estadio Campeón del Siglo
+  | Peñarol | PEN
+  address: Palacio Peñarol Contador, Avenida Magallanes 1721 Montevideo 11200
+  web:     http://www.peñarol.org
+  colors:  Black / Yellow
+
+Defensor SC, 1913, @ Estadio Luis Franzini
+  | Defensor | DEF
+  address: Avenida 21 de Setiembre 2362, Parque Rodó Montevideo 11100
+  web:     http://www.defensorsporting.com.uy
+  colors:  Violet / White
+
+Club Nacional de Football, 1899, @ Estadio Gran Parque Central
+  | Club Nacional | NAC
+  address: Avenida 8 de Octubre 2847 Montevideo 11200
+  web:     http://www.nacional.com.uy
+  colors:  White / Blue / Red
+
+Liverpool FC, 1915, @ Estadio Belvedere
+  | Liverpool | LIV
+  address: Avenida Agraciada 4186 Montevideo 11200
+  web:     http://www.liverpoolfc.com.uy
+  colors:  Dark Blue / Black
+
+
+= Paraguay    # 4 clubs
+
+Club Nacional, 1904, @ Estadio Arsenio Erico
+  | NAC
+  address: 9na. entre Caballero y Paraguarí­ Asunción 
+  web:     http://www.clubnacional.com.py
+  colors:  Red / White / Black
+
+Club Cerro Porteño
+  | Cerro Porteño | CCP
+  address:   
+  web:     
+  colors:  
+
+Club Libertad Asuncion
+  | Libertad | CLA
+  address:   
+  web:     
+  colors:  
+
+Sportivo Trinidense
+  | Trinidense | Tri
+  address:   
+  web:     
+  colors:  
+
+

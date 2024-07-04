@@ -1,0 +1,123 @@
+= Italy    # 20 clubs
+
+AC Milan, 1899, @ Stadio Giuseppe Meazza
+  | Milan | MIL
+  address: Via Filippo Turati 3 Milano 20121
+  web:     http://www.acmilan.com
+  colors:  Red / Black
+
+ACF Fiorentina, 1926, @ Stadio Artemio Franchi
+  | Fiorentina | FIO
+  address: Viale Manfredo Fanti 4 Firenze 50137
+  web:     http://www.acffiorentina.it
+  colors:  Purple / White
+
+AS Roma, 1927, @ Stadio Olimpico
+  | Roma | ROM
+  address: Via di Trigoria km. 3,600 Roma 00128
+  web:     http://www.asroma.it
+  colors:  Maroon / Orange / White
+
+Atalanta BC, 1904, @ Stadio Atleti Azzurri d'Italia
+  | Atalanta | ATA
+  address: Corso Europa, 46, Zingonia Ciserano 24040
+  web:     http://www.atalanta.it
+  colors:  Black / Blue
+
+Bologna FC 1909, 1909, @ Stadio Renato Dall'Ara
+  | Bologna | BOL
+  address: Via Casteldebole 10 Bologna 40132
+  web:     http://www.bolognafc.it
+  colors:  Red / Blue / White
+
+Cagliari Calcio, 1920, @ Sardegna Arena
+  | Cagliari | CAG
+  address: Viale la Plaia 15 Cagliari 09123
+  web:     http://www.cagliaricalcio.net
+  colors:  Red / Navy Blue / White
+
+Genoa CFC, 1893, @ Stadio Comunale Luigi Ferraris
+  | Genoa | GEN
+  address: Via Ronchi, 67 Genova 16155
+  web:     http://www.genoacfc.it
+  colors:  Red / Navy Blue
+
+FC Internazionale Milano, 1908, @ Stadio Giuseppe Meazza
+  | Inter | INT
+  address: Corso Vittorio Emanuele II 9 Milano 20122
+  web:     http://www.inter.it
+  colors:  Blue / Black
+
+Juventus FC, 1897, @ Allianz Stadium
+  | Juventus | JUV
+  address: Corso Galileo Ferraris, 32 Torino 10128
+  web:     http://www.juventus.com
+  colors:  White / Black
+
+SS Lazio, 1900, @ Stadio Olimpico
+  | Lazio | LAZ
+  address: Via di Santa Cornelia, 1000 Formello 00060
+  web:     http://www.sslazio.it
+  colors:  White / Sky Blue
+
+SSC Napoli, 1904, @ Stadio San Paolo
+  | Napoli | NAP
+  address: Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030
+  web:     http://www.sscnapoli.it
+  colors:  Sky Blue / White
+
+Udinese Calcio, 1896, @ Dacia Arena
+  | Udinese | UDI
+  address: Via Agostino e Angelo Candolini 2 Udine 33100
+  web:     http://www.udinese.it
+  colors:  White / Black
+
+Empoli FC, 1920, @ Stadio Carlo Castellani
+  | Empoli | EMP
+  address: Piazza Matteotti Empoli 50053
+  web:     http://www.empolicalcio.net
+  colors:  Blue / White
+
+Hellas Verona FC, 1903, @ Stadio Marc'Antonio Bentegodi
+  | Verona | HVE
+  address: Via Evangelista Torricelli, 37 Verona 37136
+  web:     http://www.hellasverona.it
+  colors:  Yellow / Blue
+
+US Salernitana 1919, 1919, @ Stadio Arechi
+  | Salernitana | SAL
+  address: Via San Leonardo, 51 Salerno 84131
+  web:     http://www.ussalernitana1919.it
+  colors:  
+
+Frosinone Calcio, 1912, @ Stadio Benito Stirpe
+  | Frosinone | FRO
+  address: Via Marittima, 2 Frosinone 03100
+  web:     http://www.frosinonecalcio.com
+  colors:  Yellow / Blue
+
+US Sassuolo Calcio, 1920, @ Mapei Stadium - Città del Tricolore
+  | Sassuolo | SAS
+  address: Piazza Risorgimento, 47 Sassuolo 41049
+  web:     http://www.sassuolocalcio.it
+  colors:  Green / Black
+
+Torino FC, 1894, @ Stadio Olimpico di Torino
+  | Torino | TOR
+  address: Via Arcivescovado 1 Torino 10122
+  web:     http://www.torinofc.it
+  colors:  Brown / White
+
+US Lecce, 1908, @ Stadio Comunale Via Del Mare
+  | Lecce | USL
+  address: Via Templari 11 Lecce 73100
+  web:     http://www.uslecce.it
+  colors:  Yellow / Red / Navy Blue
+
+AC Monza, 1912, @ Stadio Comunale Brianteo
+  | Monza | MON
+  address: Via Ragazzi del '99, 14 Monza 20900
+  web:     http://www.monza1912.it
+  colors:  Red / White
+
+

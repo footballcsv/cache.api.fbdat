@@ -1,0 +1,123 @@
+= Spain    # 20 clubs
+
+Athletic Club, 1898, @ San Mamés
+  | Athletic | ATH
+  address: Ibaigane, Alameda Mazarredo, 23 Bilbao 48009
+  web:     http://www.athletic-club.eus
+  colors:  Red / White / Black
+
+Club Atlético de Madrid, 1903, @ Estadio Wanda Metropolitano
+  | Atleti | ATL
+  address: Paseo Virgen del Puerto, 67 Madrid 28005
+  web:     http://www.clubatleticodemadrid.com
+  colors:  Red / White / Blue
+
+CA Osasuna, 1920, @ Estadio El Sadar
+  | Osasuna | OSA
+  address: Calle del Sadar, s/n Pamplona 31006
+  web:     http://www.osasuna.es
+  colors:  Red / Navy Blue
+
+FC Barcelona, 1899, @ Camp Nou
+  | Barça | FCB
+  address: Avenida Arístides Maillol s/n Barcelona 08028
+  web:     http://www.fcbarcelona.com
+  colors:  Red / Navy Blue / Orange
+
+Getafe CF, 1946, @ Coliseum Alfonso Pérez
+  | Getafe | GET
+  address: Avenida Teresa de Calcuta, s/n Getafe 28903
+  web:     http://www.getafecf.com
+  colors:  Blue / White
+
+Granada CF, 1931, @ Estadio Nuevo Los Cármenes
+  | Granada | GRA
+  address: Calle del Pintor Manuel Maldonado, s/n Granada 18007
+  web:     http://www.granadacf.es
+  colors:  Red / White
+
+Real Madrid CF, 1902, @ Estadio Santiago Bernabéu
+  | Real Madrid | RMA
+  address: Avenida Concha Espina, 1 Madrid 28036
+  web:     http://www.realmadrid.com
+  colors:  White / Purple
+
+Rayo Vallecano de Madrid, 1924, @ Estadio del Rayo Vallecano
+  | Rayo Vallecano | RAY
+  address: Calle del Payaso Fofó, s/n Madrid 28018
+  web:     http://www.rayovallecano.es
+  colors:  White / Red
+
+RCD Mallorca, 1916, @ Iberostar Estadi
+  | Mallorca | MAL
+  address: Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011
+  web:     http://www.rcdmallorca.es
+  colors:  Red / Black
+
+Real Betis Balompié, 1907, @ Estadio Benito Villamarín
+  | Real Betis | BET
+  address: Avenida de Heliópolis, s/n Sevilla 41012
+  web:     http://www.realbetisbalompie.es
+  colors:  Green / White
+
+Real Sociedad de Fútbol, 1903, @ Estadio Municipal de Anoeta
+  | Real Sociedad | RSO
+  address: Anoeta Pasalekua, 1 San Sebastián 20014
+  web:     http://www.realsociedad.com
+  colors:  Blue / White
+
+Villarreal CF, 1923, @ Estadio de la Cerámica
+  | Villarreal | VIL
+  address: Camino Miralcamp, s/n Villarreal 12540
+  web:     http://www.villarrealcf.es
+  colors:  Yellow / Blue
+
+Valencia CF, 1919, @ Estadio de Mestalla
+  | Valencia | VAL
+  address: Plaza del Valencia Club de Fútbol, 2 Valencia 46010
+  web:     http://www.valenciacf.com
+  colors:  White / Orange / Black
+
+Deportivo Alavés, 1921, @ Estadio de Mendizorroza
+  | Alavés | ALA
+  address: Mendizorroza, Paseo Cervantes, s/n Vitoria 01007
+  web:     http://www.alaves.com
+  colors:  Blue / White
+
+Cádiz CF, 1910, @ Estadio Ramón de Carranza
+  | CAD
+  address: Plaza de Madrid, s/n Cádiz 11010
+  web:     http://www.cadizcf.com
+  colors:  Yellow / Blue
+
+UD Almería, 1989, @ Estadio de los Juegos Mediterráneos
+  | Almería | ALM
+  address: Calle Alcalde Santiago Martínez Cabrejas, 5 Almería 04007
+  web:     http://www.udalmeriasad.com
+  colors:  Red / White
+
+UD Las Palmas, 1949, @ Estadio de Gran Canaria
+  | Las Palmas | LPA
+  address: Calle Pío XII, 29 Las Palmas de Gran Canaria 35005
+  web:     http://www.udlaspalmas.es
+  colors:  Yellow / Blue
+
+Girona FC, 1930, @ Estadi Municipal de Montilivi
+  | Girona | GIR
+  address: Avinguda de Montilivi, 141 Girona 17003
+  web:     http://www.gironafc.cat
+  colors:  Red / White / Blue
+
+RC Celta de Vigo, 1923, @ Estadio de Balaídos
+  | Celta | CEL
+  address: Calle del Conde de Gondomar, 1 Vigo 36203
+  web:     http://www.celtavigo.net
+  colors:  Sky Blue / White
+
+Sevilla FC, 1905, @ Estadio Ramón Sánchez Pizjuán
+  | SEV
+  address: Calle Sevilla Fútbol Club, s/n Sevilla 41005
+  web:     http://www.sevillafc.es
+  colors:  White / Red
+
+

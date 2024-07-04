@@ -1,0 +1,252 @@
+#  Germany - 4 clubs
+#  England - 4 clubs
+#  Spain - 5 clubs
+#  Italy - 4 clubs
+#  Portugal - 3 clubs
+#  France - 2 clubs
+#  Turkey - 1 clubs
+#  Netherlands - 2 clubs
+#  Scotland - 1 clubs
+#  Belgium - 1 clubs
+#  Switzerland - 1 clubs
+#  Denmark - 1 clubs
+#  Austria - 1 clubs
+#  Ukraine - 1 clubs
+#  Serbia - 1 clubs
+
+= Germany    # 4 clubs
+
+Borussia Dortmund, 1909, @ Signal Iduna Park
+  | Dortmund | BVB
+  address: Rheinlanddamm 207-209 Dortmund 44137
+  web:     http://www.bvb.de
+  colors:  Black / Yellow
+
+FC Bayern München, 1900, @ Allianz Arena
+  | Bayern | FCB
+  address: Säbenerstr. 51 München 81547
+  web:     http://www.fcbayern.de
+  colors:  Red / White / Blue
+
+1. FC Union Berlin, 1906, @ Stadion An der Alten Försterei
+  | Union Berlin | UNB
+  address: An der Wuhlheide 263 Berlin 12555
+  web:     http://www.fc-union-berlin.de
+  colors:  Red / White
+
+RB Leipzig, 2009, @ Red Bull Arena
+  | RBL
+  address: Neumarkt 29-33 Leipzig 04109
+  web:     http://www.dierotenbullen.com
+  colors:  White / Red
+
+
+= England    # 4 clubs
+
+Arsenal FC, 1886, @ Emirates Stadium
+  | Arsenal | ARS
+  address: 75 Drayton Park London N5 1BU
+  web:     http://www.arsenal.com
+  colors:  Red / White
+
+Manchester City FC, 1880, @ Etihad Stadium
+  | Man City | MCI
+  address: SportCity Manchester M11 3FF
+  web:     https://www.mancity.com
+  colors:  Sky Blue / White
+
+Manchester United FC, 1878, @ Old Trafford
+  | Man United | MUN
+  address: Sir Matt Busby Way Manchester M16 0RA
+  web:     http://www.manutd.com
+  colors:  Red / White
+
+Newcastle United FC, 1881, @ St. James' Park
+  | Newcastle | NEW
+  address: Sports Direct Arena Newcastle upon Tyne NE1 4ST
+  web:     http://www.nufc.co.uk
+  colors:  Black / White
+
+
+= Spain    # 5 clubs
+
+Club Atlético de Madrid, 1903, @ Estadio Wanda Metropolitano
+  | Atleti | ATL
+  address: Paseo Virgen del Puerto, 67 Madrid 28005
+  web:     http://www.clubatleticodemadrid.com
+  colors:  Red / White / Blue
+
+FC Barcelona, 1899, @ Camp Nou
+  | Barça | FCB
+  address: Avenida Arístides Maillol s/n Barcelona 08028
+  web:     http://www.fcbarcelona.com
+  colors:  Red / Navy Blue / Orange
+
+Real Madrid CF, 1902, @ Estadio Santiago Bernabéu
+  | Real Madrid | RMA
+  address: Avenida Concha Espina, 1 Madrid 28036
+  web:     http://www.realmadrid.com
+  colors:  White / Purple
+
+Real Sociedad de Fútbol, 1903, @ Estadio Municipal de Anoeta
+  | Real Sociedad | RSO
+  address: Anoeta Pasalekua, 1 San Sebastián 20014
+  web:     http://www.realsociedad.com
+  colors:  Blue / White
+
+Sevilla FC, 1905, @ Estadio Ramón Sánchez Pizjuán
+  | SEV
+  address: Calle Sevilla Fútbol Club, s/n Sevilla 41005
+  web:     http://www.sevillafc.es
+  colors:  White / Red
+
+
+= Italy    # 4 clubs
+
+AC Milan, 1899, @ Stadio Giuseppe Meazza
+  | Milan | MIL
+  address: Via Filippo Turati 3 Milano 20121
+  web:     http://www.acmilan.com
+  colors:  Red / Black
+
+FC Internazionale Milano, 1908, @ Stadio Giuseppe Meazza
+  | Inter | INT
+  address: Corso Vittorio Emanuele II 9 Milano 20122
+  web:     http://www.inter.it
+  colors:  Blue / Black
+
+SS Lazio, 1900, @ Stadio Olimpico
+  | Lazio | LAZ
+  address: Via di Santa Cornelia, 1000 Formello 00060
+  web:     http://www.sslazio.it
+  colors:  White / Sky Blue
+
+SSC Napoli, 1904, @ Stadio San Paolo
+  | Napoli | NAP
+  address: Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030
+  web:     http://www.sscnapoli.it
+  colors:  Sky Blue / White
+
+
+= Portugal    # 3 clubs
+
+FC Porto, 1893, @ Estádio Do Dragão
+  | Porto | FCP
+  address: Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451
+  web:     http://www.fcporto.pt
+  colors:  Blue / White
+
+Sport Lisboa e Benfica, 2020, @ Estádio do Sport Lisboa e Benfica
+  | SL Benfica | BEN
+  address:   
+  web:     https://www.slbenfica.pt
+  colors:  
+
+Sporting Clube de Braga, 1921, @ Estádio Municipal de Braga
+  | Braga | SCB
+  address: Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087
+  web:     http://www.scbraga.pt
+  colors:  Red / White
+
+
+= France    # 2 clubs
+
+Paris Saint-Germain FC, 1904, @ Parc des Princes
+  | PSG
+  address: 24, rue de Commandant Guibaud Paris 7501
+  web:     http://www.psg.fr
+  colors:  Red / Blue / White
+
+Racing Club de Lens, 1906, @ Stade Bollaert-Delelis
+  | RC Lens | RCL
+  address: 33 rue Arthur Lamendin Avion 62210
+  web:     http://www.rclens.fr
+  colors:  Red / Yellow
+
+
+= Turkey    # 1 clubs
+
+Galatasaray SK, 1905, @ Türk Telekom Arena
+  | Galatasaray | GAL
+  address: Türk Telekom Arena Stadyumu, Huzur Mahallesi, Şişli İstanbul 34415
+  web:     http://www.galatasaray.org
+  colors:  Red / Yellow
+
+
+= Netherlands    # 2 clubs
+
+PSV, 1913, @ Philips Stadion
+  address: Fredriklaan 10a Eindhoven 5616 NH
+  web:     http://www.psv.nl
+  colors:  Red / White
+
+Feyenoord Rotterdam, 1908, @ Stadion Feijenoord
+  | Feyenoord | FEY
+  address: Van Zandvlietplein 3 Rotterdam 3007 AP
+  web:     http://www.feyenoord.nl
+  colors:  Red / White / Black
+
+
+= Scotland    # 1 clubs
+
+Celtic FC, 1887, @ Celtic Park
+  | Celtic | CEL
+  address: Celtic Park Glasgow G40 3RE
+  web:     http://www.celticfc.co.uk
+  colors:  Green / White
+
+
+= Belgium    # 1 clubs
+
+Royal Antwerp FC, 1880, @ Bosuilstadion
+  | Antwerp FC | ANT
+  address: Oude Bosuilbaan 54a Deurne 2100
+  web:     https://www.royalantwerpfc.be
+  colors:  Red / White
+
+
+= Switzerland    # 1 clubs
+
+BSC Young Boys, 1898, @ Wankdorfstadion
+  | Young Boys | YOB
+  address: Postfach 61 Bern 3000
+  web:     http://www.bscyb.ch
+  colors:  Yellow / Black
+
+
+= Denmark    # 1 clubs
+
+FC København, 1992, @ Telia Parken
+  | København | KOB
+  address: Per Henrik Lings Allé 2 København 2100
+  web:     http://www.fck.dk
+  colors:  White / Blue
+
+
+= Austria    # 1 clubs
+
+FC Red Bull Salzburg, 1933, @ Red Bull Arena
+  | RB Salzburg | RBS
+  address: Stadionstr. 2/3 Wals-Siezenheim 5071
+  web:     http://www.redbulls.com/de
+  colors:  White / Red
+
+
+= Ukraine    # 1 clubs
+
+FK Shakhtar Donetsk, 1936, @ Oblasny SportKomplex Metalist
+  | Shaktar | SHD
+  address: vul. Artema, 86-a Donets’k 83050
+  web:     https://shakhtar.com/
+  colors:  Orange / Black
+
+
+= Serbia    # 1 clubs
+
+FK Crvena Zvezda, 1945, @ Stadion Rajko Mitić
+  | Crvena Zvedza | CRV
+  address: Ljutice Bogdana 1a Beograd 11000
+  web:     http://www.crvenazvezdafk.com
+  colors:  Red / White
+
+
