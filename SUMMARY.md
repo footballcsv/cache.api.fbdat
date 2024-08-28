@@ -1,6 +1,12 @@
 # Summary
 
-56 datafiles
+60 datafiles
+
+
+
+**1 error(s):**
+- **FC St. Pauli 1910 > Germany**
+
 
 
 
@@ -50,33 +56,35 @@
 
 ## Germany (de)
 
-27 club names:
+29 club names:
 
 ```
-    1. FSV Mainz 05 (204)                                     | Mainz
-    Bayer 04 Leverkusen (204)                                 | Leverkusen
-    Borussia Mönchengladbach (204) => Bor. Mönchengladbach      | Mönchengladbach
-    Eintracht Frankfurt (204)                                 | Frankfurt am Main
-    FC Augsburg (204)                                         | Augsburg
-    FC Bayern München (204)      => Bayern München            | München
-    RB Leipzig (204)                                          | Leipzig
-    SC Freiburg (204)                                         | Freiburg
-    TSG 1899 Hoffenheim (204)                                 | Sinsheim
-    VfL Wolfsburg (204)                                       | Wolfsburg
+    1. FSV Mainz 05 (238)                                     | Mainz
+    Bayer 04 Leverkusen (238)                                 | Leverkusen
+    Borussia Mönchengladbach (238) => Bor. Mönchengladbach      | Mönchengladbach
+    Eintracht Frankfurt (238)                                 | Frankfurt am Main
+    FC Augsburg (238)                                         | Augsburg
+    FC Bayern München (238)      => Bayern München            | München
+    RB Leipzig (238)                                          | Leipzig
+    SC Freiburg (238)                                         | Freiburg
+    TSG 1899 Hoffenheim (238)                                 | Sinsheim
+    VfL Wolfsburg (238)                                       | Wolfsburg
+    1. FC Union Berlin (204)                                  | Berlin
+    SV Werder Bremen (204)       => Werder Bremen             | Bremen
+    VfB Stuttgart (204)                                       | Stuttgart
     1. FC Köln (170)                                          | Köln
-    1. FC Union Berlin (170)                                  | Berlin
+    Borussia Dortmund (170)                                   | Dortmund
     Hertha BSC (170)                                          | Berlin
-    SV Werder Bremen (170)       => Werder Bremen             | Bremen
-    VfB Stuttgart (170)                                       | Stuttgart
-    Borussia Dortmund (136)                                   | Dortmund
     FC Schalke 04 (136)                                       | Gelsenkirchen
-    VfL Bochum 1848 (102)        => VfL Bochum                | Bochum
+    VfL Bochum 1848 (136)        => VfL Bochum                | Bochum
+    1. FC Heidenheim 1846 (68)   => 1. FC Heidenheim          | Heidenheim an der Brenz
     Arminia Bielefeld (68)                                    | Bielefeld
     BV Borussia 09 Dortmund (68) => Borussia Dortmund         | Dortmund
     TSV Fortuna 95 Düsseldorf (68) => Fortuna Düsseldorf        | Düsseldorf
-    1. FC Heidenheim 1846 (34)   => 1. FC Heidenheim          | Heidenheim an der Brenz
     1. FC Nürnberg (34)                                       | Nürnberg
+!!! FC St. Pauli 1910 (34)
     Hannover 96 (34)                                          | Hannover
+    Holstein Kiel (34)                                        | Kiel
     SC Paderborn 07 (34)                                      | Paderborn
     SV Darmstadt 98 (34)                                      | Darmstadt
     SpVgg Greuther Fürth 1903 (34) => SpVgg Greuther Fürth      | Fürth
@@ -160,33 +168,33 @@
 27 club names:
 
 ```
-    Athletic Club (228)          => Athletic Club Bilbao      | Bilbao
-    Club Atlético de Madrid (228) => Atlético Madrid           | Madrid
-    FC Barcelona (228)                                        | Barcelona
-    Getafe CF (228)                                           | Madrid
-    RC Celta de Vigo (228)       => RC Celta Vigo             | Vigo
-    Real Betis Balompié (228)    => Real Betis                | Sevilla
-    Real Madrid CF (228)         => Real Madrid               | Madrid
-    Real Sociedad de Fútbol (228) => Real Sociedad             | San Sebastián
-    Sevilla FC (228)                                          | Sevilla
-    Valencia CF (228)                                         | Valencia
-    Villarreal CF (228)                                       | Villarreal
-    CA Osasuna (190)                                          | Pamplona
-    Deportivo Alavés (190)                                    | Vitoria
+    Athletic Club (266)          => Athletic Club Bilbao      | Bilbao
+    Club Atlético de Madrid (266) => Atlético Madrid           | Madrid
+    FC Barcelona (266)                                        | Barcelona
+    Getafe CF (266)                                           | Madrid
+    RC Celta de Vigo (266)       => RC Celta Vigo             | Vigo
+    Real Betis Balompié (266)    => Real Betis                | Sevilla
+    Real Madrid CF (266)         => Real Madrid               | Madrid
+    Real Sociedad de Fútbol (266) => Real Sociedad             | San Sebastián
+    Sevilla FC (266)                                          | Sevilla
+    Valencia CF (266)                                         | Valencia
+    Villarreal CF (266)                                       | Villarreal
+    CA Osasuna (228)                                          | Pamplona
+    Deportivo Alavés (228)                                    | Vitoria
+    RCD Espanyol de Barcelona (190) => RCD Espanyol              | Barcelona
+    RCD Mallorca (190)                                        | Palma de Mallorca
+    Rayo Vallecano de Madrid (190) => Rayo Vallecano            | Madrid
+    Real Valladolid CF (190)                                  | ?  
     Cádiz CF (152)                                            | Cádiz
+    Girona FC (152)                                           | Gerona
     Granada CF (152)                                          | Granada
     Levante UD (152)                                          | Valencia
-    RCD Espanyol de Barcelona (152) => RCD Espanyol              | Barcelona
-    RCD Mallorca (152)                                        | Palma de Mallorca
-    Rayo Vallecano de Madrid (152) => Rayo Vallecano            | Madrid
-    Real Valladolid CF (152)                                  | ?  
+    CD Leganés (114)                                          | ?  
     Elche CF (114)                                            | Elche
-    Girona FC (114)                                           | Gerona
     SD Eibar (114)                                            | Eibar
-    CD Leganés (76)                                           | ?  
     SD Huesca (76)                                            | Huesca
     UD Almería (76)                                           | Almería
-    UD Las Palmas (38)                                        | Las Palmas
+    UD Las Palmas (76)                                        | Las Palmas
 ```
 
 
@@ -196,74 +204,75 @@
 29 club names:
 
 ```
-    Olympique de Marseille (226)                              | Marseille
-    OGC Nice (225)                                            | Nice
-    Olympique Lyonnais (225)                                  | Lyon
-    AS Monaco FC (224)           => AS Monaco                 | Monaco
-    FC Nantes (224)                                           | Nantes
-    Lille OSC (224)                                           | Lille
-    Montpellier HSC (224)                                     | Montpellier
-    Paris Saint-Germain FC (224) => Paris Saint-Germain       | Paris
-    RC Strasbourg Alsace (224)   => RC Strasbourg             | Strasbourg
-    Stade Rennais FC 1901 (224)  => Stade Rennais FC          | Rennes
-    Stade de Reims (224)                                      | Reims
-    Angers SCO (190)                                          | Angers
-    Stade Brestois 29 (186)                                   | Brest
-    AS Saint-Étienne (152)                                    | Saint-Étienne
+    Olympique de Marseille (260)                              | Marseille
+    OGC Nice (259)                                            | Nice
+    Olympique Lyonnais (259)                                  | Lyon
+    AS Monaco FC (258)           => AS Monaco                 | Monaco
+    FC Nantes (258)                                           | Nantes
+    Lille OSC (258)                                           | Lille
+    Montpellier HSC (258)                                     | Montpellier
+    Paris Saint-Germain FC (258) => Paris Saint-Germain       | Paris
+    RC Strasbourg Alsace (258)   => RC Strasbourg             | Strasbourg
+    Stade Rennais FC 1901 (258)  => Stade Rennais FC          | Rennes
+    Stade de Reims (258)                                      | Reims
+    Angers SCO (224)                                          | Angers
+    Stade Brestois 29 (220)                                   | Brest
+    AS Saint-Étienne (186)                                    | Saint-Étienne
+    Racing Club de Lens (182)    => RC Lens                   | Lens
+    Toulouse FC (182)                                         | Toulouse
     FC Girondins de Bordeaux (152) => Girondins de Bordeaux     | Bordeaux
     FC Lorient (148)                                          | Lorient
     FC Metz (148)                                             | Metz
-    Racing Club de Lens (148)    => RC Lens                   | Lens
-    Toulouse FC (148)                                         | Toulouse
     Dijon Football Côte d'Or (114) => Dijon FCO                 | Dijon
     Nîmes Olympique (114)                                     | Nîmes
     Clermont Foot 63 (110)                                    | Clermont
     Amiens SC (76)                                            | Amiens
     ES Troyes AC (76)                                         | Troyes
+    AJ Auxerre (72)                                           | Auxerre
+    Le Havre AC (68)                                          | Le Havre
     AC Ajaccio (38)                                           | Ajaccio
-    AJ Auxerre (38)                                           | Auxerre
     En Avant Guingamp (38)       => EA Guingamp               | Guingamp
     SM Caen (38)                 => Stade Malherbe Caen       | Caen
-    Le Havre AC (34)                                          | Le Havre
 ```
 
 
 
 ## Italy (it)
 
-30 club names:
+31 club names:
 
 ```
-    AC Milan (228)                                            | Milano
-    ACF Fiorentina (228)                                      | Firenze
-    AS Roma (228)                                             | Roma
-    Atalanta BC (228)            => Atalanta Bergamo          | Bergamo
-    Bologna FC 1909 (228)        => Bologna FC                | Bologna
-    FC Internazionale Milano (228)                              | Milano
-    Juventus FC (228)            => Juventus                  | Torino
-    SS Lazio (228)                                            | Roma
-    SSC Napoli (228)                                          | Napoli
-    Torino FC (228)                                           | Torino
+    AC Milan (266)                                            | Milano
+    ACF Fiorentina (266)                                      | Firenze
+    AS Roma (266)                                             | Roma
+    Atalanta BC (266)            => Atalanta Bergamo          | Bergamo
+    Bologna FC 1909 (266)        => Bologna FC                | Bologna
+    FC Internazionale Milano (266)                              | Milano
+    Juventus FC (266)            => Juventus                  | Torino
+    SS Lazio (266)                                            | Roma
+    SSC Napoli (266)                                          | Napoli
+    Torino FC (266)                                           | Torino
+    Udinese Calcio (266)                                      | Udine
+    Cagliari Calcio (228)                                     | Cagliari
+    Genoa CFC (228)                                           | Genova
+    Hellas Verona FC (228)       => Hellas Verona             | Verona
     US Sassuolo Calcio (228)                                  | Sassuolo
-    Udinese Calcio (228)                                      | Udine
-    Cagliari Calcio (190)                                     | Cagliari
-    Genoa CFC (190)                                           | Genova
-    Hellas Verona FC (190)       => Hellas Verona             | Verona
+    Empoli FC (190)                                           | Empoli
     UC Sampdoria (190)                                        | Genova
-    Empoli FC (152)                                           | Empoli
-    Parma Calcio 1913 (114)      => Parma Calcio              | Parma
+    Parma Calcio 1913 (152)      => Parma Calcio              | Parma
+    US Lecce (152)                                            | Lecce
+    AC Monza (114)                                            | Monza
     Spezia Calcio (114)                                       | La Spezia
-    US Lecce (114)                                            | Lecce
     US Salernitana 1919 (114)    => Salernitana               | Salerno
-    AC Monza (76)                                             | Monza
     Frosinone Calcio (76)                                     | Frosinone
     SPAL 2013 (76)               => SPAL Ferrara              | Ferrara
+    Venezia FC (76)                                           | Venezia
     AC Chievo Verona (38)                                     | Verona
     Benevento Calcio (38)                                     | Benevento
     Brescia Calcio (38)                                       | Brescia
+    Como 1907 (38)                                            | Como
     FC Crotone (38)                                           | Crotone
     US Cremonese (38)                                         | Cremona
-    Venezia FC (38)                                           | Venezia
 ```
 
 
