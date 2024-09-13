@@ -1,126 +1,126 @@
 Stage,Group,Matchday,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
-Group,F,1,Tue Sep 19 2023,18:45,CEST / UTC+0200,AC Milan,0-0,0-0,Newcastle United FC,,,2023-09-19T16:45:00Z
-Group,G,1,Tue Sep 19 2023,18:45,CEST / UTC+0200,BSC Young Boys,1-3,1-1,RB Leipzig,,,2023-09-19T16:45:00Z
-Group,E,1,Tue Sep 19 2023,21:00,CEST / UTC+0200,SS Lazio,1-1,0-1,Club Atlético de Madrid,,,2023-09-19T19:00:00Z
-Group,E,1,Tue Sep 19 2023,21:00,CEST / UTC+0200,Feyenoord Rotterdam,2-0,1-0,Celtic FC,,,2023-09-19T19:00:00Z
-Group,F,1,Tue Sep 19 2023,21:00,CEST / UTC+0200,Paris Saint-Germain FC,2-0,0-0,Borussia Dortmund,,,2023-09-19T19:00:00Z
-Group,G,1,Tue Sep 19 2023,21:00,CEST / UTC+0200,Manchester City FC,3-1,0-1,FK Crvena Zvezda,,,2023-09-19T19:00:00Z
-Group,H,1,Tue Sep 19 2023,21:00,CEST / UTC+0200,FC Barcelona,5-0,3-0,Royal Antwerp FC,,,2023-09-19T19:00:00Z
-Group,H,1,Tue Sep 19 2023,21:00,CEST / UTC+0200,FK Shakhtar Donetsk,1-3,1-3,FC Porto,,,2023-09-19T19:00:00Z
-Group,C,1,Wed Sep 20 2023,18:45,CEST / UTC+0200,Real Madrid CF,1-0,0-0,1. FC Union Berlin,,,2023-09-20T16:45:00Z
-Group,A,1,Wed Sep 20 2023,18:45,CEST / UTC+0200,Galatasaray SK,2-2,0-1,FC København,,,2023-09-20T16:45:00Z
-Group,B,1,Wed Sep 20 2023,21:00,CEST / UTC+0200,Sevilla FC,1-1,1-1,Racing Club de Lens,,,2023-09-20T19:00:00Z
-Group,C,1,Wed Sep 20 2023,21:00,CEST / UTC+0200,Sporting Clube de Braga,1-2,0-1,SSC Napoli,,,2023-09-20T19:00:00Z
-Group,D,1,Wed Sep 20 2023,21:00,CEST / UTC+0200,Real Sociedad de Fútbol,1-1,1-0,FC Internazionale Milano,,,2023-09-20T19:00:00Z
-Group,D,1,Wed Sep 20 2023,21:00,CEST / UTC+0200,Sport Lisboa e Benfica,0-2,0-1,FC Red Bull Salzburg,,,2023-09-20T19:00:00Z
-Group,A,1,Wed Sep 20 2023,21:00,CEST / UTC+0200,FC Bayern München,4-3,2-0,Manchester United FC,,,2023-09-20T19:00:00Z
-Group,B,1,Wed Sep 20 2023,21:00,CEST / UTC+0200,Arsenal FC,4-0,3-0,PSV,,,2023-09-20T19:00:00Z
-Group,C,2,Tue Oct 3 2023,18:45,CEST / UTC+0200,1. FC Union Berlin,2-3,2-1,Sporting Clube de Braga,,,2023-10-03T16:45:00Z
-Group,D,2,Tue Oct 3 2023,18:45,CEST / UTC+0200,FC Red Bull Salzburg,0-2,0-2,Real Sociedad de Fútbol,,,2023-10-03T16:45:00Z
-Group,C,2,Tue Oct 3 2023,21:00,CEST / UTC+0200,SSC Napoli,2-3,1-2,Real Madrid CF,,,2023-10-03T19:00:00Z
-Group,D,2,Tue Oct 3 2023,21:00,CEST / UTC+0200,FC Internazionale Milano,1-0,0-0,Sport Lisboa e Benfica,,,2023-10-03T19:00:00Z
-Group,A,2,Tue Oct 3 2023,21:00,CEST / UTC+0200,FC København,1-2,0-0,FC Bayern München,,,2023-10-03T19:00:00Z
-Group,A,2,Tue Oct 3 2023,21:00,CEST / UTC+0200,Manchester United FC,2-3,1-1,Galatasaray SK,,,2023-10-03T19:00:00Z
-Group,B,2,Tue Oct 3 2023,21:00,CEST / UTC+0200,Racing Club de Lens,2-1,1-1,Arsenal FC,,,2023-10-03T19:00:00Z
-Group,B,2,Tue Oct 3 2023,21:00,CEST / UTC+0200,PSV,2-2,0-0,Sevilla FC,,,2023-10-03T19:00:00Z
-Group,E,2,Wed Oct 4 2023,18:45,CEST / UTC+0200,Club Atlético de Madrid,3-2,2-2,Feyenoord Rotterdam,,,2023-10-04T16:45:00Z
-Group,H,2,Wed Oct 4 2023,18:45,CEST / UTC+0200,Royal Antwerp FC,2-3,2-0,FK Shakhtar Donetsk,,,2023-10-04T16:45:00Z
-Group,E,2,Wed Oct 4 2023,21:00,CEST / UTC+0200,Celtic FC,1-2,1-1,SS Lazio,,,2023-10-04T19:00:00Z
-Group,F,2,Wed Oct 4 2023,21:00,CEST / UTC+0200,Borussia Dortmund,0-0,0-0,AC Milan,,,2023-10-04T19:00:00Z
-Group,F,2,Wed Oct 4 2023,21:00,CEST / UTC+0200,Newcastle United FC,4-1,2-0,Paris Saint-Germain FC,,,2023-10-04T19:00:00Z
-Group,G,2,Wed Oct 4 2023,21:00,CEST / UTC+0200,FK Crvena Zvezda,2-2,1-0,BSC Young Boys,,,2023-10-04T19:00:00Z
-Group,G,2,Wed Oct 4 2023,21:00,CEST / UTC+0200,RB Leipzig,1-3,0-1,Manchester City FC,,,2023-10-04T19:00:00Z
-Group,H,2,Wed Oct 4 2023,21:00,CEST / UTC+0200,FC Porto,0-1,0-1,FC Barcelona,,,2023-10-04T19:00:00Z
-Group,D,3,Tue Oct 24 2023,18:45,CEST / UTC+0200,FC Internazionale Milano,2-1,1-0,FC Red Bull Salzburg,,,2023-10-24T16:45:00Z
-Group,A,3,Tue Oct 24 2023,18:45,CEST / UTC+0200,Galatasaray SK,1-3,1-1,FC Bayern München,,,2023-10-24T16:45:00Z
-Group,C,3,Tue Oct 24 2023,21:00,CEST / UTC+0200,1. FC Union Berlin,0-1,0-0,SSC Napoli,,,2023-10-24T19:00:00Z
-Group,C,3,Tue Oct 24 2023,21:00,CEST / UTC+0200,Sporting Clube de Braga,1-2,0-1,Real Madrid CF,,,2023-10-24T19:00:00Z
-Group,D,3,Tue Oct 24 2023,21:00,CEST / UTC+0200,Sport Lisboa e Benfica,0-1,0-0,Real Sociedad de Fútbol,,,2023-10-24T19:00:00Z
-Group,A,3,Tue Oct 24 2023,21:00,CEST / UTC+0200,Manchester United FC,1-0,0-0,FC København,,,2023-10-24T19:00:00Z
-Group,B,3,Tue Oct 24 2023,21:00,CEST / UTC+0200,Sevilla FC,1-2,0-1,Arsenal FC,,,2023-10-24T19:00:00Z
-Group,B,3,Tue Oct 24 2023,21:00,CEST / UTC+0200,Racing Club de Lens,1-1,0-0,PSV,,,2023-10-24T19:00:00Z
-Group,E,3,Wed Oct 25 2023,18:45,CEST / UTC+0200,Feyenoord Rotterdam,3-1,2-0,SS Lazio,,,2023-10-25T16:45:00Z
-Group,H,3,Wed Oct 25 2023,18:45,CEST / UTC+0200,FC Barcelona,2-1,2-0,FK Shakhtar Donetsk,,,2023-10-25T16:45:00Z
-Group,E,3,Wed Oct 25 2023,21:00,CEST / UTC+0200,Celtic FC,2-2,2-1,Club Atlético de Madrid,,,2023-10-25T19:00:00Z
-Group,F,3,Wed Oct 25 2023,21:00,CEST / UTC+0200,Paris Saint-Germain FC,3-0,1-0,AC Milan,,,2023-10-25T19:00:00Z
-Group,F,3,Wed Oct 25 2023,21:00,CEST / UTC+0200,Newcastle United FC,0-1,0-1,Borussia Dortmund,,,2023-10-25T19:00:00Z
-Group,G,3,Wed Oct 25 2023,21:00,CEST / UTC+0200,BSC Young Boys,1-3,0-0,Manchester City FC,,,2023-10-25T19:00:00Z
-Group,G,3,Wed Oct 25 2023,21:00,CEST / UTC+0200,RB Leipzig,3-1,1-0,FK Crvena Zvezda,,,2023-10-25T19:00:00Z
-Group,H,3,Wed Oct 25 2023,21:00,CEST / UTC+0200,Royal Antwerp FC,1-4,1-0,FC Porto,,,2023-10-25T19:00:00Z
-Group,F,4,Tue Nov 7 2023,18:45,CET / UTC+0100,Borussia Dortmund,2-0,1-0,Newcastle United FC,,,2023-11-07T17:45:00Z
-Group,H,4,Tue Nov 7 2023,18:45,CET / UTC+0100,FK Shakhtar Donetsk,1-0,1-0,FC Barcelona,,,2023-11-07T17:45:00Z
-Group,E,4,Tue Nov 7 2023,21:00,CET / UTC+0100,Club Atlético de Madrid,6-0,2-0,Celtic FC,,,2023-11-07T20:00:00Z
-Group,E,4,Tue Nov 7 2023,21:00,CET / UTC+0100,SS Lazio,1-0,1-0,Feyenoord Rotterdam,,,2023-11-07T20:00:00Z
-Group,F,4,Tue Nov 7 2023,21:00,CET / UTC+0100,AC Milan,2-1,1-1,Paris Saint-Germain FC,,,2023-11-07T20:00:00Z
-Group,G,4,Tue Nov 7 2023,21:00,CET / UTC+0100,Manchester City FC,3-0,2-0,BSC Young Boys,,,2023-11-07T20:00:00Z
-Group,G,4,Tue Nov 7 2023,21:00,CET / UTC+0100,FK Crvena Zvezda,1-2,0-1,RB Leipzig,,,2023-11-07T20:00:00Z
-Group,H,4,Tue Nov 7 2023,21:00,CET / UTC+0100,FC Porto,2-0,1-0,Royal Antwerp FC,,,2023-11-07T20:00:00Z
-Group,C,4,Wed Nov 8 2023,18:45,CET / UTC+0100,SSC Napoli,1-1,1-0,1. FC Union Berlin,,,2023-11-08T17:45:00Z
-Group,D,4,Wed Nov 8 2023,18:45,CET / UTC+0100,Real Sociedad de Fútbol,3-1,3-0,Sport Lisboa e Benfica,,,2023-11-08T17:45:00Z
-Group,C,4,Wed Nov 8 2023,21:00,CET / UTC+0100,Real Madrid CF,3-0,1-0,Sporting Clube de Braga,,,2023-11-08T20:00:00Z
-Group,D,4,Wed Nov 8 2023,21:00,CET / UTC+0100,FC Red Bull Salzburg,0-1,0-0,FC Internazionale Milano,,,2023-11-08T20:00:00Z
-Group,A,4,Wed Nov 8 2023,21:00,CET / UTC+0100,FC Bayern München,2-1,0-0,Galatasaray SK,,,2023-11-08T20:00:00Z
-Group,A,4,Wed Nov 8 2023,21:00,CET / UTC+0100,FC København,4-3,2-2,Manchester United FC,,,2023-11-08T20:00:00Z
-Group,B,4,Wed Nov 8 2023,21:00,CET / UTC+0100,Arsenal FC,2-0,1-0,Sevilla FC,,,2023-11-08T20:00:00Z
-Group,B,4,Wed Nov 8 2023,21:00,CET / UTC+0100,PSV,1-0,1-0,Racing Club de Lens,,,2023-11-08T20:00:00Z
-Group,E,5,Tue Nov 28 2023,18:45,CET / UTC+0100,SS Lazio,2-0,0-0,Celtic FC,,,2023-11-28T17:45:00Z
-Group,H,5,Tue Nov 28 2023,18:45,CET / UTC+0100,FK Shakhtar Donetsk,1-0,1-0,Royal Antwerp FC,,,2023-11-28T17:45:00Z
-Group,E,5,Tue Nov 28 2023,21:00,CET / UTC+0100,Feyenoord Rotterdam,1-3,0-1,Club Atlético de Madrid,,,2023-11-28T20:00:00Z
-Group,F,5,Tue Nov 28 2023,21:00,CET / UTC+0100,AC Milan,1-3,1-1,Borussia Dortmund,,,2023-11-28T20:00:00Z
-Group,F,5,Tue Nov 28 2023,21:00,CET / UTC+0100,Paris Saint-Germain FC,1-1,0-1,Newcastle United FC,,,2023-11-28T20:00:00Z
-Group,G,5,Tue Nov 28 2023,21:00,CET / UTC+0100,BSC Young Boys,2-0,2-0,FK Crvena Zvezda,,,2023-11-28T20:00:00Z
-Group,G,5,Tue Nov 28 2023,21:00,CET / UTC+0100,Manchester City FC,3-2,0-2,RB Leipzig,,,2023-11-28T20:00:00Z
-Group,H,5,Tue Nov 28 2023,21:00,CET / UTC+0100,FC Barcelona,2-1,1-1,FC Porto,,,2023-11-28T20:00:00Z
-Group,A,5,Wed Nov 29 2023,18:45,CET / UTC+0100,Galatasaray SK,3-3,1-2,Manchester United FC,,,2023-11-29T17:45:00Z
-Group,B,5,Wed Nov 29 2023,18:45,CET / UTC+0100,Sevilla FC,2-3,1-0,PSV,,,2023-11-29T17:45:00Z
-Group,C,5,Wed Nov 29 2023,21:00,CET / UTC+0100,Sporting Clube de Braga,1-1,0-1,1. FC Union Berlin,,,2023-11-29T20:00:00Z
-Group,C,5,Wed Nov 29 2023,21:00,CET / UTC+0100,Real Madrid CF,4-2,2-1,SSC Napoli,,,2023-11-29T20:00:00Z
-Group,D,5,Wed Nov 29 2023,21:00,CET / UTC+0100,Sport Lisboa e Benfica,3-3,3-0,FC Internazionale Milano,,,2023-11-29T20:00:00Z
-Group,D,5,Wed Nov 29 2023,21:00,CET / UTC+0100,Real Sociedad de Fútbol,0-0,0-0,FC Red Bull Salzburg,,,2023-11-29T20:00:00Z
-Group,A,5,Wed Nov 29 2023,21:00,CET / UTC+0100,FC Bayern München,0-0,0-0,FC København,,,2023-11-29T20:00:00Z
-Group,B,5,Wed Nov 29 2023,21:00,CET / UTC+0100,Arsenal FC,6-0,5-0,Racing Club de Lens,,,2023-11-29T20:00:00Z
-Group,B,6,Tue Dec 12 2023,18:45,CET / UTC+0100,PSV,1-1,0-1,Arsenal FC,,,2023-12-12T17:45:00Z
-Group,B,6,Tue Dec 12 2023,18:45,CET / UTC+0100,Racing Club de Lens,2-1,0-0,Sevilla FC,,,2023-12-12T17:45:00Z
-Group,C,6,Tue Dec 12 2023,21:00,CET / UTC+0100,1. FC Union Berlin,2-3,1-0,Real Madrid CF,,,2023-12-12T20:00:00Z
-Group,C,6,Tue Dec 12 2023,21:00,CET / UTC+0100,SSC Napoli,2-0,2-0,Sporting Clube de Braga,,,2023-12-12T20:00:00Z
-Group,D,6,Tue Dec 12 2023,21:00,CET / UTC+0100,FC Internazionale Milano,0-0,0-0,Real Sociedad de Fútbol,,,2023-12-12T20:00:00Z
-Group,D,6,Tue Dec 12 2023,21:00,CET / UTC+0100,FC Red Bull Salzburg,1-3,0-2,Sport Lisboa e Benfica,,,2023-12-12T20:00:00Z
-Group,A,6,Tue Dec 12 2023,21:00,CET / UTC+0100,Manchester United FC,0-1,0-0,FC Bayern München,,,2023-12-12T20:00:00Z
-Group,A,6,Tue Dec 12 2023,21:00,CET / UTC+0100,FC København,1-0,0-0,Galatasaray SK,,,2023-12-12T20:00:00Z
-Group,G,6,Wed Dec 13 2023,18:45,CET / UTC+0100,RB Leipzig,2-1,0-0,BSC Young Boys,,,2023-12-13T17:45:00Z
-Group,G,6,Wed Dec 13 2023,18:45,CET / UTC+0100,FK Crvena Zvezda,2-3,0-1,Manchester City FC,,,2023-12-13T17:45:00Z
-Group,E,6,Wed Dec 13 2023,21:00,CET / UTC+0100,Club Atlético de Madrid,2-0,1-0,SS Lazio,,,2023-12-13T20:00:00Z
-Group,E,6,Wed Dec 13 2023,21:00,CET / UTC+0100,Celtic FC,2-1,1-0,Feyenoord Rotterdam,,,2023-12-13T20:00:00Z
-Group,F,6,Wed Dec 13 2023,21:00,CET / UTC+0100,Newcastle United FC,1-2,1-0,AC Milan,,,2023-12-13T20:00:00Z
-Group,F,6,Wed Dec 13 2023,21:00,CET / UTC+0100,Borussia Dortmund,1-1,0-0,Paris Saint-Germain FC,,,2023-12-13T20:00:00Z
-Group,H,6,Wed Dec 13 2023,21:00,CET / UTC+0100,Royal Antwerp FC,3-2,1-1,FC Barcelona,,,2023-12-13T20:00:00Z
-Group,H,6,Wed Dec 13 2023,21:00,CET / UTC+0100,FC Porto,5-3,2-1,FK Shakhtar Donetsk,,,2023-12-13T20:00:00Z
-Knockout,,Last 16 | Leg 1,Tue Feb 13 2024,21:00,CET / UTC+0100,FC København,1-3,1-2,Manchester City FC,,,2024-02-13T20:00:00Z
-Knockout,,Last 16 | Leg 1,Tue Feb 13 2024,21:00,CET / UTC+0100,RB Leipzig,0-1,0-0,Real Madrid CF,,,2024-02-13T20:00:00Z
-Knockout,,Last 16 | Leg 1,Wed Feb 14 2024,21:00,CET / UTC+0100,Paris Saint-Germain FC,2-0,0-0,Real Sociedad de Fútbol,,,2024-02-14T20:00:00Z
-Knockout,,Last 16 | Leg 1,Wed Feb 14 2024,21:00,CET / UTC+0100,SS Lazio,1-0,0-0,FC Bayern München,,,2024-02-14T20:00:00Z
-Knockout,,Last 16 | Leg 1,Tue Feb 20 2024,21:00,CET / UTC+0100,FC Internazionale Milano,1-0,0-0,Club Atlético de Madrid,,,2024-02-20T20:00:00Z
-Knockout,,Last 16 | Leg 1,Tue Feb 20 2024,21:00,CET / UTC+0100,PSV,1-1,0-1,Borussia Dortmund,,,2024-02-20T20:00:00Z
-Knockout,,Last 16 | Leg 1,Wed Feb 21 2024,21:00,CET / UTC+0100,FC Porto,1-0,0-0,Arsenal FC,,,2024-02-21T20:00:00Z
-Knockout,,Last 16 | Leg 1,Wed Feb 21 2024,21:00,CET / UTC+0100,SSC Napoli,1-1,0-0,FC Barcelona,,,2024-02-21T20:00:00Z
-Knockout,,Last 16 | Leg 2,Tue Mar 5 2024,21:00,CET / UTC+0100,Real Sociedad de Fútbol,1-2,0-1,Paris Saint-Germain FC,,,2024-03-05T20:00:00Z
-Knockout,,Last 16 | Leg 2,Tue Mar 5 2024,21:00,CET / UTC+0100,FC Bayern München,3-0,2-0,SS Lazio,,,2024-03-05T20:00:00Z
-Knockout,,Last 16 | Leg 2,Wed Mar 6 2024,21:00,CET / UTC+0100,Manchester City FC,3-1,3-1,FC København,,,2024-03-06T20:00:00Z
-Knockout,,Last 16 | Leg 2,Wed Mar 6 2024,21:00,CET / UTC+0100,Real Madrid CF,1-1,0-0,RB Leipzig,,,2024-03-06T20:00:00Z
-Knockout,,Last 16 | Leg 2,Tue Mar 12 2024,21:00,CET / UTC+0100,Arsenal FC,1-0,1-0,FC Porto,1-0,4-2,2024-03-12T20:00:00Z
-Knockout,,Last 16 | Leg 2,Tue Mar 12 2024,21:00,CET / UTC+0100,FC Barcelona,3-1,2-1,SSC Napoli,,,2024-03-12T20:00:00Z
-Knockout,,Last 16 | Leg 2,Wed Mar 13 2024,21:00,CET / UTC+0100,Club Atlético de Madrid,2-1,1-1,FC Internazionale Milano,2-1,3-2,2024-03-13T20:00:00Z
-Knockout,,Last 16 | Leg 2,Wed Mar 13 2024,21:00,CET / UTC+0100,Borussia Dortmund,2-0,1-0,PSV,,,2024-03-13T20:00:00Z
-Knockout,,Quarterfinals | Leg 1,Tue Apr 9 2024,21:00,CEST / UTC+0200,Arsenal FC,2-2,1-2,FC Bayern München,,,2024-04-09T19:00:00Z
-Knockout,,Quarterfinals | Leg 1,Tue Apr 9 2024,21:00,CEST / UTC+0200,Real Madrid CF,3-3,2-1,Manchester City FC,,,2024-04-09T19:00:00Z
-Knockout,,Quarterfinals | Leg 1,Wed Apr 10 2024,21:00,CEST / UTC+0200,Club Atlético de Madrid,2-1,2-0,Borussia Dortmund,,,2024-04-10T19:00:00Z
-Knockout,,Quarterfinals | Leg 1,Wed Apr 10 2024,21:00,CEST / UTC+0200,Paris Saint-Germain FC,2-3,0-1,FC Barcelona,,,2024-04-10T19:00:00Z
-Knockout,,Quarterfinals | Leg 2,Tue Apr 16 2024,21:00,CEST / UTC+0200,Borussia Dortmund,4-2,2-0,Club Atlético de Madrid,,,2024-04-16T19:00:00Z
-Knockout,,Quarterfinals | Leg 2,Tue Apr 16 2024,21:00,CEST / UTC+0200,FC Barcelona,1-4,1-1,Paris Saint-Germain FC,,,2024-04-16T19:00:00Z
-Knockout,,Quarterfinals | Leg 2,Wed Apr 17 2024,21:00,CEST / UTC+0200,FC Bayern München,1-0,0-0,Arsenal FC,,,2024-04-17T19:00:00Z
-Knockout,,Quarterfinals | Leg 2,Wed Apr 17 2024,21:00,CEST / UTC+0200,Manchester City FC,1-1,0-1,Real Madrid CF,1-1,3-4,2024-04-17T19:00:00Z
-Knockout,,Semifinals | Leg 1,Tue Apr 30 2024,21:00,CEST / UTC+0200,FC Bayern München,2-2,0-1,Real Madrid CF,,,2024-04-30T19:00:00Z
-Knockout,,Semifinals | Leg 1,Wed May 1 2024,21:00,CEST / UTC+0200,Borussia Dortmund,1-0,1-0,Paris Saint-Germain FC,,,2024-05-01T19:00:00Z
-Knockout,,Semifinals | Leg 2,Tue May 7 2024,21:00,CEST / UTC+0200,Paris Saint-Germain FC,0-1,0-0,Borussia Dortmund,,,2024-05-07T19:00:00Z
-Knockout,,Semifinals | Leg 2,Wed May 8 2024,21:00,CEST / UTC+0200,Real Madrid CF,2-1,0-0,FC Bayern München,,,2024-05-08T19:00:00Z
-Knockout,,Final,Sat Jun 1 2024,21:00,CEST / UTC+0200,Borussia Dortmund,0-2,0-0,Real Madrid CF,,,2024-06-01T19:00:00Z
+Group,F,1,Tue Sep 19 2023,18:45,CEST/+0200,AC Milan,0-0,0-0,Newcastle United FC,,,2023-09-19T16:45:00Z
+Group,G,1,Tue Sep 19 2023,18:45,CEST/+0200,BSC Young Boys,1-3,1-1,RB Leipzig,,,2023-09-19T16:45:00Z
+Group,E,1,Tue Sep 19 2023,21:00,CEST/+0200,SS Lazio,1-1,0-1,Club Atlético de Madrid,,,2023-09-19T19:00:00Z
+Group,E,1,Tue Sep 19 2023,21:00,CEST/+0200,Feyenoord Rotterdam,2-0,1-0,Celtic FC,,,2023-09-19T19:00:00Z
+Group,F,1,Tue Sep 19 2023,21:00,CEST/+0200,Paris Saint-Germain FC,2-0,0-0,Borussia Dortmund,,,2023-09-19T19:00:00Z
+Group,G,1,Tue Sep 19 2023,21:00,CEST/+0200,Manchester City FC,3-1,0-1,FK Crvena Zvezda,,,2023-09-19T19:00:00Z
+Group,H,1,Tue Sep 19 2023,21:00,CEST/+0200,FC Barcelona,5-0,3-0,Royal Antwerp FC,,,2023-09-19T19:00:00Z
+Group,H,1,Tue Sep 19 2023,21:00,CEST/+0200,FK Shakhtar Donetsk,1-3,1-3,FC Porto,,,2023-09-19T19:00:00Z
+Group,C,1,Wed Sep 20 2023,18:45,CEST/+0200,Real Madrid CF,1-0,0-0,1. FC Union Berlin,,,2023-09-20T16:45:00Z
+Group,A,1,Wed Sep 20 2023,18:45,CEST/+0200,Galatasaray SK,2-2,0-1,FC København,,,2023-09-20T16:45:00Z
+Group,B,1,Wed Sep 20 2023,21:00,CEST/+0200,Sevilla FC,1-1,1-1,Racing Club de Lens,,,2023-09-20T19:00:00Z
+Group,C,1,Wed Sep 20 2023,21:00,CEST/+0200,Sporting Clube de Braga,1-2,0-1,SSC Napoli,,,2023-09-20T19:00:00Z
+Group,D,1,Wed Sep 20 2023,21:00,CEST/+0200,Real Sociedad de Fútbol,1-1,1-0,FC Internazionale Milano,,,2023-09-20T19:00:00Z
+Group,D,1,Wed Sep 20 2023,21:00,CEST/+0200,Sport Lisboa e Benfica,0-2,0-1,FC Red Bull Salzburg,,,2023-09-20T19:00:00Z
+Group,A,1,Wed Sep 20 2023,21:00,CEST/+0200,FC Bayern München,4-3,2-0,Manchester United FC,,,2023-09-20T19:00:00Z
+Group,B,1,Wed Sep 20 2023,21:00,CEST/+0200,Arsenal FC,4-0,3-0,PSV,,,2023-09-20T19:00:00Z
+Group,C,2,Tue Oct 3 2023,18:45,CEST/+0200,1. FC Union Berlin,2-3,2-1,Sporting Clube de Braga,,,2023-10-03T16:45:00Z
+Group,D,2,Tue Oct 3 2023,18:45,CEST/+0200,FC Red Bull Salzburg,0-2,0-2,Real Sociedad de Fútbol,,,2023-10-03T16:45:00Z
+Group,C,2,Tue Oct 3 2023,21:00,CEST/+0200,SSC Napoli,2-3,1-2,Real Madrid CF,,,2023-10-03T19:00:00Z
+Group,D,2,Tue Oct 3 2023,21:00,CEST/+0200,FC Internazionale Milano,1-0,0-0,Sport Lisboa e Benfica,,,2023-10-03T19:00:00Z
+Group,A,2,Tue Oct 3 2023,21:00,CEST/+0200,FC København,1-2,0-0,FC Bayern München,,,2023-10-03T19:00:00Z
+Group,A,2,Tue Oct 3 2023,21:00,CEST/+0200,Manchester United FC,2-3,1-1,Galatasaray SK,,,2023-10-03T19:00:00Z
+Group,B,2,Tue Oct 3 2023,21:00,CEST/+0200,Racing Club de Lens,2-1,1-1,Arsenal FC,,,2023-10-03T19:00:00Z
+Group,B,2,Tue Oct 3 2023,21:00,CEST/+0200,PSV,2-2,0-0,Sevilla FC,,,2023-10-03T19:00:00Z
+Group,E,2,Wed Oct 4 2023,18:45,CEST/+0200,Club Atlético de Madrid,3-2,2-2,Feyenoord Rotterdam,,,2023-10-04T16:45:00Z
+Group,H,2,Wed Oct 4 2023,18:45,CEST/+0200,Royal Antwerp FC,2-3,2-0,FK Shakhtar Donetsk,,,2023-10-04T16:45:00Z
+Group,E,2,Wed Oct 4 2023,21:00,CEST/+0200,Celtic FC,1-2,1-1,SS Lazio,,,2023-10-04T19:00:00Z
+Group,F,2,Wed Oct 4 2023,21:00,CEST/+0200,Borussia Dortmund,0-0,0-0,AC Milan,,,2023-10-04T19:00:00Z
+Group,F,2,Wed Oct 4 2023,21:00,CEST/+0200,Newcastle United FC,4-1,2-0,Paris Saint-Germain FC,,,2023-10-04T19:00:00Z
+Group,G,2,Wed Oct 4 2023,21:00,CEST/+0200,FK Crvena Zvezda,2-2,1-0,BSC Young Boys,,,2023-10-04T19:00:00Z
+Group,G,2,Wed Oct 4 2023,21:00,CEST/+0200,RB Leipzig,1-3,0-1,Manchester City FC,,,2023-10-04T19:00:00Z
+Group,H,2,Wed Oct 4 2023,21:00,CEST/+0200,FC Porto,0-1,0-1,FC Barcelona,,,2023-10-04T19:00:00Z
+Group,D,3,Tue Oct 24 2023,18:45,CEST/+0200,FC Internazionale Milano,2-1,1-0,FC Red Bull Salzburg,,,2023-10-24T16:45:00Z
+Group,A,3,Tue Oct 24 2023,18:45,CEST/+0200,Galatasaray SK,1-3,1-1,FC Bayern München,,,2023-10-24T16:45:00Z
+Group,C,3,Tue Oct 24 2023,21:00,CEST/+0200,1. FC Union Berlin,0-1,0-0,SSC Napoli,,,2023-10-24T19:00:00Z
+Group,C,3,Tue Oct 24 2023,21:00,CEST/+0200,Sporting Clube de Braga,1-2,0-1,Real Madrid CF,,,2023-10-24T19:00:00Z
+Group,D,3,Tue Oct 24 2023,21:00,CEST/+0200,Sport Lisboa e Benfica,0-1,0-0,Real Sociedad de Fútbol,,,2023-10-24T19:00:00Z
+Group,A,3,Tue Oct 24 2023,21:00,CEST/+0200,Manchester United FC,1-0,0-0,FC København,,,2023-10-24T19:00:00Z
+Group,B,3,Tue Oct 24 2023,21:00,CEST/+0200,Sevilla FC,1-2,0-1,Arsenal FC,,,2023-10-24T19:00:00Z
+Group,B,3,Tue Oct 24 2023,21:00,CEST/+0200,Racing Club de Lens,1-1,0-0,PSV,,,2023-10-24T19:00:00Z
+Group,E,3,Wed Oct 25 2023,18:45,CEST/+0200,Feyenoord Rotterdam,3-1,2-0,SS Lazio,,,2023-10-25T16:45:00Z
+Group,H,3,Wed Oct 25 2023,18:45,CEST/+0200,FC Barcelona,2-1,2-0,FK Shakhtar Donetsk,,,2023-10-25T16:45:00Z
+Group,E,3,Wed Oct 25 2023,21:00,CEST/+0200,Celtic FC,2-2,2-1,Club Atlético de Madrid,,,2023-10-25T19:00:00Z
+Group,F,3,Wed Oct 25 2023,21:00,CEST/+0200,Paris Saint-Germain FC,3-0,1-0,AC Milan,,,2023-10-25T19:00:00Z
+Group,F,3,Wed Oct 25 2023,21:00,CEST/+0200,Newcastle United FC,0-1,0-1,Borussia Dortmund,,,2023-10-25T19:00:00Z
+Group,G,3,Wed Oct 25 2023,21:00,CEST/+0200,BSC Young Boys,1-3,0-0,Manchester City FC,,,2023-10-25T19:00:00Z
+Group,G,3,Wed Oct 25 2023,21:00,CEST/+0200,RB Leipzig,3-1,1-0,FK Crvena Zvezda,,,2023-10-25T19:00:00Z
+Group,H,3,Wed Oct 25 2023,21:00,CEST/+0200,Royal Antwerp FC,1-4,1-0,FC Porto,,,2023-10-25T19:00:00Z
+Group,F,4,Tue Nov 7 2023,18:45,CET/+0100,Borussia Dortmund,2-0,1-0,Newcastle United FC,,,2023-11-07T17:45:00Z
+Group,H,4,Tue Nov 7 2023,18:45,CET/+0100,FK Shakhtar Donetsk,1-0,1-0,FC Barcelona,,,2023-11-07T17:45:00Z
+Group,E,4,Tue Nov 7 2023,21:00,CET/+0100,Club Atlético de Madrid,6-0,2-0,Celtic FC,,,2023-11-07T20:00:00Z
+Group,E,4,Tue Nov 7 2023,21:00,CET/+0100,SS Lazio,1-0,1-0,Feyenoord Rotterdam,,,2023-11-07T20:00:00Z
+Group,F,4,Tue Nov 7 2023,21:00,CET/+0100,AC Milan,2-1,1-1,Paris Saint-Germain FC,,,2023-11-07T20:00:00Z
+Group,G,4,Tue Nov 7 2023,21:00,CET/+0100,Manchester City FC,3-0,2-0,BSC Young Boys,,,2023-11-07T20:00:00Z
+Group,G,4,Tue Nov 7 2023,21:00,CET/+0100,FK Crvena Zvezda,1-2,0-1,RB Leipzig,,,2023-11-07T20:00:00Z
+Group,H,4,Tue Nov 7 2023,21:00,CET/+0100,FC Porto,2-0,1-0,Royal Antwerp FC,,,2023-11-07T20:00:00Z
+Group,C,4,Wed Nov 8 2023,18:45,CET/+0100,SSC Napoli,1-1,1-0,1. FC Union Berlin,,,2023-11-08T17:45:00Z
+Group,D,4,Wed Nov 8 2023,18:45,CET/+0100,Real Sociedad de Fútbol,3-1,3-0,Sport Lisboa e Benfica,,,2023-11-08T17:45:00Z
+Group,C,4,Wed Nov 8 2023,21:00,CET/+0100,Real Madrid CF,3-0,1-0,Sporting Clube de Braga,,,2023-11-08T20:00:00Z
+Group,D,4,Wed Nov 8 2023,21:00,CET/+0100,FC Red Bull Salzburg,0-1,0-0,FC Internazionale Milano,,,2023-11-08T20:00:00Z
+Group,A,4,Wed Nov 8 2023,21:00,CET/+0100,FC Bayern München,2-1,0-0,Galatasaray SK,,,2023-11-08T20:00:00Z
+Group,A,4,Wed Nov 8 2023,21:00,CET/+0100,FC København,4-3,2-2,Manchester United FC,,,2023-11-08T20:00:00Z
+Group,B,4,Wed Nov 8 2023,21:00,CET/+0100,Arsenal FC,2-0,1-0,Sevilla FC,,,2023-11-08T20:00:00Z
+Group,B,4,Wed Nov 8 2023,21:00,CET/+0100,PSV,1-0,1-0,Racing Club de Lens,,,2023-11-08T20:00:00Z
+Group,E,5,Tue Nov 28 2023,18:45,CET/+0100,SS Lazio,2-0,0-0,Celtic FC,,,2023-11-28T17:45:00Z
+Group,H,5,Tue Nov 28 2023,18:45,CET/+0100,FK Shakhtar Donetsk,1-0,1-0,Royal Antwerp FC,,,2023-11-28T17:45:00Z
+Group,E,5,Tue Nov 28 2023,21:00,CET/+0100,Feyenoord Rotterdam,1-3,0-1,Club Atlético de Madrid,,,2023-11-28T20:00:00Z
+Group,F,5,Tue Nov 28 2023,21:00,CET/+0100,AC Milan,1-3,1-1,Borussia Dortmund,,,2023-11-28T20:00:00Z
+Group,F,5,Tue Nov 28 2023,21:00,CET/+0100,Paris Saint-Germain FC,1-1,0-1,Newcastle United FC,,,2023-11-28T20:00:00Z
+Group,G,5,Tue Nov 28 2023,21:00,CET/+0100,BSC Young Boys,2-0,2-0,FK Crvena Zvezda,,,2023-11-28T20:00:00Z
+Group,G,5,Tue Nov 28 2023,21:00,CET/+0100,Manchester City FC,3-2,0-2,RB Leipzig,,,2023-11-28T20:00:00Z
+Group,H,5,Tue Nov 28 2023,21:00,CET/+0100,FC Barcelona,2-1,1-1,FC Porto,,,2023-11-28T20:00:00Z
+Group,A,5,Wed Nov 29 2023,18:45,CET/+0100,Galatasaray SK,3-3,1-2,Manchester United FC,,,2023-11-29T17:45:00Z
+Group,B,5,Wed Nov 29 2023,18:45,CET/+0100,Sevilla FC,2-3,1-0,PSV,,,2023-11-29T17:45:00Z
+Group,C,5,Wed Nov 29 2023,21:00,CET/+0100,Sporting Clube de Braga,1-1,0-1,1. FC Union Berlin,,,2023-11-29T20:00:00Z
+Group,C,5,Wed Nov 29 2023,21:00,CET/+0100,Real Madrid CF,4-2,2-1,SSC Napoli,,,2023-11-29T20:00:00Z
+Group,D,5,Wed Nov 29 2023,21:00,CET/+0100,Sport Lisboa e Benfica,3-3,3-0,FC Internazionale Milano,,,2023-11-29T20:00:00Z
+Group,D,5,Wed Nov 29 2023,21:00,CET/+0100,Real Sociedad de Fútbol,0-0,0-0,FC Red Bull Salzburg,,,2023-11-29T20:00:00Z
+Group,A,5,Wed Nov 29 2023,21:00,CET/+0100,FC Bayern München,0-0,0-0,FC København,,,2023-11-29T20:00:00Z
+Group,B,5,Wed Nov 29 2023,21:00,CET/+0100,Arsenal FC,6-0,5-0,Racing Club de Lens,,,2023-11-29T20:00:00Z
+Group,B,6,Tue Dec 12 2023,18:45,CET/+0100,PSV,1-1,0-1,Arsenal FC,,,2023-12-12T17:45:00Z
+Group,B,6,Tue Dec 12 2023,18:45,CET/+0100,Racing Club de Lens,2-1,0-0,Sevilla FC,,,2023-12-12T17:45:00Z
+Group,C,6,Tue Dec 12 2023,21:00,CET/+0100,1. FC Union Berlin,2-3,1-0,Real Madrid CF,,,2023-12-12T20:00:00Z
+Group,C,6,Tue Dec 12 2023,21:00,CET/+0100,SSC Napoli,2-0,2-0,Sporting Clube de Braga,,,2023-12-12T20:00:00Z
+Group,D,6,Tue Dec 12 2023,21:00,CET/+0100,FC Internazionale Milano,0-0,0-0,Real Sociedad de Fútbol,,,2023-12-12T20:00:00Z
+Group,D,6,Tue Dec 12 2023,21:00,CET/+0100,FC Red Bull Salzburg,1-3,0-2,Sport Lisboa e Benfica,,,2023-12-12T20:00:00Z
+Group,A,6,Tue Dec 12 2023,21:00,CET/+0100,Manchester United FC,0-1,0-0,FC Bayern München,,,2023-12-12T20:00:00Z
+Group,A,6,Tue Dec 12 2023,21:00,CET/+0100,FC København,1-0,0-0,Galatasaray SK,,,2023-12-12T20:00:00Z
+Group,G,6,Wed Dec 13 2023,18:45,CET/+0100,RB Leipzig,2-1,0-0,BSC Young Boys,,,2023-12-13T17:45:00Z
+Group,G,6,Wed Dec 13 2023,18:45,CET/+0100,FK Crvena Zvezda,2-3,0-1,Manchester City FC,,,2023-12-13T17:45:00Z
+Group,E,6,Wed Dec 13 2023,21:00,CET/+0100,Club Atlético de Madrid,2-0,1-0,SS Lazio,,,2023-12-13T20:00:00Z
+Group,E,6,Wed Dec 13 2023,21:00,CET/+0100,Celtic FC,2-1,1-0,Feyenoord Rotterdam,,,2023-12-13T20:00:00Z
+Group,F,6,Wed Dec 13 2023,21:00,CET/+0100,Newcastle United FC,1-2,1-0,AC Milan,,,2023-12-13T20:00:00Z
+Group,F,6,Wed Dec 13 2023,21:00,CET/+0100,Borussia Dortmund,1-1,0-0,Paris Saint-Germain FC,,,2023-12-13T20:00:00Z
+Group,H,6,Wed Dec 13 2023,21:00,CET/+0100,Royal Antwerp FC,3-2,1-1,FC Barcelona,,,2023-12-13T20:00:00Z
+Group,H,6,Wed Dec 13 2023,21:00,CET/+0100,FC Porto,5-3,2-1,FK Shakhtar Donetsk,,,2023-12-13T20:00:00Z
+Finals,,Round of 16,Tue Feb 13 2024,21:00,CET/+0100,FC København,1-3,1-2,Manchester City FC,,,2024-02-13T20:00:00Z
+Finals,,Round of 16,Tue Feb 13 2024,21:00,CET/+0100,RB Leipzig,0-1,0-0,Real Madrid CF,,,2024-02-13T20:00:00Z
+Finals,,Round of 16,Wed Feb 14 2024,21:00,CET/+0100,Paris Saint-Germain FC,2-0,0-0,Real Sociedad de Fútbol,,,2024-02-14T20:00:00Z
+Finals,,Round of 16,Wed Feb 14 2024,21:00,CET/+0100,SS Lazio,1-0,0-0,FC Bayern München,,,2024-02-14T20:00:00Z
+Finals,,Round of 16,Tue Feb 20 2024,21:00,CET/+0100,FC Internazionale Milano,1-0,0-0,Club Atlético de Madrid,,,2024-02-20T20:00:00Z
+Finals,,Round of 16,Tue Feb 20 2024,21:00,CET/+0100,PSV,1-1,0-1,Borussia Dortmund,,,2024-02-20T20:00:00Z
+Finals,,Round of 16,Wed Feb 21 2024,21:00,CET/+0100,FC Porto,1-0,0-0,Arsenal FC,,,2024-02-21T20:00:00Z
+Finals,,Round of 16,Wed Feb 21 2024,21:00,CET/+0100,SSC Napoli,1-1,0-0,FC Barcelona,,,2024-02-21T20:00:00Z
+Finals,,Round of 16,Tue Mar 5 2024,21:00,CET/+0100,Real Sociedad de Fútbol,1-2,0-1,Paris Saint-Germain FC,,,2024-03-05T20:00:00Z
+Finals,,Round of 16,Tue Mar 5 2024,21:00,CET/+0100,FC Bayern München,3-0,2-0,SS Lazio,,,2024-03-05T20:00:00Z
+Finals,,Round of 16,Wed Mar 6 2024,21:00,CET/+0100,Manchester City FC,3-1,3-1,FC København,,,2024-03-06T20:00:00Z
+Finals,,Round of 16,Wed Mar 6 2024,21:00,CET/+0100,Real Madrid CF,1-1,0-0,RB Leipzig,,,2024-03-06T20:00:00Z
+Finals,,Round of 16,Tue Mar 12 2024,21:00,CET/+0100,Arsenal FC,1-0,1-0,FC Porto,1-0,4-2,2024-03-12T20:00:00Z
+Finals,,Round of 16,Tue Mar 12 2024,21:00,CET/+0100,FC Barcelona,3-1,2-1,SSC Napoli,,,2024-03-12T20:00:00Z
+Finals,,Round of 16,Wed Mar 13 2024,21:00,CET/+0100,Club Atlético de Madrid,2-1,1-1,FC Internazionale Milano,2-1,3-2,2024-03-13T20:00:00Z
+Finals,,Round of 16,Wed Mar 13 2024,21:00,CET/+0100,Borussia Dortmund,2-0,1-0,PSV,,,2024-03-13T20:00:00Z
+Finals,,Quarterfinals,Tue Apr 9 2024,21:00,CEST/+0200,Arsenal FC,2-2,1-2,FC Bayern München,,,2024-04-09T19:00:00Z
+Finals,,Quarterfinals,Tue Apr 9 2024,21:00,CEST/+0200,Real Madrid CF,3-3,2-1,Manchester City FC,,,2024-04-09T19:00:00Z
+Finals,,Quarterfinals,Wed Apr 10 2024,21:00,CEST/+0200,Club Atlético de Madrid,2-1,2-0,Borussia Dortmund,,,2024-04-10T19:00:00Z
+Finals,,Quarterfinals,Wed Apr 10 2024,21:00,CEST/+0200,Paris Saint-Germain FC,2-3,0-1,FC Barcelona,,,2024-04-10T19:00:00Z
+Finals,,Quarterfinals,Tue Apr 16 2024,21:00,CEST/+0200,Borussia Dortmund,4-2,2-0,Club Atlético de Madrid,,,2024-04-16T19:00:00Z
+Finals,,Quarterfinals,Tue Apr 16 2024,21:00,CEST/+0200,FC Barcelona,1-4,1-1,Paris Saint-Germain FC,,,2024-04-16T19:00:00Z
+Finals,,Quarterfinals,Wed Apr 17 2024,21:00,CEST/+0200,FC Bayern München,1-0,0-0,Arsenal FC,,,2024-04-17T19:00:00Z
+Finals,,Quarterfinals,Wed Apr 17 2024,21:00,CEST/+0200,Manchester City FC,1-1,0-1,Real Madrid CF,1-1,3-4,2024-04-17T19:00:00Z
+Finals,,Semifinals,Tue Apr 30 2024,21:00,CEST/+0200,FC Bayern München,2-2,0-1,Real Madrid CF,,,2024-04-30T19:00:00Z
+Finals,,Semifinals,Wed May 1 2024,21:00,CEST/+0200,Borussia Dortmund,1-0,1-0,Paris Saint-Germain FC,,,2024-05-01T19:00:00Z
+Finals,,Semifinals,Tue May 7 2024,21:00,CEST/+0200,Paris Saint-Germain FC,0-1,0-0,Borussia Dortmund,,,2024-05-07T19:00:00Z
+Finals,,Semifinals,Wed May 8 2024,21:00,CEST/+0200,Real Madrid CF,2-1,0-0,FC Bayern München,,,2024-05-08T19:00:00Z
+Finals,,Final,Sat Jun 1 2024,21:00,CEST/+0200,Borussia Dortmund,0-2,0-0,Real Madrid CF,,,2024-06-01T19:00:00Z
